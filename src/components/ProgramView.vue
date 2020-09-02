@@ -1,5 +1,5 @@
 <template>
-  <div class="program-view">
+  <div class="program-view" data-nav-id="Programm">
     <div class="program-description" v-html="content.description"></div>
     <div class="program-application">
       <div class="tab-bar">

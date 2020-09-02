@@ -1,5 +1,5 @@
 <template>
-  <div class="contributing-view">
+  <div class="contributing-view" data-nav-id="Mitmachen">
     <h2>How to: Mitmachen</h2>
     <div class="contribute-list">
       <ul>

@@ -1,5 +1,5 @@
 <template>
-  <div class="contact-view">
+  <div class="contact-view" data-nav-id="Kontakt">
 
   </div>
 </template>
@@ -9,11 +9,13 @@
 </style>
 
 <script>
+
+
   export default {
     name: 'Contact',
     data() {
       return {
-        
+
       }
     }
   }

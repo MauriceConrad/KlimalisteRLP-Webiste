@@ -1,5 +1,5 @@
 <template>
-  <div class="candidates-preview" ref="mainContainer" :style="{ 'background-color': background }">
+  <div class="candidates-preview" ref="mainContainer" :style="{ 'background-color': background }" data-nav-id="Liste">
     <h2>Eine Liste für unsere Zukunft.</h2>
     <div class="intro-container">
       <div class="intro-text" v-html="content.intro"></div>

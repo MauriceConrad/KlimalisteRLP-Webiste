@@ -1,5 +1,5 @@
 <template>
-  <div class="support-tutorial">
+  <div class="support-tutorial" data-nav-id="Unterschreiben">
     <h2>Wir brauchen deine Unterschrift!</h2>
     <div class="step-description">
       {{ activeStep.description }}
@@ -100,19 +100,19 @@
     z-index: 2;
   }
   .swiper-slide .slide-inner {
-
     width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-
+    height: 400px;
+    box-sizing: border-box;
   }
   .swiper-slide .slide-inner .slide-graphic {
     flex: 1;
-    padding: 10px 0;
+    box-sizing: border-box;
+    height: calc(100% - 0px);
+    position: relative;
+    top: 30px;
   }
   .swiper-slide .slide-inner .slide-graphic > img {
-    height: 400px;
+    height: 100%;
     max-width: calc(100% - 50px);
     margin: auto;
     display: block;
@@ -126,7 +126,7 @@
   .swiper-button-next,
   .swiper-button-prev {
 
-      right:10px;
+      right: 10px;
       padding: 30px;
       color: #555 !important;
       fill: black !important;
@@ -138,6 +138,7 @@
     top: 0;
     width: 100%;
     height: 100%;
+    height: calc(100% - 50px);
   }
 
   .bg-graphic svg {
@@ -198,7 +199,7 @@
             src: 'images/tutorial/print.svg',
             description: "Schritt 1: Untersschriften-Formular ausdrucken",
             color: 'rgb(110, 187, 187)',
-            scale: 1
+            scale: 0.9
 
           },
           {
@@ -212,7 +213,7 @@
             src: 'images/tutorial/send.svg',
             description: "Schritt 3: Original + Unterschrift an uns schicken",
             color: 'rgb(187, 112, 112)',
-            scale: 0.95
+            scale: 1
           }
         ],
         ressources: [

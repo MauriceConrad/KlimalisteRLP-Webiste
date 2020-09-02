@@ -1,5 +1,5 @@
 <template>
-  <div class="general-description" :style="{ 'background-color': background }">
+  <div class="general-description" :style="{ 'background-color': background }" data-nav-id="Motivation">
     <div class="inner" v-html="content.about"></div>
   </div>
 </template>

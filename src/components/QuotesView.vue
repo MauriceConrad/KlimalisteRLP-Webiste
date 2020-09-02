@@ -1,5 +1,5 @@
 <template>
-  <div class="quotes-view">
+  <div class="quotes-view" data-nav-id="Utopie">
     <h2 class="title">Deine Utopie.</h2>
     <div class="quotes-swiper">
       <div class="swiper-controls">

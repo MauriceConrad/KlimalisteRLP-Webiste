@@ -1,5 +1,5 @@
 <template>
-  <div class="support-easy" :style="{ 'background-color': background }">
+  <div class="support-easy" :style="{ 'background-color': background }" data-nav-id="Unterstuetzen">
     <h2>Deine Unterstützung.</h2>
     <div class="content-inner">
       <div class="support-text" v-html="content.supportText"></div>
@@ -15,7 +15,7 @@
             <div class="inner" v-html="item.text"></div>
           </div>
           <div class="actions">
-            <a v-for="(btn, index) in item.buttons" :key="index" :href="btn.href" :target="btn.blank ? '__blank' : '__self'" @click="__clickBtn(btn)">
+            <a v-for="(btn, index) in item.buttons" :key="index" :href="btn.href" :target="btn.blank ? '_blank' : '_self'" @click="__clickBtn(btn)">
               <button class="btn">
                 {{ btn.label }}
               </button>
@@ -141,7 +141,7 @@
             buttons: [
               {
                 label: 'How to: Mitmachen',
-                href: 'javascript:alert("Hahaha")',
+                href: '#Mitmachen',
                 blank: false
               }
             ]
