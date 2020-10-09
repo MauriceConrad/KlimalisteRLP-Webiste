@@ -167,9 +167,9 @@
   import ProgramDescription from '../../data/content/programm_description.md';
 
   import ProgramTopicClimate from '../../data/content/program/climate/topic.js';
+  import ProgramTopicTraffic from '../../data/content/program/traffic/topic.js';
   import ProgramTopicEducation from '../../data/content/program/education/topic.js';
   import ProgramTopicEconomy from '../../data/content/program/economy/topic.js';
-  console.log(ProgramTopicClimate);
 
   export default {
     name: "ProgramView",
@@ -190,10 +190,9 @@
         },
         program: [
           ProgramTopicClimate,
+          ProgramTopicTraffic,
           ProgramTopicEducation,
-          ProgramTopicEconomy,
-          ProgramTopicClimate,
-          ProgramTopicClimate
+          ProgramTopicEconomy
         ],
         currTabPos: 0,
         currTabWidth: 0,

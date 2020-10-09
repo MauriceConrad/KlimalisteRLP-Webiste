@@ -33,7 +33,7 @@
       </div>-->
       <div class="content-inner" :style="{ 'clip-path': arrowClipPath }">
         <div class="bg-container" :style="{ 'filter': 'blur(' + activeCandidate.bgBlur + ')' }">
-          <div class="bg-element" :style="{ 'background-image': `url('${ activeCandidate.avatar }')`, 'background-position': activeCandidate.bgPos }"></div>
+          <div class="bg-element" :style="{ 'background-image': `url('${ activeCandidate.bg }')`, 'background-position': activeCandidate.bgPos }"></div>
         </div>
         <article class="about-article" v-html="activeCandidate.about">
 

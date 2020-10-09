@@ -9,9 +9,10 @@
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <QuotesView></QuotesView>
     <ProgramView></ProgramView>
-    <SupportTutorial></SupportTutorial>
+    <!--<SupportTutorial></SupportTutorial>-->
     <Contribute></Contribute>
     <Contact></Contact>
+    <PageFooter></PageFooter>
   </div>
 </template>
 
@@ -31,11 +32,14 @@
   import SupportEasy from './components/SupportEasy.vue';
   import QuotesView from './components/QuotesView.vue';
   import ProgramView from './components/ProgramView.vue';
-  import SupportTutorial from './components/SupportTutorial.vue';
+  //import SupportTutorial from './components/SupportTutorial.vue';
   import Contribute from './components/Contribute.vue';
   import Contact from './components/Contact.vue';
+  import PageFooter from './components/Footer.vue';
 
   import BackgroundHeaderImage from '../data/images/background_header_low.jpg';
+
+  let ROOT_PATH = 'https://klimalisterlp.de';
 
   export default {
     name: 'Klimaliste',
@@ -48,9 +52,10 @@
       Navigation,
       QuotesView,
       ProgramView,
-      SupportTutorial,
+      //SupportTutorial,
       Contribute,
-      Contact
+      Contact,
+      PageFooter
     },
     created() {
       document.body.style.margin = 0;
@@ -60,7 +65,53 @@
       return {
         content: {
           bg: BackgroundHeaderImage
-        }
+        },
+        logo: ROOT_PATH + require('../public/images/opengraph/image.jpg')
+      }
+    },
+    metaInfo() {
+      return {
+        meta: [
+            // Twitter Card
+            {
+              name: 'twitter:card',
+              content: 'Aktivist*innen & Wissenschaftler*innen - 2021 kannst du uns uns das 1,5-Grad-Ziel in die Parlamente wählen!'
+            },
+            {
+              name: 'twitter:title',
+              content: 'Klimaliste RLP'
+            },
+            {
+              name: 'twitter:description',
+              content: 'Aktivist*innen & Wissenschaftler*innen - 2021 kannst du uns uns das 1,5-Grad-Ziel in die Parlamente wählen!'
+            },
+            // image must be an absolute path
+            {
+              name: 'twitter:image',
+              content: this.logo
+            },
+            // Facebook OpenGraph
+            {
+              property: 'og:title',
+              content: 'Klimaliste RLP'
+            },
+            {
+              property: 'og:site_name',
+              content: 'Klimaliste RLP'
+            },
+            {
+              property: 'og:type',
+              content: 'website'
+            },
+            {
+              property: 'og:image',
+              content:  this.logo
+            },
+            {
+              property: 'og:description',
+              content: 'Aktivist*innen & Wissenschaftler*innen - 2021 kannst du uns uns das 1,5-Grad-Ziel in die Parlamente wählen!'
+            }
+        ]
       }
     }
   }

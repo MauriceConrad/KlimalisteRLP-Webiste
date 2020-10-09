@@ -284,7 +284,7 @@
   }
   .content-bottom {
     position: absolute;
-    bottom: 5px;
+    bottom: 25px;
     left: 50%;
     transform: translateX(-50%);
   }
@@ -322,6 +322,7 @@
   .btns {
     text-align: center;
     padding: 10px 0;
+    display: none;
 
   }
   .btn {

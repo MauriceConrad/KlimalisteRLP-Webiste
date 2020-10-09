@@ -1,0 +1,16 @@
+<svg width="100%" height="100%" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <g>
+    <circle cx="39" cy="39" r="39" style="fill:#008ed6;"/>
+    <clipPath id="_clip1">
+      <path d="M0.152,42.097c24.504,-5.094 50.677,-5.206 77.483,2.259l2.527,23.339l-38.826,14.211l-36.287,-9.978c-3.695,-9.977 -6.509,-19.855 -4.897,-29.831Z"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+      <circle cx="39" cy="39" r="39" style="fill:#00be4f;"/>
+    </g>
+    <g>
+      <path d="M26.214,14.389c11.634,16.329 9.826,32.525 0.197,48.646c-8.864,-14.527 -12.58,-30.042 -0.197,-48.645l0,-0.001Z" style="fill:#fff;fill-rule:nonzero;"/>
+      <path d="M33.513,38.786c16.906,-0.881 25.647,-9.599 26.956,-25.452c-15.606,1.605 -25.687,8.951 -26.956,25.452Z" style="fill:#fff;fill-rule:nonzero;"/>
+      <path d="M33.497,37.75c1.385,16.883 10.737,25.378 27.343,26.233c-2.105,-15.564 -10.06,-25.438 -27.343,-26.233Z" style="fill:#fff;fill-rule:nonzero;"/>
+    </g>
+  </g>
+</svg>

@@ -2,10 +2,10 @@ import Avatar from '../../candidates/maurice/avatar.jpeg';
 
 export default {
   name: "Maurice Conrad",
-  authorDescription: 'Informatiker, Klimaaktivist',
+  authorDescription: 'Informatiker (Listenplatz 1)',
   avatar: Avatar,
   avatarPos: 'center top',
   text: `
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Wir machen das 1,5-Grad-Ziel zur obersten Maxime und dabei die Klimaziele vom Kalenderspruch zur politischen Realität. Kein Akteur bietet ein politisches Angebot im Sinne des Klimaabkommens: Das müssen wir ändern, denn wir verhandeln nicht mit physikalischen Gesetzen. Ich kandidiere bei der Klimaliste, weil es die letzte Möglichkeit ist, meine Zukunft zu erhalten!
   `
 }

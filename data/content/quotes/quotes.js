@@ -1,9 +1,13 @@
 import QuoteMaurice from './Quote_Maurice.js';
-import QuoteCollin from './Quote_Collin.js';
-import QuoteGreta from './Quote_Greta.js';
+import QuoteBea from './Quote_Bea.js';
+import QuoteBenjamin from './Quote_Benjamin.js';
+import QuoteDavid from './Quote_David.js';
+//import QuoteGreta from './Quote_Greta.js';
 
 export default [
   QuoteMaurice,
-  QuoteCollin,
-  QuoteGreta
+  QuoteBea,
+  QuoteBenjamin,
+  QuoteDavid,
+  //QuoteGreta
 ];
