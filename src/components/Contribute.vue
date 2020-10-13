@@ -13,11 +13,16 @@
             <div class="content-inner" v-html="topic.content"></div>
           </div>
           <div class="topic-btns">
-            <a v-for="(btn, btnIndex) in topic.buttons" :key="btnIndex" :href="btn.href" @click="__clickBtn(btn)" :target="btn.blank ? '_blank' : '_self'">
-              <button class="btn">
-                {{ btn.label }}
-              </button>
-            </a>
+            <ul class="btns-list">
+              <li v-for="(btn, btnIndex) in topic.buttons" :key="btnIndex">
+                <a :href="btn.href" @click="__clickBtn(btn)" :target="btn.blank ? '_blank' : '_self'">
+                  <button class="btn">
+                    {{ btn.label }}
+                  </button>
+                </a>
+                <span v-if="btn.description" class="btn-description-label">{{ btn.description }}</span>
+              </li>
+            </ul>
           </div>
         </li>
       </ul>
@@ -101,6 +106,10 @@
       font-size: 1.3em;
     }
   }
+  .btn-description-label {
+    text-decoration: underline;
+    font-weight: 300;
+  }
 </style>
 
 
@@ -150,7 +159,8 @@
               },
               {
                 label: 'Schreib uns eine Mail',
-                href: 'mailto:info@klimalisterlp.de'
+                href: 'mailto:info@klimalisterlp.de',
+                description: 'info@klimalisterlp.de'
               }
             ]
           },
@@ -161,7 +171,8 @@
             buttons: [
               {
                 label: 'Schreib uns eine Mail',
-                href: 'mailto:info@klimalisterlp.de'
+                href: 'mailto:info@klimalisterlp.de',
+                description: 'info@klimalisterlp.de'
               },
               {
                 label: 'WhatsApp',

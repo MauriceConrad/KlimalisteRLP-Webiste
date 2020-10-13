@@ -4,7 +4,7 @@
     <div class="contact-inner">
       <span class="mail-label">
         Mail:
-        <a href="mailto:presse@klimalisterlp.de" target="_blank">presse@klimalisterlp.de</a>
+        <a href="mailto:info@klimalisterlp.de" target="_blank">info@klimalisterlp.de</a>
       </span>
       <div class="contact-items">
         <div class="contact-item">
