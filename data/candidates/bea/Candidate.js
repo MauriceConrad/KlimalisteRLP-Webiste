@@ -12,5 +12,6 @@ export default {
   description: `
     Wissenschaftlerin
   `,
+  job: 'Physikerin',
   about: About
 }

@@ -9,7 +9,8 @@ export default {
   bgBlur: '30px',
   pos: ['top', 'center'],
   description: `
-    Klimaaktivist
+    Klimaschutzaktivist
   `,
+  job: 'Unternehmensberater',
   about: About
 }

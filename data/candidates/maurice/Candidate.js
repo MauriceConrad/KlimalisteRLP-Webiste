@@ -10,7 +10,8 @@ export default {
   bgBlur: '15px',
   pos: ['top', 'center'],
   description: `
-    Klimaaktivist
+    Klimaschutzaktivist
   `,
+  job: 'Informatikstudent',
   about: About
 }

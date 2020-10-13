@@ -13,24 +13,13 @@
           <div class="label">
             <span class="candidate-name">{{ item.name }}</span>
             <span class="candidate-description-text">{{ item.description }}</span>
+            <span class="candidate-job-text">{{ item.job }}</span>
           </div>
-          <!--<div class="actions">
-            <div class="btn-more">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 50" width="100%" height="100%">
-                <line x1="5" y1="45" x2="50" y2="5" />
-                <line x1="95" y1="45" x2="50" y2="5" />
-              </svg>
-            </div>
-          </div>-->
+
         </li>
       </ul>
     </div>
     <div class="candidates-view" v-if="activeCandidate">
-      <!--<div class="content-symbols">
-        <svg width="100%" height="100%" viewBox="0 0 100 49" version="1.1" xmlns="http://www.w3.org/2000/svg" class="symbol-arrow" :style="{ left: arrowPos + 'px' }">
-          <path d="M0,49.5C17.409,48.785 32.741,20.332 49.982,0.5C65.727,18.537 83.256,49.091 100,49.5 " />
-        </svg>
-      </div>-->
       <div class="content-inner" :style="{ 'clip-path': arrowClipPath }">
         <div class="bg-container" :style="{ 'filter': 'blur(' + activeCandidate.bgBlur + ')' }">
           <div class="bg-element" :style="{ 'background-image': `url('${ activeCandidate.bg }')`, 'background-position': activeCandidate.bgPos }"></div>
@@ -124,6 +113,12 @@
     font-size: 0.95em;
     font-weight: 300;
     margin: 2px 0 0;
+  }
+  .candidates-list ul li .label .candidate-job-text {
+    font-size: 0.8em;
+    color: #555;
+    display: block;
+    font-weight: 300;
   }
   .candidates-list ul li .actions {
     text-align: center;

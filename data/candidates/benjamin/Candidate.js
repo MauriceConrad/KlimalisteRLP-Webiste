@@ -12,5 +12,6 @@ export default {
   description: `
     Wissenschaftler
   `,
+  job: 'Wirtschaftsingenieur',
   about: About
 }

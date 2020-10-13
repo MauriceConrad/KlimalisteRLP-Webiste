@@ -11,7 +11,8 @@ export default {
   bgBlur: '10px',
   pos: ['top', 'center'],
   description: `
-    Klimaaktivistin
+    Klimaschutzaktivistin
   `,
+  job: 'FAJlerin',
   about: About
 }
