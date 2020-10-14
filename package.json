@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "upload": "scp -r dist/* klimarlp@klimalisterlp.de:html"
   },
   "dependencies": {
     "@kevindesousa/vue-image-loader": "^2.0.1",
