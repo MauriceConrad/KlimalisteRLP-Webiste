@@ -134,11 +134,11 @@
             icon: 'icons/nav/book.svg',
             href: '#Programm'
           },
-          /*{
+          {
             label: "Unterschreiben",
             icon: 'icons/nav/feather.svg',
             href: '#Unterschreiben'
-          },*/
+          },
           {
             label: "Kontakt",
             icon: 'icons/nav/mail.svg',
