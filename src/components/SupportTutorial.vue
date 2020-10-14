@@ -233,7 +233,7 @@
         ressources: [
           {
             label: 'Unterstützungs-Formular Liste',
-            href: 'files/Klimaliste_Formblatt für eine Unterstützungsunterschrift_Landesliste-1.pdf',
+            href: 'files/Formblatt_UU.pdf',
             icon: 'icons/direct-download.svg'
           },/*
           {
