@@ -45,6 +45,17 @@
         </button>
       </a>
     </div>
+    <div class="adress-label">
+      <strong>Unterschriften an:</strong>
+      <br>
+      <span>
+        Greta Waltenberg
+        <br>
+        Taunussstraße 33
+        <br>
+        55118 Mainz
+      </span>
+    </div>
   </div>
 </template>
 
@@ -179,6 +190,9 @@
     display: inline-block;
     vertical-align: middle;
   }
+  .adress-label {
+    text-align: center;
+  }
 </style>
 
 <script>
@@ -219,9 +233,9 @@
         ressources: [
           {
             label: 'Unterstützungs-Formular Liste',
-            href: '#',
+            href: 'files/Klimaliste_Formblatt für eine Unterstützungsunterschrift_Landesliste-1.pdf',
             icon: 'icons/direct-download.svg'
-          },
+          },/*
           {
             label: 'Unterstützungs-Formular Mainz II',
             href: '#',
@@ -231,7 +245,7 @@
             label: 'Unterstützungs-Formular Mainz I',
             href: '#',
             icon: 'icons/direct-download.svg'
-          }
+          }*/
         ]
       }
     },

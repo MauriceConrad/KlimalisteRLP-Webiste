@@ -9,7 +9,7 @@
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <QuotesView></QuotesView>
     <ProgramView></ProgramView>
-    <!--<SupportTutorial></SupportTutorial>-->
+    <SupportTutorial></SupportTutorial>
     <Contribute></Contribute>
     <Contact></Contact>
     <PageFooter></PageFooter>
@@ -32,7 +32,7 @@
   import SupportEasy from './components/SupportEasy.vue';
   import QuotesView from './components/QuotesView.vue';
   import ProgramView from './components/ProgramView.vue';
-  //import SupportTutorial from './components/SupportTutorial.vue';
+  import SupportTutorial from './components/SupportTutorial.vue';
   import Contribute from './components/Contribute.vue';
   import Contact from './components/Contact.vue';
   import PageFooter from './components/Footer.vue';
@@ -52,7 +52,7 @@
       Navigation,
       QuotesView,
       ProgramView,
-      //SupportTutorial,
+      SupportTutorial,
       Contribute,
       Contact,
       PageFooter
