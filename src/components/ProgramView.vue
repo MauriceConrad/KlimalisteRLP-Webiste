@@ -170,6 +170,8 @@
   import ProgramTopicTraffic from '../../data/content/program/traffic/topic.js';
   import ProgramTopicEducation from '../../data/content/program/education/topic.js';
   import ProgramTopicEconomy from '../../data/content/program/economy/topic.js';
+  import ProgramTopicAgrar from '../../data/content/program/agrar/topic.js';
+  import ProgramTopicEnergy from '../../data/content/program/energy/topic.js';
 
   export default {
     name: "ProgramView",
@@ -192,7 +194,9 @@
           ProgramTopicClimate,
           ProgramTopicTraffic,
           ProgramTopicEducation,
-          ProgramTopicEconomy
+          ProgramTopicEconomy,
+          ProgramTopicEnergy,
+          ProgramTopicAgrar
         ],
         currTabPos: 0,
         currTabWidth: 0,
