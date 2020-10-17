@@ -8,8 +8,13 @@
 
 ### Unsere Vision
 
-Unsere Vision ist eine gesunde und artenreiche Natur, auf dem Land, aber auch in den Städten. Wir werden gesunde Wälder haben und eine nachhaltigen Landwirtschaft die durch Humusaufbau resilienter ist und einen wichtigen Beitrag zur CO2-Speicherung leistet. Jede Land- und ForstwirtIn kann ohne Nachteile in Natur- und Artenschutz investieren und erfährt dabei auch langfristig Wertschätzung und viel Unterstützung. Die Städte der Zukunft werden viel grüner sein, mit grünen Freiflächen, Wandbegrünungen, Bäumen die Schatten spenden und einer merklichen Abkühlung durch die Pflanzen.  
+Unsere Vision ist eine gesunde und artenreiche Natur, auf dem Land, aber auch in den Städten. Wir werden gesunde Wälder haben und eine nachhaltigen Landwirtschaft die durch Humusaufbau resilienter ist und einen wichtigen Beitrag zur CO2-Speicherung leistet. Jede Land- und ForstwirtIn kann ohne Nachteile in Natur- und Artenschutz investieren und erfährt dabei auch langfristig Wertschätzung und viel Unterstützung. Die Städte der Zukunft werden viel grüner sein, mit grünen Freiflächen, Wandbegrünungen, Bäumen die Schatten spenden und einer merklichen Abkühlung durch die Pflanzen. 
 
 ## Forderungen
 
-Um diese Vision zu erreichen wollen wir nachhaltige Land- & Forstwirtschaft fördern und Klimaleistungen wie Wald- & Humusaufbau entsprechend ihrem großen Wert für die Gesellschaft vergüten. Wir möchten umfassende Beratungsmöglichkeiten und Unterstützung schaffen. Der Absatz für regionale, saisonale und biologische Produkte muss sich signifikant erhöhen. Dafür wollen wir alle öffentlichen Einrichtungen weitestgehend auf regionale, saisonale, pflanzliche und biologische Produkte umstellen und eine gesunde, nachhaltige Ernährung zur einfachsten und günstigsten Option machen. In den Städten setzen wir uns überall wo es möglich ist für Entsiegelung, Dach- und Wandbegrünungen und grüne Gärten ein. 
+Um diese Vision zu erreichen wollen wir nachhaltige Land- & Forstwirtschaft fördern.
+
+- Klimaleistungen wie Wald- & Humusaufbau sollen entsprechend ihrem großen Wert für die Gesellschaft vergütet werden.
+- Wir möchten umfassende Beratungsmöglichkeiten und Unterstützung schaffen.
+- Der Absatz für regionale, saisonale und biologische Produkte muss sich signifikant erhöhen. Dafür wollen wir alle öffentlichen Einrichtungen weitestgehend auf regionale, saisonale, pflanzliche und biologische Produkte umstellen und eine gesunde, nachhaltige Ernährung zur einfachsten und günstigsten Option machen.
+- In den Städten setzen wir uns überall wo es möglich ist für Entsiegelung, Dach- und Wandbegrünungen und grüne Gärten ein. 
