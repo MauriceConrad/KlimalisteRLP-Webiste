@@ -1,4 +1,4 @@
-# Okönomie.
+# Okönomie
 
 
 Comming soon...

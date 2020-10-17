@@ -2,9 +2,9 @@
 
 ### Aktueller Stand
 
-1. 36% der Fläche von RLP werden landwirtschaftlich genutzt. Dabei werden jährlich 1,6 Mio. Tonnen CO2 direkt in RLP frei. Dazu kommen CO2-Emissionen und andere Schäden in anderen Teilen der Welt. 
-2. Die Landwirtschaft hat aber auch einen großen Beitrag zum Klimaschutz und ein großes Potential hierbei. Landwirtschaftlich genutzte Böden in DL speichern etwa 2,6 Mia Tonnen CO2. 
-3. Auch der Wald leistet einen ernormen Beitrag zum Klimaschutz. Rheinland-Pfalz ist zu 42% mit Wald bedeckt und speichert dabei 280 Mio Tonnen CO2.  Allerdings sind diese Speicherungen durch den Klimawandel und damit einhergehende Schäden bedroht. 
+1. 36% der Fläche von RLP werden landwirtschaftlich genutzt. Dabei werden jährlich 1,6 Mio. Tonnen CO2 direkt in RLP frei. Dazu kommen CO2-Emissionen und andere Schäden in anderen Teilen der Welt.
+2. Die Landwirtschaft hat aber auch einen großen Beitrag zum Klimaschutz und ein großes Potential hierbei. Landwirtschaftlich genutzte Böden in DL speichern etwa 2,6 Mio. Tonnen CO2.
+3. Auch der Wald leistet einen ernormen Beitrag zum Klimaschutz. Rheinland-Pfalz ist zu 42% mit Wald bedeckt und speichert dabei 280 Mio Tonnen CO2. Allerdings sind diese Speicherungen durch den Klimawandel und damit einhergehende Schäden bedroht.
 
 ### Unsere Vision
 
