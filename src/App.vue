@@ -70,6 +70,7 @@
       }
     },
     metaInfo() {
+      console.log(this.logo);
       return {
         meta: [
             // Twitter Card
