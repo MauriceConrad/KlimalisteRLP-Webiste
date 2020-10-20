@@ -11,7 +11,6 @@
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <QuotesView></QuotesView>
     <ProgramView></ProgramView>
-    <SupportTutorial></SupportTutorial>
     <Contribute></Contribute>
     <Contact></Contact>
     <PageFooter></PageFooter>
