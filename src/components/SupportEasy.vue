@@ -151,7 +151,11 @@
             icon: 'icons/signing-the-contract.svg',
             text: SignText,
             buttons: [
-
+              {
+                label: 'Unterschreiben',
+                href: '#Unterschreiben',
+                blank: false
+              }
             ]
           },
           {

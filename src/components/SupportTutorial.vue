@@ -211,7 +211,7 @@
         steps: [
           {
             src: 'images/tutorial/print.svg',
-            description: "Schritt 1: Untersschriften-Formular ausdrucken",
+            description: "Schritt 1: Unterschriften-Formular ausdrucken",
             color: 'rgb(110, 187, 187)',
             scale: 0.9
 

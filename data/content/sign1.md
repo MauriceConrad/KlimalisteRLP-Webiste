@@ -1,3 +1,5 @@
-Spätestens, wenn wir die ersten Direktkandidat*innen und Listen aufgestellt haben, brauchen wir deine Unterstützungs-Unterschrift, damit unsere Liste zur Wahl zugelassen wird.
+Um zur Landtagswahl zugelassen zu werden, benötigen wir deine Unterschrift! Als wahlberechtigter Rheinland-Pfälzer kannst du uns deine Unterschrift für die Landesliste und für folgende Wahlkreise geben:
+- Mainz I
+- Mainz II
+- Mainz III
 <br><br>
-Mehr Infos dazu folgen!

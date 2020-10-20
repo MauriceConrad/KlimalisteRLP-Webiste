@@ -115,6 +115,11 @@
             href: '#Liste'
           },
           {
+            label: "Unterschreiben",
+            icon: 'icons/nav/feather.svg',
+            href: '#Unterschreiben'
+          },
+          {
             label: "Motivation",
             icon: 'icons/nav/herbal-spa-treatment-leaves.svg',
             href: '#Motivation'
@@ -133,11 +138,6 @@
             label: "Programm",
             icon: 'icons/nav/book.svg',
             href: '#Programm'
-          },
-          {
-            label: "Unterschreiben",
-            icon: 'icons/nav/feather.svg',
-            href: '#Unterschreiben'
           },
           {
             label: "Kontakt",
