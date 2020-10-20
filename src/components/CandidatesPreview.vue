@@ -24,10 +24,11 @@
         <div class="bg-container" :style="{ 'filter': 'blur(' + activeCandidate.bgBlur + ')' }">
           <div class="bg-element" :style="{ 'background-image': `url('${ activeCandidate.bg }')`, 'background-position': activeCandidate.bgPos }"></div>
         </div>
-        <article class="about-article" v-html="activeCandidate.about">
-
-        </article>
+        <article class="about-article" v-html="activeCandidate.about"></article>
       </div>
+    </div>
+    <div class="more-container">
+      <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste</a>
     </div>
   </div>
 </template>
@@ -274,6 +275,21 @@
     line-height: 1.5;
     padding: 0 15px;
     box-sizing: border-box;
+  }
+
+
+
+  .more-container {
+    padding: 10px 0 20px;
+  }
+  .more-container a {
+    display: inline-block;
+    color: inherit;
+    background-color: #209958;
+
+    padding: 10px 16px 10px;
+    text-decoration: none;
+    color: #fff;
   }
 </style>
 
