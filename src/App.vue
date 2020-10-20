@@ -4,6 +4,8 @@
     <PageHeader :background="content.bg"></PageHeader>
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
     <hr />
+    <SupportTutorial></SupportTutorial>
+    <hr />
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>

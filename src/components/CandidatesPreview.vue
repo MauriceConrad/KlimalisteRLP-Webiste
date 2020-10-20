@@ -4,6 +4,7 @@
     <div class="intro-container">
       <div class="intro-text" v-html="content.intro"></div>
     </div>
+    <h3>Unsere Kandidat*innen</h3>
     <div class="candidates-list">
       <ul>
         <li v-for="(item, index) in candidates" :key="index" ref="candidateItems" :class="{ active: index == activeCandidateIndex }" @click="selectCandidate(index)">
@@ -54,8 +55,13 @@
     font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', sans-serif;
     width: 100%;
   }
+  h3 {
+    margin: 30px 0 10px;
+    font-size: 1.5em;
+    font-weight: 600;
+  }
   .candidates-list {
-    padding: 20px 0;
+    padding: 0 0;
     max-width: 100%;
   }
   .candidates-list ul {
