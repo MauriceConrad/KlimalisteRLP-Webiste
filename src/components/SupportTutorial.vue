@@ -33,6 +33,9 @@
         </div>
       </div>
     </div>
+    <div class="support-area">
+      <a href="files/Tutorial_UU.pdf" target="_blank">Komplettes Tutorial als PDF</a>
+    </div>
     <div class="support-btns">
       <a :href="ressource.href" target="_blank" v-for="(ressource, index) in ressources" :key="index">
         <button class="btn">
@@ -164,7 +167,7 @@
   .support-btns {
     max-width: 1000px;
     margin: auto;
-    padding: 30px 0 10px;
+    padding: 0px 0 10px;
     text-align: center;
   }
   .support-btns a {
@@ -193,6 +196,10 @@
   .adress-label {
     text-align: center;
   }
+  .support-area {
+    text-align: center;
+    margin: 20px 0;
+  }
 </style>
 
 <script>
@@ -211,7 +218,7 @@
         steps: [
           {
             src: 'images/tutorial/print.svg',
-            description: "Schritt 1: Unterschriften-Formular ausdrucken",
+            description: "Schritt 1: Unterschriften-Formular doppelseitig(!) ausdrucken",
             color: 'rgb(110, 187, 187)',
             scale: 0.9
 
