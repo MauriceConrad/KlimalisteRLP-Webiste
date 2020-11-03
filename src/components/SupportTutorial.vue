@@ -198,7 +198,7 @@
   }
   .support-area {
     text-align: center;
-    margin: 20px 0;
+    margin: 40px 0;
   }
 </style>
 
