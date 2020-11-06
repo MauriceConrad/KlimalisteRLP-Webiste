@@ -31,6 +31,18 @@
     <div class="more-container">
       <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste</a>
     </div>
+    <div class="some-list">
+      <h3>Folge uns auf Social Media!</h3>
+      <ul class="some-links">
+        <li v-for="(platform, index) in socialMedia" :key="index">
+          <a :href="platform.href" :target="platform.blank ? '__blank' : '__self'">
+            <div class="icon">
+              <img :src="platform.icon" alt="Link Image">
+            </div>
+          </a>
+        </li>
+      </ul>
+    </div>
   </div>
 </template>
 
@@ -297,6 +309,28 @@
     text-decoration: none;
     color: #fff;
   }
+
+  .some-list {
+    margin: 0;
+    padding: 0 0 10px;
+  }
+  .some-list h3 {
+    margin: 0;
+  }
+  .some-links {
+    list-style: none;
+    margin: 10px 0;
+    padding: 0;
+  }
+  .some-links li {
+    display: inline-block;
+    margin: 0 10px;
+
+  }
+  .some-links li .icon {
+    width: 70px;
+    height: 70px;
+  }
 </style>
 
 <script>
@@ -317,7 +351,24 @@
         content: {
           about: ContentAbout1,
           intro: ContentIntro
-        }
+        },
+        socialMedia: [
+          {
+            icon: 'icons/socialmedia/twitter.svg',
+            href: 'https://twitter.com/KlimalisteRLP',
+            blank: true
+          },
+          {
+            icon: 'icons/socialmedia/instagram.svg',
+            href: 'https://www.instagram.com/klimalisterlp',
+            blank: true
+          },
+          {
+            icon: 'icons/socialmedia/facebook.svg',
+            href: 'https://www.facebook.com/klimalisterlp',
+            blank: true
+          }
+        ]
       }
     },
     computed: {
