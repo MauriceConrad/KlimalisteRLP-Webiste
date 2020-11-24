@@ -396,6 +396,8 @@
           this.bgPos = bgCenterNew;
         }
 
+        updateHeaderPos;
+
         //window.addEventListener("mousemove", updateHeaderPos);
         //window.addEventListener("touchmove", updateHeaderPos);
       })();

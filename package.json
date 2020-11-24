@@ -7,7 +7,8 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "meta": "node build_meta.js",
-    "upload": "scp -r dist/* klimarlp@klimalisterlp.de:html"
+    "upload": "scp -r dist/* klimarlp@klimalisterlp.de:html",
+    "compile": "npm run build && npm run meta && npm run upload"
   },
   "dependencies": {
     "@kevindesousa/vue-image-loader": "^2.0.1",
