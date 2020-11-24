@@ -4,7 +4,8 @@
     <PageHeader :background="content.bg"></PageHeader>
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
     <hr />
-    <SupportTutorial></SupportTutorial>
+    <LocalCandidatesApp></LocalCandidatesApp>
+    <!--<SupportTutorial></SupportTutorial>-->
     <hr />
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
@@ -33,10 +34,12 @@
   import SupportEasy from './components/SupportEasy.vue';
   import QuotesView from './components/QuotesView.vue';
   import ProgramView from './components/ProgramView.vue';
-  import SupportTutorial from './components/SupportTutorial.vue';
+  //import SupportTutorial from './components/SupportTutorial.vue';
   import Contribute from './components/Contribute.vue';
   import Contact from './components/Contact.vue';
   import PageFooter from './components/Footer.vue';
+
+  import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
 
   import BackgroundHeaderImage from '../data/images/background_header_low.jpg';
 
@@ -53,10 +56,12 @@
       Navigation,
       QuotesView,
       ProgramView,
-      SupportTutorial,
+      LocalCandidatesApp,
+      //SupportTutorial,
       Contribute,
       Contact,
-      PageFooter
+      PageFooter,
+
     },
     created() {
       document.body.style.margin = 0;

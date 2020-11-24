@@ -1,0 +1,11 @@
+# Wer?
+
+Ich bin Maurice Conrad (20) und studiere Informatik an der JGU Mainz. Seit meiner frühen Jugend bin ich nicht nur politisch interessiert gewesen, sondern wollte immer aktiv etwas verändern. Nachhaltig politisiert hat mich das Jahr 2015, durch die hässliche Fratze aus PEGIDA und AfD. Damals engagierte ich mich in der Geflüchtetenhilfe, schließlich bei der Seebrücke und Protesten gegen den spürbaren Rechtsruck in der Gesellschaft. Die Klimakrise als existenzielle Krise der Menschheit ist für mich bis heute das wichtigste Thema und die Maxime meines politischen Handelns. Als Klimaschutzaktivist engagiere ich mich deshalb seit knapp zwei Jahren auf den unterschiedlichsten Ebenen in der Klimaschutz- & Klimagerechtigkeitsbewegung. So auch auf lokaler sowie Bundesebene bei *Fridays For Future* in Grafik, IT, Presse und Organizing.
+
+## Politik
+
+Seit Mai 2019 bin ich Stadtrat in der Landeshauptstadt Mainz. Ich bin dort als junger Kommunalpolitiker mit sämtlichen Facetten parlamentarischer Arbeit in Berührung gekommen - egal ob Fraktions-, Ausschussarbeit oder die Mitgliedschaft im Aufsichtsrat der MVG. Diese Berührungen im Zusammenhang mit der Perspektive, die ich als Aktivist inne hatte, waren der Anstoß, die Klimaliste RLP mitzugründen um so die konsequente Einhaltung des 1,5-Grad-Ziels politisch umzusetzen. Ich glaube fest daran, dass die Klimaschutzbewegung in Form von Klimalisten parlamentarischen Raum erkämpfen wird um gemeinsam mit Wissenschaftler\*innen das einzufordern, was getan werden muss. 1,5 Jahre Stadtratsarbeit haben mich nicht resignieren lassen, sondern mir aufgezeigt, was parlamentarisch möglich ist - wenn man es will.
+
+## Zielsetzungen
+
+Der größe politische Skandal unserer Zeit ist die Nicht-Einhaltung des 1,5-Grad-Ziels und vor allem die völlige Abstinenz diesen Angebotes. Ich wollte mich nicht damit abfinden, dass keine Partei und kein politischer Akteur ein Programm anbietet, welches die notwendigen Maßnahmen zur Einhaltung des Pariser Klimaabkommens enthält. Das war nicht nur für mich als Klimaaktivisten unfassbar sondern vor allem eines: Unerträglich. Die wissenschaftlich notwendigen Maßnahmen liegen seit Jahrzehnten auf dem Tisch - dass sie in den Wahlprogrammen aller Parteien und Akteure lediglich in verfälschter Form vorliegen, müssen wir ändern.

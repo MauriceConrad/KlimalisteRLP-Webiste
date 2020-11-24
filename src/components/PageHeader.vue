@@ -1,5 +1,5 @@
 <template>
-  <header :style="{ 'background-image': 'url(' + background + ')', 'background-position': bgPos.map(val => val + '%').join(' ') }" ref="header">
+  <header :style="{ 'background-image': `url('images/headerimage.svg')`, 'background-position': bgPos.map(val => val + '%').join(' ') }" ref="header">
     <div class="title">
       <svg class="header-desktop" width="100%" height="100%" viewBox="0 0 1092 271" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
             <g>
@@ -256,7 +256,7 @@
     max-width: 1200px;
     color: #fff;
     margin: auto;
-    padding: 40px 20px 0;
+    padding: 50px 20px 0;
     box-sizing: border-box;
     text-align: center;
   }
@@ -396,8 +396,8 @@
           this.bgPos = bgCenterNew;
         }
 
-        window.addEventListener("mousemove", updateHeaderPos);
-        window.addEventListener("touchmove", updateHeaderPos);
+        //window.addEventListener("mousemove", updateHeaderPos);
+        //window.addEventListener("touchmove", updateHeaderPos);
       })();
 
 

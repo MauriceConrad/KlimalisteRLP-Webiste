@@ -138,7 +138,8 @@
               },
               {
                 label: 'Jetzt spenden!',
-                href: '#support'
+                href: 'https://www.gofundme.com/f/klimaliste-rlp',
+                blank: true
               },
               {
                 label: 'Mitglied werden',

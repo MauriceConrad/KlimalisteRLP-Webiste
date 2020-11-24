@@ -114,11 +114,11 @@
             icon: 'icons/nav/team.svg',
             href: '#Liste'
           },
-          {
+          /*{
             label: "Unterschreiben",
             icon: 'icons/nav/feather.svg',
             href: '#Unterschreiben'
-          },
+          },*/
           {
             label: "Motivation",
             icon: 'icons/nav/herbal-spa-treatment-leaves.svg',
