@@ -11,6 +11,6 @@ export default {
   description: `
     Klimaschutzaktivistin
   `,
-  job: 'Studentin',
+  job: 'FAJlerin',
   about: About
 }

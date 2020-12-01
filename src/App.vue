@@ -3,8 +3,9 @@
     <Navigation></Navigation>
     <PageHeader :background="content.bg"></PageHeader>
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
-    <hr />
-    <LocalCandidatesApp></LocalCandidatesApp>
+    <Blog></Blog>
+    <!--<hr />
+    <LocalCandidatesApp></LocalCandidatesApp>-->
     <!--<SupportTutorial></SupportTutorial>-->
     <hr />
     <Description background="#fff"></Description>
@@ -38,8 +39,9 @@
   import Contribute from './components/Contribute.vue';
   import Contact from './components/Contact.vue';
   import PageFooter from './components/Footer.vue';
+  import Blog from './components/Blog.vue';
 
-  import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
+  //import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
 
   import BackgroundHeaderImage from '../data/images/background_header_low.jpg';
 
@@ -56,7 +58,8 @@
       Navigation,
       QuotesView,
       ProgramView,
-      LocalCandidatesApp,
+      Blog,
+      //LocalCandidatesApp,
       //SupportTutorial,
       Contribute,
       Contact,
