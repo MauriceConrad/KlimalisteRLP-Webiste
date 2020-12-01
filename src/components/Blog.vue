@@ -1,6 +1,12 @@
 <template>
   <div class="container">
-    Haha.
+    <swiper :options="swiperOptions" ref="mySwiper" style="display: block;">
+      <swiper-slide v-for="(quote, index) in [0, 0]" :key="index">
+        Hahaha.
+      </swiper-slide>
+      <!--<div class="swiper-pagination" slot="pagination"></div>
+      <div class="swiper-scrollbar"></div>-->
+    </swiper>
   </div>
 </template>
 
@@ -9,6 +15,8 @@
 </style>
 
 <script>
+  //import VueAwesomeSwiper from 'vue-awesome-swiper';
+  import { Swiper, SwiperSlide } from 'vue-awesome-swiper';
   import GhostContentAPI from '@tryghost/content-api';
 
   const api = new GhostContentAPI({
@@ -22,7 +30,25 @@
     name: "Blog",
     data() {
       return {
-
+        swiperOptions: {
+          loop: true,
+          effect: 'cube',
+          coverflowEffect: {
+            rotate: 30,
+            slideShadows: false,
+          },
+          cubeEffect: {
+            slideShadows: false,
+            shadow: false
+          },
+          //slidesPerView: 1,
+          centeredSlides: true,
+          pagination: {
+            el: ".swiper-pagination",
+            type: "bullets",
+            clickable: true,
+          },
+        }
       }
     },
     created() {
@@ -30,9 +56,12 @@
         limit: 5,
         include: 'tags,authors'
       }).then(result => {
-        //import VueAwesomeSwiper from 'vue-awesome-swiper';
-        import { Swiper, SwiperSlide, directive } from 'vue-awesome-swiper';
+        result;
       })
+    },
+    components: {
+      Swiper,
+      SwiperSlide
     }
   }
 </script>
