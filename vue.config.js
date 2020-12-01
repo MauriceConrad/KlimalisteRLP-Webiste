@@ -37,6 +37,14 @@ module.exports = {
         {
           test: /\.svg$/,
           loader: 'svg-inline-loader'
+        },
+        {
+          test: /\.scss$/,
+          use: [
+            'vue-style-loader',
+            'css-loader',
+            'sass-loader'
+          ]
         }
       ]
     }
