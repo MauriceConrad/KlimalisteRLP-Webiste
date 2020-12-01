@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h2>Blog</h2>
+    <h2>Aktuelles</h2>
     <ul class="article-list">
       <a :href="article.url" target="_blank" v-for="(article, index) in articles" :key="index">
         <li>

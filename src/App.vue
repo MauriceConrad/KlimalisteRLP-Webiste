@@ -3,17 +3,17 @@
     <Navigation></Navigation>
     <PageHeader :background="content.bg"></PageHeader>
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
-    <Blog></Blog>
     <!--<hr />
     <LocalCandidatesApp></LocalCandidatesApp>-->
     <!--<SupportTutorial></SupportTutorial>-->
     <hr />
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
-    <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <QuotesView></QuotesView>
     <ProgramView></ProgramView>
+    <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Contribute></Contribute>
+    <Blog></Blog>
     <Contact></Contact>
     <PageFooter></PageFooter>
   </div>

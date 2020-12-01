@@ -125,11 +125,6 @@
             href: '#Motivation'
           },
           {
-            label: "Unterstützen",
-            icon: 'icons/nav/hands.svg',
-            href: '#Unterstuetzen'
-          },
-          {
             label: "Utopie",
             icon: 'icons/nav/tree.svg',
             href: '#Utopie'
@@ -139,6 +134,16 @@
             icon: 'icons/nav/book.svg',
             href: '#Programm'
           },
+          {
+            label: "Unterstützen",
+            icon: 'icons/nav/hands.svg',
+            href: '#Unterstuetzen'
+          },
+          /*{
+            label: "Spenden",
+            icon: 'icons/nav/coin.svg',
+            href: '#Mitmachen'
+          },*/
           {
             label: "Kontakt",
             icon: 'icons/nav/mail.svg',
