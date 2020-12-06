@@ -140,6 +140,11 @@
             href: '#Programm'
           },
           {
+             label: "Spenden",
+             icon: 'icons/nav/coin.svg',
+             href: '#Mitmachen'
+          },
+          {
             label: "Kontakt",
             icon: 'icons/nav/mail.svg',
             href: '#Kontakt'

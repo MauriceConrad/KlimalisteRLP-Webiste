@@ -3,17 +3,18 @@
     <Navigation></Navigation>
     <PageHeader :background="content.bg"></PageHeader>
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
-    <Blog></Blog>
-    <!--<hr />
-    <LocalCandidatesApp></LocalCandidatesApp>-->
+    <hr />
+    <LocalCandidatesApp></LocalCandidatesApp>
     <!--<SupportTutorial></SupportTutorial>-->
+
     <hr />
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
-    <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <QuotesView></QuotesView>
     <ProgramView></ProgramView>
+    <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Contribute></Contribute>
+    <Blog></Blog>
     <Contact></Contact>
     <PageFooter></PageFooter>
   </div>
@@ -41,7 +42,7 @@
   import PageFooter from './components/Footer.vue';
   import Blog from './components/Blog.vue';
 
-  //import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
+  import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
 
   import BackgroundHeaderImage from '../data/images/background_header_low.jpg';
 
@@ -59,7 +60,7 @@
       QuotesView,
       ProgramView,
       Blog,
-      //LocalCandidatesApp,
+      LocalCandidatesApp,
       //SupportTutorial,
       Contribute,
       Contact,

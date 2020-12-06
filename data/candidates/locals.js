@@ -568,10 +568,10 @@ export default [
     "description": `Auch wenn ich lokal viel erreicht habe, befinden sich die größten Weichen, um in den Kommunen wirksamen Klimaschutz und das 1,5-Grad-Ziel umzusetzen auf der Landesebene und in der Gesetzgebung. Deshalb ist es mein klares Ziel, neben meiner Kandidatur auf der Landesliste auch für meinen Wahlkreis anzutreten und in den nächsten rheinland-pfälzischen Landtag zu ziehen.`,
     "finished": true,
     "links": [
-      /*{
+      {
         "label": "Unterstützungs-Unterschrift",
-        "href": "https://www.google.de"
-      }*/
+        "href": "files/20_12_23_Formblatt_Unterstützungsunterschriften_Klimaliste_RLP_e.pdf"
+      }
     ]
   },
   {

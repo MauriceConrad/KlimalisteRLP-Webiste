@@ -8,7 +8,7 @@
         <svg width="100%" height="100%" viewBox="0 0 452 589" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="overflow: hidden; ">
 
           <g>
-            <g v-for="(local, index) in locals" :key="index" :style="{ transform: 'translate(' + local.translate.map(value => value + 'px').join(', ') + ')' }" class="local-area" :class="{ active: localIsActive(local) }" @click="handleLocalSelect(local)">
+            <g v-for="(local, index) in locals" :key="index" :style="{ transform: 'translate(' + local.translate.map(value => value + 'px').join(', ') + ')' }" class="local-area" :class="{ active: localIsActive(local), current: local == activeLocal }" @click="handleLocalSelect(local)">
               <polyline v-for="(points, pointsListIndex) in local.points" :key="pointsListIndex" :points="points" />
             </g>
           </g>
@@ -53,19 +53,34 @@
     width: 100%;
     height: 500px;
     display: flex;
+    padding: 10px 0;
   }
+
   @media screen and (max-width: 600px) {
     .view-main {
       display: block;
       height: auto;
     }
   }
+
+  @media screen and (min-width: 600px) {
+    .view-main {
+      height: 700px;
+    }
+  }
+
   .data-view {
     flex: none;
     box-sizing: border-box;
     padding: 0 10px;
     text-align: center;
     overflow: scroll;
+  }
+  .data-view {
+    scrollbar-width: none;  /* Firefox */
+  }
+  .data-view::-webkit-scrollbar {
+    display: none;
   }
   .map-view {
     flex: 1;
@@ -78,9 +93,14 @@
     }
   }
 
+  .map-view .local-area {
+    cursor: pointer;
+  }
+
+
 
   .map-view .local-area {
-    fill: #f5f5f5;
+    fill: #e0e0e0;
   }
   .map-view .local-area.active {
     fill: #0b99bf;
@@ -89,6 +109,10 @@
   .map-view .local-area.active:hover {
     fill: #0d82a1;
     stroke: #0c718c;
+  }
+  .map-view .local-area.active.current {
+    fill: #0d82a1;
+    stroke: #086982;
   }
 
 
@@ -164,6 +188,8 @@
       }
     },
     mounted() {
+      const defaultLocal = this.locals.find(local => (local.candidate?.name || "").search('Kaycee') > -1);
+      this.handleLocalSelect(defaultLocal);
       //console.log(this.locals);
     }
 

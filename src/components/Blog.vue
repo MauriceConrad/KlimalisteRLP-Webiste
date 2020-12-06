@@ -20,6 +20,7 @@
     padding: 20px 20px;
     overflow: scroll;
     scrollbar-width: none;
+    border-top: 1px solid rgb(233, 233, 233);
   }
   .container::-webkit-scrollbar {
     display: none;
