@@ -142,7 +142,7 @@
           /*{
             label: "Spenden",
             icon: 'icons/nav/coin.svg',
-            href: '#Mitmachen'
+            href: '#Spenden'
           },*/
           {
             label: "Kontakt",
