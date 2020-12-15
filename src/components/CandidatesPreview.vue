@@ -168,6 +168,9 @@
     transform: rotate(0deg);
   }
 
+  .about-article a {
+    color: inherit;
+  }
 
   .candidates-view {
     animation: showCandidatesView 0.5s;
@@ -307,7 +310,7 @@
 
     padding: 10px 16px 10px;
     text-decoration: none;
-    color: #fff;
+    color: #fff !important;
   }
 
   .some-list {
@@ -366,6 +369,11 @@
           {
             icon: 'icons/socialmedia/facebook.svg',
             href: 'https://www.facebook.com/klimalisterlp',
+            blank: true
+          },
+          {
+            icon: 'icons/socialmedia/whatsapp.svg',
+            href: 'https://chat.whatsapp.com/G10K76QnJI0BaDgK6rwxHs',
             blank: true
           }
         ]
