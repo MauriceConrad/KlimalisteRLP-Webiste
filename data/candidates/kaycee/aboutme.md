@@ -10,3 +10,7 @@ Seit einem Jahr bin ich im Rahmen mehrerer aktivistischer Gruppen vor allem loka
 ## Zielsetzung
 
 Seit Jahrzehnten gibt es wissenschaftlich fundierte Maßnahmen um die Klimakrise zu bewältigen, nur gibt es bislang noch keine Partei die sich komplett dahinter stellt. Diese Rolle möchte ich mit der Klimaliste RLP einnehmen. Es bedarf dringend einer Fraktion, die die Klimakrise als solche anerkennt und die notwendigen Maßnahmen umsetzt. Es ist unser Ziel Wissenschaftler\*innen und Aktivist\*innen gleichermaßen in die Politik zu bringen und damit ein Umdenken zu forcieren. Die Einhaltung der Pariser Klimaziele und das Ziel der zeitnahen Klimaneutralität muss ein zentrales Thema in der Politik werden. Wir sind bereits bei einem Temperaturanstieg von 1,2°C seit 1880. Wir haben nicht mehr viel Zeit! Mit der Klimaliste RLP stehe ich für schnelles Handeln zum Erreichen des 1,5 Grad Ziels, umfangreichen Klima- und Umweltschutz und den Kohleausstieg vor 2038. Persönlich stehe ich zudem für Geschlechtergleichheit, für Diskriminierungsfreiheit, gegen Rassismus und gegen den Rechtsruck in unserer Gesellschaft.
+
+## Kontakt
+
+kaycee.hesse@klimalisterlp.de

@@ -10,3 +10,7 @@ Als einer der über 26.800 Wissenschaftler*innen, die die 2019 überreichte Stel
 ## Zielsetzungen
 
 Als Klimaliste sind wir frei von parteipolitisch getriebenen Zielsetzungen und Lobbyverbänden, setzen uns dafür aus engagierten Aktivist\*innen und Wissenschaftler\*innen zusammen, die sich in vielen verschiedenen Klimanetzwerken austauschen und die wissenschaftlich geprüfte sowie praxiserprobte Konzepte für ein klimaneutrales Rheinland-Pfalz umsetzen. Mit einer interdisziplinären Betrachtung auf Transformationsprozesse habe ich es zum Ziel, insbesondere die Maßnahmen voranzubringen, die unser gesellschaftliches Handeln klimaneutral gestalten, lokale Innovationsimpulse in ländlichen und urbanen Räumen setzen und neue wirtschaftliche Chancen für unser Bundesland bieten.
+
+## Kontakt
+
+benjamin.kraff@klimalisterlp.de

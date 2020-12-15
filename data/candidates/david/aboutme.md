@@ -13,3 +13,7 @@ Für mich ist der Eintritt in die Politik die letzte Chance, die ich sehe, um un
 ## Zielsetzungen
 
 Alle politischen Maßnahmen müssen am 1,5-Grad-Ziel des Pariser Klimaschutzabkommens gemessen werden. Die einfache Frage an alle politischen Entscheider muss lauten: „Ist diese Entscheidung klimaschädlich?“. Wenn die Antwort nicht „Nein“ lautet, dann muss eine bessere, sozial gerechte und klimaneutrale Lösung gefunden werden.
+
+## Kontakt
+
+david.schwarz@klimalisterlp.de

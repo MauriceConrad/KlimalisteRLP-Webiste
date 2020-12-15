@@ -18,4 +18,6 @@ Unsere Vision ist ein Rheinland-Pfalz angetrieben ausschließlich durch erneuerb
 - In Städten sollen alle geeigneten Dächer und Fassaden mit Solarkraft ausgestattet werden.
 - Kommunen und BürgerInnen in der Nähe von Windkraftanlagen sollen davon Vorteile haben, z.B. durch Gewinnbeteiligung.
 
-Quelle: [Statistisches Landesamt RLP: Energie und CO2-Bilanz RLP (für EE-Anteil an Stromerzeugung und Stromverbrauch)](https://www.statistik.rlp.de/fileadmin/dokumente/berichte/E/4123/E4123_201700_1j_L.pdf)
+### Quellen:
+
+[Statistisches Landesamt RLP: Energie und CO2-Bilanz RLP (für EE-Anteil an Stromerzeugung und Stromverbrauch)](https://www.statistik.rlp.de/fileadmin/dokumente/berichte/E/4123/E4123_201700_1j_L.pdf)

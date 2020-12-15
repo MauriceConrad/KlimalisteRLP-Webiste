@@ -9,3 +9,7 @@ Seit Mai 2019 bin ich Stadtrat in der Landeshauptstadt Mainz. Ich bin dort als j
 ## Zielsetzungen
 
 Der größe politische Skandal unserer Zeit ist die Nicht-Einhaltung des 1,5-Grad-Ziels und vor allem die völlige Abstinenz diesen Angebotes. Ich wollte mich nicht damit abfinden, dass keine Partei und kein politischer Akteur ein Programm anbietet, welches die notwendigen Maßnahmen zur Einhaltung des Pariser Klimaabkommens enthält. Das war nicht nur für mich als Klimaaktivisten unfassbar sondern vor allem eines: Unerträglich. Die wissenschaftlich notwendigen Maßnahmen liegen seit Jahrzehnten auf dem Tisch - dass sie in den Wahlprogrammen aller Parteien und Akteure lediglich in verfälschter Form vorliegen, müssen wir ändern.
+
+## Kontakt
+
+maurice.conrad@klimalisterlp.de

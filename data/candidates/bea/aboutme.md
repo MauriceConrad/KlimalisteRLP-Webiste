@@ -10,3 +10,7 @@ Ich glaube, dass Klimaschutz der Schlüssel zu vielen gesellschaftlichen Problem
 ## Zielsetzung
 
 Ich wünsche mir, dass Rheinland-Pfalz das 1,5-Grad-Ziel einhält und zum Vorbild für Deutschland und die Welt wird. Ich werde mich dafür einsetzen, dass die Transformation sozial gerecht ist und mit vielen positiven Nebeneffekten einhergeht. Eine gemeinsame Vision kann unsere Gesellschaft zusammenschweißen. Grüne Städte erhöhen die Lebensqualität und die Gesundheit. Die Verkehrswende bietet die Chance für nachhaltige und für jeden bezahlbare Mobilität. Investitionen in unsere Zukunft werden Innovationen anregen und neue Arbeitsplätze schaffen. Und wir hinterlassen den nächsten Generationen eine lebenswerte Welt. Das ist das Rheinland-Pfalz von dem ich träume.
+
+## Kontakt
+
+beatrice.bednarz@klimalisterlp.de

@@ -16,3 +16,7 @@ Es ist einfach absurd, dass wir so viele Lösungen kennen, die uns in eine nachh
 Dabei scheint es dem parteipolitischen System immanent zu sein, dass für Stimmen und Karrieren die eigentlich notwendigen (und wissenschaftlich bestätigten) Maßnahmen schon von vornerein abgeschwächt und relativiert werden. Diese Maßnahmen sind jedoch dringendst nötig.
 Millionen Menschen, die für Klimagerechtigkeit demonstrieren, scheint alleine nicht auszureichen – wir brauchen einen konsequenten Akteur im parlamentarischen Prozess. Daher halte ich es für notwendig, einen Teil unseres Aktivismus‘ mit der Klimaliste auf diese neue Ebene anzuheben.
 Ich möchte keine Berufspolitikerin werden. Und genau das legitimiert und qualifiziert mich als Kandidatin der Klimaliste RLP. Denn es gibt mir die Freiheit, für die Sache einstehen zu können, ohne Angst um meine Karriere oder das Standing „meiner Partei“ haben zu müssen.
+
+## Kontakt
+
+greta.waltenberg@klimalisterlp.de
