@@ -36,7 +36,7 @@
   import SupportEasy from './components/SupportEasy.vue';
   import QuotesView from './components/QuotesView.vue';
   import ProgramView from './components/ProgramView.vue';
-  import SupportTutorial from './components/SupportTutorial.vue';
+  //import SupportTutorial from './components/SupportTutorial.vue';
   import Contribute from './components/Contribute.vue';
   import Contact from './components/Contact.vue';
   import PageFooter from './components/Footer.vue';
@@ -61,7 +61,7 @@
       ProgramView,
       Blog,
       //LocalCandidatesApp,
-      SupportTutorial,
+      //SupportTutorial,
       Contribute,
       Contact,
       PageFooter,
