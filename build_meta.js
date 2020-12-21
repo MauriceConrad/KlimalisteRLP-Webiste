@@ -9,7 +9,7 @@ const meta = [
   },
   {
     name: 'twitter:description',
-    content: 'Aktivist*innen & Wissenschaftler*innen - 2021 kannst du uns und das 1,5°C-Ziel in den Landtag wählen!'
+    content: 'Klimaschützer*innen & Wissenschaftler*innen - 2021 kannst du uns und das 1,5°C-Ziel in den Landtag wählen!'
   },
   {
     name: 'twitter:image',
@@ -33,7 +33,7 @@ const meta = [
   },
   {
     property: 'og:description',
-    content: 'Aktivist*innen & Wissenschaftler*innen - 2021 kannst du uns und das 1,5°C-Ziel in den Landtag wählen!'
+    content: 'Klimaschützer*innen & Wissenschaftler*innen - 2021 kannst du uns und das 1,5°C-Ziel in den Landtag wählen!'
   },
 ];
 
