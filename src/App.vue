@@ -11,6 +11,7 @@
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
     <QuotesView></QuotesView>
+    <Calendar></Calendar>
     <ProgramView></ProgramView>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Contribute></Contribute>
@@ -41,6 +42,7 @@
   import Contact from './components/Contact.vue';
   import PageFooter from './components/Footer.vue';
   import Blog from './components/Blog.vue';
+  import Calendar from './components/Calendar.vue';
 
   //import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
 
@@ -60,6 +62,7 @@
       QuotesView,
       ProgramView,
       Blog,
+      Calendar,
       //LocalCandidatesApp,
       //SupportTutorial,
       Contribute,
