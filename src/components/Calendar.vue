@@ -1,6 +1,6 @@
 <template>
   <div class="calendar-container">
-    <h3>Kalendar</h3>
+    <h3>Kalender</h3>
 
     <div class="date-items">
       <ul>
