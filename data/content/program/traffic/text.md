@@ -2,9 +2,10 @@
 
 ## Aktueller Stand
 
-1. In Rheinland-Pfalz ist der Verkehrssektor für 25% der gesamten Treibhausgas-Emissionen verantwortlich und verzeichnet seit 1990 als einziger Sektor steigende Emissionen.[1]
-2. Davon fällt der größte Anteil auf den Straßen- und Individualverkehr. Weiterhin hat RLP den zweithöchsten Pkw-Bestand pro 100.000 Einwohner*innen in Deutschland.[2]
-3. Davon sind über 90% mit Verbrennungsmotoren ausgestattet.<br><br> **Damit ist der Verkehrssektor einer der Schlüsselbereiche in der Klimapolitik unseres Landes, um das Pariser 1,5-Grad-Ziel zu erreichen.**
+1. In Rheinland-Pfalz ist der Verkehrssektor für 25% der gesamten Treibhausgas-Emissionen verantwortlich und verzeichnet seit 1990 als einziger Sektor steigende Emissionen.[1]<br>
+2. Davon fällt der größte Anteil auf den Straßen- und Individualverkehr. Weiterhin hat RLP den zweithöchsten Pkw-Bestand pro 100.000 Einwohner*innen in Deutschland.[2]<br>
+3. Davon sind über 90% mit Verbrennungsmotoren ausgestattet.
+<br><br> **Damit ist der Verkehrssektor einer der Schlüsselbereiche in der Klimapolitik unseres Landes, um das Pariser 1,5-Grad-Ziel zu erreichen.**
 
 ## Unsere Vision: Mobilität für Menschen
 
