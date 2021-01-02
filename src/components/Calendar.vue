@@ -178,24 +178,14 @@
               href: 'mailto:presse@klimalisterlp.de',
               label: 'Anmeldung via Mail'
             }
-          },/*
-          {
-            title: 'Vorstellung: Landtagswahl',
-            location: 'Live Stream',
-            date: new Date('2020-12-30T19:00:00'),
-            description: `Im Vorfeld unserer ersten großen Pressekonferenz stellen wir uns in einem offenen Live-Stream vor. Anmeldung unter info@klimalisterlp.de`,
-            actionLink: {
-              href: 'mailto:info@klimalisterlp.de',
-              label: 'Anmeldung via Mail'
-            }
-          }*/
+          }
         ]
       }
     },
     methods: {
       getDateStr(date) {
         return [
-          date.getDate(),
+          String(date.getDate()).padStart(2, '0'),
           ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"][date.getMonth()]
           //["Jan", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"][date.getMonth()]
         ];
