@@ -172,7 +172,7 @@
           {
             title: 'Pressekonferenz',
             location: 'Erbacher Hof / Livestream',
-            date: new Date('2020-12-30T15:00:00'),
+            date: new Date('2021-01-07T10:00:00'),
             description: `Als Auftakt des Wahlkampfs werden wir uns und unser Wahlprogramm für die Landtagswahl in einer Pressekonferenz im Erbacher Hof vorstellen. Die Veranstaltung wird per Livestream auf YouTube übertragen.`,
             actionLink: {
               href: 'mailto:presse@klimalisterlp.de',
