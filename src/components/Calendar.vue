@@ -170,15 +170,15 @@
       return {
         calendar: [
           {
-            title: 'Vorstellung: Landtagswahl',
-            location: 'Live Stream',
+            title: 'Pressekonferenz',
+            location: 'Erbacher Hof / Livestream',
             date: new Date('2020-12-30T15:00:00'),
-            description: `Im Vorfeld unserer ersten großen Pressekonferenz stellen wir uns in einem offenen Live-Stream vor. Anmeldung unter info@klimalisterlp.de`,
+            description: `Als Auftakt des Wahlkampfs werden wir uns und unser Wahlprogramm für die Landtagswahl in einer Pressekonferenz im Erbacher Hof vorstellen. Die Veranstaltung wird per Livestream auf YouTube übertragen.`,
             actionLink: {
-              href: 'mailto:info@klimalisterlp.de',
+              href: 'mailto:presse@klimalisterlp.de',
               label: 'Anmeldung via Mail'
             }
-          },
+          },/*
           {
             title: 'Vorstellung: Landtagswahl',
             location: 'Live Stream',
@@ -188,7 +188,7 @@
               href: 'mailto:info@klimalisterlp.de',
               label: 'Anmeldung via Mail'
             }
-          }
+          }*/
         ]
       }
     },

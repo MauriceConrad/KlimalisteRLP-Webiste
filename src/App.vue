@@ -6,12 +6,14 @@
     <!--<hr />
     <LocalCandidatesApp></LocalCandidatesApp>-->
     <!--<SupportTutorial></SupportTutorial>-->
+
+    <Calendar></Calendar>
     <hr />
     <!--<SupportTutorial></SupportTutorial>-->
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
     <QuotesView></QuotesView>
-    <Calendar></Calendar>
+
     <ProgramView></ProgramView>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Contribute></Contribute>
