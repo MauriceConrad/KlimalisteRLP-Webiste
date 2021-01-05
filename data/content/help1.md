@@ -1,1 +1,1 @@
-Wir brauchen Dich! Ein großes Projekt kann nur gelingen, wenn alle zusammenarbeiten. Wie du uns auf unterschiedlichsten Wegen unterstützen kannst, erfährst du weiter unten.
+Wir brauchen Dich! Ein großes Projekt kann nur gelingen, wenn alle zusammenarbeiten. Wenn Du bereit bist, selbst Dinge in die Hand zu nehmen, oder uns bei diversen Aufgaben zu unterstützen, dann werde Mitglied oder schreib uns direkt, wie Du helfen kannst.

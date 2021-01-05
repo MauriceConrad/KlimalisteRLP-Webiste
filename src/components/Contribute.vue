@@ -1,7 +1,8 @@
 <template>
   <div class="contributing-view" data-nav-id="Spenden">
-    <h2>How to: Mitmachen</h2>
+    <h2>Spenden</h2>
     <div class="contribute-list">
+    <div class="donate-text" v-html="content.donateText"></div>
       <ul>
         <li v-for="(topic, index) in topics" :key="index">
           <div class="icon-main">
@@ -114,18 +115,22 @@
 
 
 <script>
-  import ContentInteresting from '../../data/content/contributing/interesting.md';
-  import ContentScience from '../../data/content/contributing/science.md';
-  import ContentCandidate from '../../data/content/contributing/candidate.md';
+  //import ContentInteresting from '../../data/content/contributing/interesting.md';
+  //import ContentScience from '../../data/content/contributing/science.md';
+  //import ContentCandidate from '../../data/content/contributing/candidate.md';
+  import DonateText from '../../data/content/donate1.md';
 
   import SVGIcon from './SVGIcon.vue';
 
   export default {
-    name: "Contributing",
+    name: "Spenden",
     data() {
       return {
+        content: {
+          donateText: DonateText
+        },
         topics: [
-          {
+            /*{
             title: 'Als Interessent*in',
             icon: 'icons/contribute/heart.svg',
             content: ContentInteresting,
@@ -164,20 +169,13 @@
                 description: 'info@klimalisterlp.de'
               }
             ]
-          },
+          },*/
           {
-            title: 'Als potentielle*r Kandidat*in',
-            icon: 'icons/contribute/rlp.svg',
-            content: ContentCandidate,
+            icon: 'icons/save.svg',
             buttons: [
               {
-                label: 'Schreib uns eine Mail',
-                href: 'mailto:info@klimalisterlp.de',
-                description: 'info@klimalisterlp.de'
-              },
-              {
-                label: 'WhatsApp',
-                href: 'https://chat.whatsapp.com/G10K76QnJI0BaDgK6rwxHs',
+                label: 'Sonstige Zahlungsmethoden',
+                href: 'https://klimalisterlp.de/spenden/',
                 blank: true
               }
             ]

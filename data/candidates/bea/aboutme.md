@@ -13,4 +13,4 @@ Ich wünsche mir, dass Rheinland-Pfalz das 1,5-Grad-Ziel einhält und zum Vorbil
 
 ## Kontakt
 
-beatrice.bednarz@klimalisterlp.de
+<a href = "beatrice.bednarz@klimalisterlp.de" style="color:inherit; background:inherit;"> E-Mail </a>

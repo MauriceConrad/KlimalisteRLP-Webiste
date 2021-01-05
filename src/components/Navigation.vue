@@ -139,11 +139,11 @@
             icon: 'icons/nav/hands.svg',
             href: '#Unterstuetzen'
           },
-          /*{
+          {
             label: "Spenden",
             icon: 'icons/nav/coin.svg',
             href: '#Spenden'
-          },*/
+          },
           {
             label: "Kontakt",
             icon: 'icons/nav/mail.svg',

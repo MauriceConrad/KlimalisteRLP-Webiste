@@ -1,7 +1,5 @@
-Du willst Deine Expertise als Wissenschaftler\*in oder Klimaschützer\*in einbringen? Oder einfach aktiv mitmachen? Dann solltest Du z.B. Mitglied unseres Vereins werden uvm.
+Du willst Deine Expertise als Wissenschaftler\*in oder Klimaschützer\*in einbringen? Oder einfach aktiv mitmachen?
 
-- Schreib am Programm mit.
-- Werde Mitglied bei der Klimaliste RLP e.V., um wählen und aktiv mitbestimmen und -gestalten zu können.
-- Hilf uns beim Sammeln von Unterschriften für die Wahl (Voraussetzung für die Zulassung zur Landtagswahl).
+- Unterstütze uns bei der Recherche und Ausarbeitung wissenschaftlicher Kenntnisse.
 - Hilf uns bei Social Media-, Presse- & Öffentlichkeitsarbeit.
 - Bring Dich in vielen weiteren Bereichen unseres Projektes ein.

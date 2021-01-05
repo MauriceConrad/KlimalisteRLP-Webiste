@@ -61,7 +61,7 @@
   }
   .support-list li {
     display: inline-block;
-    max-width: 270px;
+    max-width: 330px;
     padding: 20px;
     vertical-align: top;
     box-sizing: border-box;
@@ -87,6 +87,7 @@
     border: none;
     transition: all 0.3s;
     cursor: pointer;
+    margin: 7px 7px;
   }
   .btn:hover {
     transform: rotate(1deg) scale(1.05);
@@ -105,10 +106,13 @@
 
   import SupportText from '../../data/content/support1.md';
 
-  import DonateText from '../../data/content/donate1.md';
+  //import DonateText from '../../data/content/donate1.md';
   import HelpText from '../../data/content/help1.md';
-  import SignText from '../../data/content/sign1.md';
+  //import SignText from '../../data/content/sign1.md';
   import TalkText from '../../data/content/talk1.md';
+
+  import ContentInteresting from '../../data/content/contributing/interesting.md';
+  import ContentScience from '../../data/content/contributing/science.md';
 
 
   export default {
@@ -122,7 +126,7 @@
           supportText: SupportText
         },
         supportItems: [
-          {
+          /*{
             title: "Spenden",
             icon: 'icons/save.svg',
             text: DonateText,
@@ -133,19 +137,24 @@
                 blank: true
               }
             ]
-          },
+          },*/
           {
             title: "Mitmachen",
             icon: 'icons/project.svg',
             text: HelpText,
             buttons: [
               {
-                label: 'How to: Mitmachen',
-                href: '#Mitmachen',
-                blank: false
+                label: 'Mitglied werden',
+                href: 'files/Beitrittsformular.pdf',
+                blank: true
+              },
+              {
+                label: 'Schreib uns eine Mail',
+                href: 'mailto:info@klimalisterlp.de',
+                description: 'info@klimalisterlp.de'
               }
             ]
-          },
+          },/*
           {
             title: "Wahlteilnahme ermöglichen",
             icon: 'icons/signing-the-contract.svg',
@@ -157,6 +166,40 @@
                 blank: false
               }
             ]
+          },*/
+          {
+            title: 'Als Interessent*in',
+            icon: 'icons/contribute/heart.svg',
+            text: ContentInteresting,
+            buttons: [
+              {
+                label: 'Mitglied werden',
+                href: 'files/Beitrittsformular.pdf',
+                blank: true
+              },
+              {
+                label: 'Jetzt spenden!',
+                href: 'https://klimalisterlp.de/spenden/',
+                blank: true
+              }
+            ]
+          },
+          {
+            title: 'Als Wissenschaftler*, Klimaschützer* oder Helfer*in',
+            icon: 'icons/contribute/science.svg',
+            text: ContentScience,
+            buttons: [
+              {
+                label: 'Mitglied werden',
+                href: 'files/Beitrittsformular.pdf',
+                blank: true
+              },
+              {
+                label: 'Schreib uns eine Mail',
+                href: 'mailto:info@klimalisterlp.de',
+                description: 'info@klimalisterlp.de'
+              }
+            ]
           },
           {
             title: "Erzähl von uns!",
@@ -164,7 +207,7 @@
             text: TalkText,
             buttons: [
               {
-                label: 'Link teilen',
+                label: 'Mobil Link teilen',
                 href: null,
                 method: () => {
                   this.share();

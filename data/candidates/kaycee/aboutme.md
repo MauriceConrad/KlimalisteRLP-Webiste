@@ -13,4 +13,4 @@ Seit Jahrzehnten gibt es wissenschaftlich fundierte Maßnahmen um die Klimakrise
 
 ## Kontakt
 
-kaycee.hesse@klimalisterlp.de
+<a href = "kaycee.hesse@klimalisterlp.de" style="color:inherit; background:inherit;"> E-Mail </a>

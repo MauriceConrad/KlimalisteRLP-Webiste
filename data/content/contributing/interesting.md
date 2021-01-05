@@ -1,9 +1,7 @@
-Du möchtest mehr über uns wissen oder uns unterstützen? Es gibt vielfältige Möglichkeiten, mit denen Du uns helfen kannst.
+Du möchtest mehr über uns wissen oder uns unterstützen?
 
-- Werde Mitglied bei der Klimaliste RLP e.V., um  aktiv mitbestimmen und -gestalten zu können.
-- Unterstütze uns mit Deiner Unterschrift, damit wir zur Wahl zugelassen werden.
-- Gib uns deine Stimme.
+- Gib uns Deine Stimme.
+- Werde Mitglied bei der Klimaliste RLP e.V., um  aktiv mitgestalten zu können.
+- Folge uns bei <a href="https://twitter.com/klimalisterlp" style="color:inherit; background:inherit;">Twitter</a>, <a href="https://www.instagram.com/klimalisterlp/" style="color:inherit; background:inherit;">Instagram</a> & <a href="https://www.facebook.com/klimalisterlp/" style="color:inherit; background:inherit;">Facebook</a>.
+- Abonniere unsere Maillingliste oder Info Chats (<a href="https://chat.whatsapp.com/G10K76QnJI0BaDgK6rwxHs" style="color:inherit; background:inherit;">WhatsApp</a>).
 - Lass uns Deine Spende zukommen.
-- Abonniere unsere Maillingliste oder Info Chats (WhatsApp).
-- Folge uns bei Twitter, Instagram & Facebook!
-- Erzähl Deinen Freund*innen von uns & teile unsere Beiträge.

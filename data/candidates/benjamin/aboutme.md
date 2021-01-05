@@ -13,4 +13,4 @@ Als Klimaliste sind wir frei von parteipolitisch getriebenen Zielsetzungen und L
 
 ## Kontakt
 
-benjamin.kraff@klimalisterlp.de
+<a href = "benjamin.kraff@klimalisterlp.de" style="color:inherit; background:inherit;"> E-Mail </a>
