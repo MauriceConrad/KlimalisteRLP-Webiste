@@ -1,5 +1,5 @@
 <template>
-  <div class="contributing-view" data-nav-id="Spenden">
+  <div class="contributing-view" data-nav-id="Old-Spenden">
     <h2>Spenden</h2>
     <div class="contribute-list">
     <div class="donate-text" v-html="content.donateText"></div>

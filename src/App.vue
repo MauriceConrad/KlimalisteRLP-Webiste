@@ -14,10 +14,10 @@
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
     <QuotesView></QuotesView>
-    <Spend></Spend>
     <ProgramView></ProgramView>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
-    <Contribute></Contribute>
+    <!-- <Contribute></Contribute> -->
+    <Spend></Spend>
     <Blog></Blog>
     <Contact></Contact>
     <PageFooter></PageFooter>
@@ -41,7 +41,7 @@
   import QuotesView from './components/QuotesView.vue';
   import ProgramView from './components/ProgramView.vue';
   //import SupportTutorial from './components/SupportTutorial.vue';
-  import Contribute from './components/Contribute.vue';
+  //import Contribute from './components/Contribute.vue';
   import Contact from './components/Contact.vue';
   import PageFooter from './components/Footer.vue';
   import Blog from './components/Blog.vue';
@@ -71,7 +71,7 @@
       Calendar,
       //LocalCandidatesApp,
       //SupportTutorial,
-      Contribute,
+      //Contribute,
       Contact,
       PageFooter,
 

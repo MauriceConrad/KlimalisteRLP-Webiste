@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container" data-nav-id="Spenden">>
     <h2>Deine Spende.</h2>
 
     <SpendWiget :current="current" :goals="[10000, 25000, 50000, 100000, 500000]" />
