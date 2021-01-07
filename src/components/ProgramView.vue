@@ -1,6 +1,10 @@
 <template>
   <div class="program-view" data-nav-id="Programm">
     <div class="program-description" v-html="content.description"></div>
+    <a href="files/Klimaplan Rheinland-Pfalz.pdf" class="anchor-program" target="_blank">
+      Vollständiges Programm
+    </a>
+    <br>
     <div class="program-application">
       <div class="tab-bar">
         <div class="tab-bar-inner" ref="tabBarInner">
@@ -40,6 +44,16 @@
     font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', sans-serif;
     background-color: rgb(247, 247, 247);
     border-top: 1px solid rgb(236, 236, 236);
+    text-align: center;
+  }
+  .program-view .anchor-program {
+    background-color: #38ad79;
+    padding: 5px 10px;
+    color: #fff;
+    display: inline-block;
+    font-size: 1.1em;
+    text-decoration: none;
+    margin-bottom: 20px;
   }
   .program-description {
     margin: auto;
@@ -69,6 +83,9 @@
     scrollbar-width: none;  /* Firefox */
     font-size: 1rem;
     background-color: #fff;
+  }
+  .anchor-program {
+
   }
   .tab-bar .tab-bar-inner::-webkit-scrollbar {
     display: none;
