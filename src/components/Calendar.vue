@@ -1,5 +1,5 @@
 <template>
-  <div class="calendar-container">
+  <div class="calendar-container" style="display: none;">
     <h3>Kalender</h3>
 
     <div class="date-items">

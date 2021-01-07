@@ -8,6 +8,7 @@
     <!--<SupportTutorial></SupportTutorial>-->
 
     <Calendar></Calendar>
+    <Spend></Spend>
     <hr />
     <!--<SupportTutorial></SupportTutorial>-->
     <Description background="#fff"></Description>
@@ -46,6 +47,8 @@
   import Blog from './components/Blog.vue';
   import Calendar from './components/Calendar.vue';
 
+  import Spend from './components/Spend.vue';
+
   //import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
 
   import BackgroundHeaderImage from '../data/images/background_header_low.jpg';
@@ -64,6 +67,7 @@
       QuotesView,
       ProgramView,
       Blog,
+      Spend,
       Calendar,
       //LocalCandidatesApp,
       //SupportTutorial,
@@ -78,6 +82,9 @@
     },
     data() {
       return {
+        spend: {
+          current: 500
+        },
         content: {
           bg: BackgroundHeaderImage
         },
