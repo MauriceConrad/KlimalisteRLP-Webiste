@@ -8,13 +8,13 @@
     <!--<SupportTutorial></SupportTutorial>-->
 
     <Calendar></Calendar>
-    <Spend></Spend>
+
     <hr />
     <!--<SupportTutorial></SupportTutorial>-->
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
     <QuotesView></QuotesView>
-
+    <Spend></Spend>
     <ProgramView></ProgramView>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Contribute></Contribute>

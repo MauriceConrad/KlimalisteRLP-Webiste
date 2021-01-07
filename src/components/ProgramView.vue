@@ -19,7 +19,8 @@
             </li>
 
           </ul>
-          <div class="active-detector" :style="{ width: currTabWidth + 'px', transform: 'translateX(' + (currTabPos) + 'px)', 'background-color': activeTopic.color }"></div>
+          <div class="active-detector" :style="{ width: currTabWidth + 'px', transform: 'translateX(' + (currTabPos) + 'px)', 'background-color': activeTopic.color }">
+          </div>
         </div>
       </div>
       <div class="content-view">
