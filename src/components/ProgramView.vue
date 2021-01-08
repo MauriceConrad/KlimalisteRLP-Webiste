@@ -48,13 +48,13 @@
     text-align: center;
   }
   .program-view .anchor-program {
-    background-color: #38ad79;
-    padding: 5px 10px;
+    background-color: #209958;
+    padding: 10px 16px 10px;
     color: #fff;
     display: inline-block;
     font-size: 1.1em;
     text-decoration: none;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   .program-description {
     margin: auto;
@@ -171,6 +171,7 @@
   }
   .content-view .swiper-slide .topic-content-inner {
     padding: 0 10px;
+    text-align: left
   }
 </style>
 

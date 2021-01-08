@@ -356,6 +356,12 @@
           intro: ContentIntro
         },
         socialMedia: [
+
+          {
+            icon: 'icons/socialmedia/youtube.svg',
+            href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+            blank: true
+          },
           {
             icon: 'icons/socialmedia/twitter.svg',
             href: 'https://twitter.com/KlimalisteRLP',

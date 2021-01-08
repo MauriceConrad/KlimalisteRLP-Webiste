@@ -1,6 +1,6 @@
 <template>
-  <div class="container" data-nav-id="Spenden">>
-    <h2>Deine Spende.</h2>
+  <div class="container" data-nav-id="Spenden">
+    <h2>Spenden</h2>
 
     <SpendWiget :current="current" :goals="[10000, 25000, 50000, 100000, 500000]" />
     <br><br>
@@ -64,7 +64,7 @@
                 </div>
               </div>
               <span>
-                Spenden über PayPal können direkt an das Vereinskonto unter <a href="https://paypal.me/klimalisterlp" target="_blank">finanzen@klimalisterlp.de</a> gespendet werden. Das Geld kommt uns, abzüglich der PayPal-Gebühren (0,35 € + 2,5%), direkt zu Gute.
+                Spenden über PayPal können direkt an das Vereinskonto unter <a href="https://paypal.me/klimalisterlp" target="_blank">finanzen@klimalisterlp.de</a> gespendet werden. Das Geld kommt uns, abzüglich der PayPal-Gebühren (0,35€ + 2,5%), direkt zu Gute.
               </span>
               <br><br>
               <a href="http://paypal.me/klimalisterlp" target="_blank">
@@ -146,11 +146,12 @@
     padding: 60px 0 0;
   }
   h2 {
-    font-weight: 300;
-    font-size: 1.6em;
+    display: block;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 2.5em;
     text-align: center;
-    margin: 10px 0;
-    display: none;
+    margin: 0px 0;
   }
   .description {
     text-align: center;
@@ -251,12 +252,13 @@
 
 
   .actions-list > li .btn {
-    background-color: #44aa66;
+    background-color: #209958;
     color: #fff;
     font-weight: 400;
     font-size: 1rem;
     border: none;
-    padding: 7px 12px;
+    padding: 10px 16px 10px;
+    margin-bottom: 20px;
   }
 
 
