@@ -16,4 +16,4 @@ Alle politischen Maßnahmen müssen am 1,5-Grad-Ziel des Pariser Klimaschutzabko
 
 ## Kontakt
 
-<a href = "david.schwarz@klimalisterlp.de" style="color:inherit; background:inherit;"> E-Mail </a>
+<a href = "mailto:david.schwarz@klimalisterlp.de" style="color:inherit; background:inherit;"> david.schwarz@klimalisterlp.de </a>

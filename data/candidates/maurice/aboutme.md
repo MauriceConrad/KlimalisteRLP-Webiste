@@ -12,4 +12,4 @@ Der größe politische Skandal unserer Zeit ist die Nicht-Einhaltung des 1,5-Gra
 
 ## Kontakt
 
-<a href = "maurice.conrad@klimalisterlp.de" style="color:inherit; background:inherit;"> E-Mail </a>
+<a href = "mailto:maurice.conrad@klimalisterlp.de" style="color:inherit; background:inherit;"> maurice.conrad@klimalisterlp.de </a>

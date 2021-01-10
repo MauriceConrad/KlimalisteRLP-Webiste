@@ -19,4 +19,4 @@ Ich möchte keine Berufspolitikerin werden. Und genau das legitimiert und qualif
 
 ## Kontakt
 
-<a href = "greta.waltenberg@klimalisterlp.de" style="color:inherit; background:inherit;"> E-Mail </a>
+<a href = "mailto:greta.waltenberg@klimalisterlp.de" style="color:inherit; background:inherit;"> greta.waltenberg@klimalisterlp.de </a>
