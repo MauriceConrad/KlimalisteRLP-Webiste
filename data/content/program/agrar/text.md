@@ -22,7 +22,7 @@ Förderung von nachhaltiger Land-, Wein- & Forstwirtschaft, sowie die Begrünung
 
 ### Quellen:
 [1] [Ministerium für Wirtschaft, Verkehr, Landwirtschaft und Weinbau von RLP:](https://mwvlw.rlp.de/de/themen/landwirtschaft/)<br>
-[2] https://mwvlw.rlp.de/fileadmin/mwkel/Broschueren/Agrarbericht_2019.pdf S.77<br>
+[2] [Agrarbericht_2019](https://mwvlw.rlp.de/fileadmin/mwkel/Broschueren/Agrarbericht_2019.pdf) S.77<br>
 [3] "Bodenzustandserhebung Landwirtschaft" vom Thünen Institut (2018)<br>
 [4] [Landesforsten RLP](https://www.wald.rlp.de/de/wald/) <br>
-[5] Diese Zahl ergibt sich aus eigenen Berechnungen (840.000 ha * 338 t CO2/ha), https://www.wald.rlp.de/de/wald/, http://dev.wald-rlp.de/de/wir/unsere-unternehmenspolitik/zweck-und-oberziel/
+[5] Diese Zahl ergibt sich aus eigenen Berechnungen (840.000 ha * 338 t CO2/ha),<br>https://www.wald.rlp.de/de/wald/,<br>http://dev.wald-rlp.de/de/wir/unsere-unternehmenspolitik/zweck-und-oberziel/
