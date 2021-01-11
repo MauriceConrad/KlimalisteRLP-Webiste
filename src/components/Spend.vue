@@ -14,7 +14,11 @@
       </div>
       Um unseren <strong>Wahlkampf</strong> zu ermöglichen, sind wir auf <strong>Spenden</strong> angewiesen. Dadurch gewährleisten wir unsere Unabhängigkeit.
       <br><br>
-      Spenden an Wahler:innenvereinigungen sind besonders <strong>steuerlich abzugsfähig</strong>. <strong>50%</strong> werden direkt von der Einkommensteuer abgezogen. Von jährlich bis zu <strong>1.650 €</strong> bei Ledigen, bzw <strong>3.300 €</strong> bei gemeinsam Veranlagten.
+      Spenden an Wahler*innenvereinigungen sind besonders <strong>steuerlich abzugsfähig</strong>. <strong>50%</strong> werden direkt von der Einkommensteuer abgezogen. Von jährlich bis zu <strong>1.650 €</strong> bei Ledigen, bzw <strong>3.300 €</strong> bei gemeinsam Veranlagten.
+      <br>
+      <div class="donationextension">
+      Beispiel: Es reduziert eine Spende von 1000€, die zu zahlende Einkommenssteuer um 500€. So zahlen Sie effektiv 500€ und es kommen trotzdem 1000€ bei uns, zur Finanzierung des Wahlkampfes, an.
+      </div>
     </div>
 
     <div class="actions-main">
@@ -163,6 +167,9 @@
     padding: 10px 10px;
     border-radius: 5px;
     font-weight: 300;
+  }
+  .donationextension {
+    font-size: 85%;
   }
   .description .icon {
     width: 30px;

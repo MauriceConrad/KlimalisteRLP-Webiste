@@ -1,6 +1,9 @@
 <template>
   <div class="program-view" data-nav-id="Programm">
     <div class="program-description" v-html="content.description"></div>
+    <a href="https://youtu.be/yPLHTr1IcvA?t=43" class="anchor-program" target="_blank">
+      Vorstellung des Programms in Videoformat
+    </a><br>
     <a href="files/Klimaplan Rheinland-Pfalz.pdf" class="anchor-program" target="_blank">
       Vollständiges Programm
     </a>
@@ -54,7 +57,7 @@
     display: inline-block;
     font-size: 1.1em;
     text-decoration: none;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
   }
   .program-description {
     margin: auto;
