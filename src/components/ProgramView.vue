@@ -2,10 +2,10 @@
   <div class="program-view" data-nav-id="Programm">
     <div class="program-description" v-html="content.description"></div>
     <a href="https://youtu.be/yPLHTr1IcvA?t=43" class="anchor-program" target="_blank">
-      Vorstellung des Programms in Videoformat
+      Vorstellung des Klimaplans in Videoformat
     </a><br>
     <a href="files/Klimaplan Rheinland-Pfalz.pdf" class="anchor-program" target="_blank">
-      Vollständiges Programm
+      Vollständigen Klimaplan
     </a>
     <br>
     <div class="program-application">
