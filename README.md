@@ -25,9 +25,9 @@ npm run lint
 ```
 
 ### Deploy into production
----
+```
 npm run compile
----
+```
 
 This deploys your changes into production. Your .ssh key must be registered on the server, of course.
 
