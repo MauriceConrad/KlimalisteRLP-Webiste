@@ -5,7 +5,7 @@
 npm install
 ```
 
-Run before running the 
+Run before running the other commands to download dependencies.
 
 ### Compiles and hot-reloads for development
 ```
