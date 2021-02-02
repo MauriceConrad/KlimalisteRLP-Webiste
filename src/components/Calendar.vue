@@ -186,7 +186,7 @@
             description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
             actionLink: [{
               href: 'https://zoom.us/meeting/register/tJUvd-6rpz8rE9CnHZvoQGvvL0ItiiTgyHMt',
-              label: 'Registrierung bei Zoom'
+              label: 'Zoom-Registrierung'
             }]
           },
           {
