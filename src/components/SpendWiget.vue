@@ -130,7 +130,7 @@
     },
     computed: {
       currentGoal() {
-        return this.goals.filter(target => this.current < target)[0];
+        return this.goals.filter(target => (this.current * 1.25) < target)[0];
       },
       progress() {
         return (this.current / this.currentGoal) * 100;
