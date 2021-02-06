@@ -70,6 +70,12 @@
   .map-view {
     flex: 1;
     height: 500px;
+    padding: 20px 0;
+    box-sizing: border-box;
+
+  }
+  .map-view svg {
+
   }
   @media screen and (max-width: 600px) {
     .map-view {
@@ -107,7 +113,7 @@
     margin: 0;
   }
   .data-view .article {
-    max-width: 300px;
+    max-width: 450px;
     padding: 10px 0;
     box-sizing: border-box;
 
