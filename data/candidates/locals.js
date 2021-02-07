@@ -286,8 +286,8 @@ export default [
     "finished": true,
     "links": [
       {
-        "label": "Unterstützungs-Unterschrift",
-        "href": "https://www.google.de"
+        "label": "E-Mail",
+        "href": "mailto:maurice.conrad@klimalisterlp.de"
       }
     ]
   },
@@ -305,8 +305,8 @@ export default [
     "finished": true,
     "links": [
       {
-        "label": "Unterstützungs-Unterschrift",
-        "href": "https://www.google.de"
+        "label": "E-Mail",
+        "href": "mailto:collin.wittenstein@klimalisterlp.de"
       }
     ]
   },
@@ -323,10 +323,10 @@ export default [
     "description": `Mit meiner Kandidatur möchte ich wissenschaftliche Erkenntnisse, innovative Ansätze und praxiserprobte Konzepte für die Transformation des Energie- und Mobilitätssektors in die Landespolitik bringen und Maßnahmen zur Einhaltung des 1,5-Grad-Ziels umsetzen.`,
     "finished": true,
     "links": [
-      /*{
-        "label": "Unterstützungs-Unterschrift",
-        "href": "https://www.google.de"
-      }*/
+      {
+        "label": "E-Mail",
+        "href": "mailto:benjamin.kraff@klimalisterlp.de"
+      }
     ]
   },
   {
@@ -343,10 +343,10 @@ export default [
     "description": `Damit generationengerechter Klimaschutz umgesetzt wird, stelle ich mich mit der Klimaliste zur Landtagswahl auf. Die 1,5-Grad-Grenze des Pariser Klimaabkommens einzuhalten ist das wichtigste Ziel unserer Zeit.`,
     "finished": true,
     "links": [
-      /*{
-        "label": "Unterstützungs-Unterschrift",
-        "href": "https://www.google.de"
-      }*/
+      {
+        "label": "E-Mail",
+        "href": "mailto:david.schwarz@klimalisterlp.de"
+      }
     ]
   },
   {
@@ -382,10 +382,10 @@ export default [
     "description": `Ich trete für die Klimaliste zur Landtagswahl an, weil ich mich dafür stark machen möchte, dass Politik sich an der Wissenschaft orientiert; und weil die Klimakrise und die Einhaltung des 1,5 Grad-Limits das Thema ist, dem wir jetzt alle Priorität einräumen müssen.`,
     "finished": true,
     "links": [
-      /*{
-        "label": "Unterstützungs-Unterschrift",
-        "href": "https://www.google.de"
-      }*/
+      {
+        "label": "E-Mail",
+        "href": "mailto:mareike.schulze@klimalisterlp.de"
+      }
     ]
   },
   {
@@ -428,6 +428,12 @@ export default [
     "translate": [
       398,
       430
+    ],
+    "links": [
+      {
+        "label": "E-Mail",
+        "href": "mailto:friedrich.hiemenz@klimalisterlp.de"
+      }
     ]
   },
   {
@@ -440,13 +446,12 @@ export default [
       413,
       456
     ],
-    //"candidate": Maurice,
-    "description": ``,
+    "description": `Unsere Zukunft entscheidet sich jetzt. Soziale Ungleichheit und Klimawandel bedrohen die Grundpfeiler unserer solidarischen Gesellschaft. Zwei wichtige Probleme die wir gemeinsam angehen müssen.`,
     "finished": true,
     "links": [
       {
-        "label": "Unterstützungs-Unterschrift",
-        "href": "https://www.google.de"
+        "label": "E-Mail",
+        "href": "mailto:jonas.wittner@klimalisterlp.de"
       }
     ]
   },
@@ -479,6 +484,14 @@ export default [
     "translate": [
       343,
       392
+    ],
+    "description": `Die meisten Politiker*innen kümmern sich nur um die nächsten vier Jahre. Wir müssen beim Klimaschutz aber an die Nachfolgenden Generationen denken, um das 1,5 Grad Ziel wirklich erreichen. Daher kommt die Idee für meine Kandidatur. Ich möchte endlich Wissenschaftlichkeit, Objektivität und vor allem langfristige Ideen in den Landtag bringen.`,
+    "finished": true,
+    "links": [
+      {
+        "label": "E-Mail",
+        "href": "mailto:felix.eichner@klimalisterlp.de"
+      }
     ]
   },
   {
@@ -576,10 +589,10 @@ export default [
     "description": `Auch wenn ich lokal viel erreicht habe, befinden sich die größten Weichen, um in den Kommunen wirksamen Klimaschutz und das 1,5-Grad-Ziel umzusetzen auf der Landesebene und in der Gesetzgebung. Deshalb ist es mein klares Ziel, neben meiner Kandidatur auf der Landesliste auch für meinen Wahlkreis anzutreten und in den nächsten rheinland-pfälzischen Landtag zu ziehen.`,
     "finished": true,
     "links": [
-      /*{
-        "label": "Unterstützungs-Unterschrift",
-        "href": "https://www.google.de"
-      }*/
+      {
+        "label": "E-Mail",
+        "href": "mailto:kaycee.hesse@klimalisterlp.de"
+      }
     ]
   },
   {

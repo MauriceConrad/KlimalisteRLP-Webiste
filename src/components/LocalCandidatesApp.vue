@@ -31,7 +31,7 @@
           </div>
           <div class="links">
             <div v-for="(item, index) in activeLocal.links" :key="index" class="link-item">
-              <a :href="item.href" target="_blank">{{ item.label }}</a>
+              <a :href="item.href" style="color:inherit" target="_blank">{{ item.label }}</a>
             </div>
           </div>
         </div>
@@ -51,7 +51,7 @@
 
   .view-main {
     width: 100%;
-    height: 500px;
+    height: 510px;
     display: flex;
   }
   @media screen and (max-width: 600px) {

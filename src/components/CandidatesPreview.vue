@@ -32,9 +32,7 @@
       <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste</a>
     </div>
     <div class="info-box">
-      <h3>Jetzt neu!</h3>
-      <br>
-      <span class="label">Höre den <strong>Klimaplan</strong> als Podcast</span>
+      <span class="label"><h3>Höre den <strong>Klimaplan</strong> als Podcast</h3></span>
       <ul class="podcast-links">
         <li v-for="(platform, index) in podcast" :key="index">
           <a :href="platform.href" :target="platform.blank ? '__blank' : '__self'">

@@ -170,38 +170,51 @@
     data() {
       return {
         calendar: [
-          {
+          /*{
             title: 'Energiewende - von unten?',
             location: 'Livestream',
-            date: new Date('2021-01-29T18:00:00'),
-            description: `Unsere Landtagskandidat*innen Benjamin Kraff und Greta Waltenberg sprechen mit Prof. Dr. Hundhausen über Energiewende. Als Klimaliste RLP laden wir interessierte Bürger*innen herzlich zu unseren offenen Gesprächsrunden mit prominenten Gästen aus Wissenschaft, Gesellschaft und Kultur ein. Wir diskutieren ab jetzt jeden Freitag um 18 Uhr online mit unseren kandidat*innen verschiedene Themen rund um den Klimaplan und Klimapolitik in allen Sektoren.`,
+            date: new Date('2021-02-05T18:00:00'),
+            description: `Unsere Landtagskandidat*innen Maurice Conrad und Kaycee Hesse sprechen mit Katja Diehl über Mobilitätswende. Diehl ist eine bekannte Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität, Neuem Arbeiten und Diversität. Mit ihr und allen interessierten Bürger*innen und Bürgern wollen wir über die Mobilität von Morgen sprechen.`,
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=i8vDElg1fCk',
               label: 'Youtube-Aufzeichnung'
-            }]},
+            }]},*/
           {
             title: 'Offenes Bürger*innengespräch',
             location: 'Livestream',
-            date: new Date('2021-02-02T19:00:00'),
+            date: new Date('2021-02-09T19:00:00'),
             description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
             actionLink: [{
-              href: 'https://zoom.us/meeting/register/tJUvd-6rpz8rE9CnHZvoQGvvL0ItiiTgyHMt',
+              href: 'https://zoom.us/j/93109035201?pwd=NlhsSHVPY1hmYzdhaDV1SEUrL1RsUT09',
               label: 'Zoom-Registrierung'
             }]
           },
+
           {
-            title: 'Mehr Mobilität - weniger Verkehr?',
+            title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
             location: 'Livestream',
-            date: new Date('2021-02-05T18:00:00'),
-            description: `Unsere Landtagskandidat*innen Maurice Conrad und Kaycee Hesse sprechen mit Katja Diehl über Mobilitätswende. Diehl  ist eine bekannte Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität, Neuem Arbeiten und Diversität. Mit ihr und allen interessierten Bürger*innen und Bürgern wollen wir über die Mobilität von Morgen sprechen.`,
+            date: new Date('2021-02-12T18:00:00'),
+            description: ``,
             actionLink: [{
-              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
-              label: 'YouTube LiveStream'
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
+              label: 'YouTube'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
             }]
+
+          },
+          {
+            title: 'Landwirtschaft von morgen',
+            location: 'Livestream',
+            date: new Date('2021-02-15T18:00:00'),
+            description: ``,
+            actionLink: [{
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
+              label: 'YouTube'
+            }]
+
           }/*,
           {
             title: 'Migration als Chance',
