@@ -177,7 +177,7 @@
             description: `Unsere Landtagskandidat*innen Benjamin Kraff und Greta Waltenberg sprechen mit Prof. Dr. Hundhausen über Energiewende. Als Klimaliste RLP laden wir interessierte Bürger*innen herzlich zu unseren offenen Gesprächsrunden mit prominenten Gästen aus Wissenschaft, Gesellschaft und Kultur ein. Wir diskutieren ab jetzt jeden Freitag um 18 Uhr online mit unseren kandidat*innen verschiedene Themen rund um den Klimaplan und Klimapolitik in allen Sektoren.`,
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=i8vDElg1fCk',
-              label: 'Aufzeichnung'
+              label: 'Youtube-Aufzeichnung'
             }]},
           {
             title: 'Offenes Bürger*innengespräch',
@@ -186,7 +186,7 @@
             description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
             actionLink: [{
               href: 'https://zoom.us/meeting/register/tJUvd-6rpz8rE9CnHZvoQGvvL0ItiiTgyHMt',
-              label: 'Registrierung bei Zoom'
+              label: 'Zoom-Registrierung'
             }]
           },
           {

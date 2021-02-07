@@ -1,3 +1,4 @@
+
 <template>
   <div class="progress-main">
     <div class="progress-area">
@@ -35,7 +36,7 @@
               <path d="M 80,3 L 80,60" style="fill: none; stroke: #000; stroke-width: 1px;" />
 
               <g>
-                <text x="3" y="90" style="font-size: 30px; font-family: 'Montserrat'; fill: #000; font-weight: 300; dominant-baseline: top;">
+                <text v-bind:x="progress > 10 ? '3' : '50'" y="90" style="font-size: 30px; font-family: 'Montserrat'; fill: #000; font-weight: 300; dominant-baseline: top;">
                   {{ beauftifyCurreny(current, '€', 3, ".") }}
                 </text>
               </g>
@@ -130,7 +131,7 @@
     },
     computed: {
       currentGoal() {
-        return this.goals.filter(target => this.current < target)[0];
+        return this.goals.filter(target => (this.current * 1.25) < target)[0];
       },
       progress() {
         return (this.current / this.currentGoal) * 100;

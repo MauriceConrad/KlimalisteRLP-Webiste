@@ -31,6 +31,20 @@
     <div class="more-container">
       <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste</a>
     </div>
+    <div class="info-box">
+      <h3>Jetzt neu!</h3>
+      <br>
+      <span class="label">Höre den <strong>Klimaplan</strong> als Podcast</span>
+      <ul class="podcast-links">
+        <li v-for="(platform, index) in podcast" :key="index">
+          <a :href="platform.href" :target="platform.blank ? '__blank' : '__self'">
+            <div class="icon">
+              <img :src="platform.icon" alt="Link Image">
+            </div>
+          </a>
+        </li>
+      </ul>
+    </div>
     <div class="some-list">
       <h3>Folge uns auf Social Media!</h3>
       <ul class="some-links">
@@ -47,6 +61,25 @@
 </template>
 
 <style scoped>
+
+  .info-box {
+    margin: 10px 0;
+  }
+  .info-box h3 {
+    margin: 0;
+  }
+  .info-box .label {
+
+  }
+  .info-box .podcast-links {
+    list-style: none;
+  }
+  .info-box .podcast-links li {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+  }
 
   h2 {
 
@@ -356,7 +389,6 @@
           intro: ContentIntro
         },
         socialMedia: [
-
           {
             icon: 'icons/socialmedia/youtube.svg',
             href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
@@ -380,6 +412,38 @@
           {
             icon: 'icons/socialmedia/whatsapp.svg',
             href: 'https://chat.whatsapp.com/G10K76QnJI0BaDgK6rwxHs',
+            blank: true
+          }
+        ],
+        podcast: [
+          {
+            icon: 'icons/podcast/spotify.svg',
+            href: 'https://open.spotify.com/show/2nRVt9cFPbc5E2YslznsY5',
+            blank: true
+          },
+          {
+            icon: 'icons/podcast/apple.svg',
+            href: 'https://podcasts.apple.com/us/podcast/klimaplan/id1549893019?uo=4',
+            blank: true
+          },
+          {
+            icon: 'icons/podcast/amazon.svg',
+            href: 'https://music.amazon.de/podcasts/6ca7ddce-a550-4820-9c16-66f49299fcac/Klimaplan',
+            blank: true
+          },
+          {
+            icon: 'icons/podcast/google.svg',
+            href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9tczNvdXoucG9kY2FzdGVyLmRlL2tsaW1hbGlzdGVybHAucnNz',
+            blank: true
+          },
+          {
+            icon: 'icons/podcast/deezer-logo.svg',
+            href: 'https://www.deezer.com/de/show/2199812',
+            blank: true
+          },
+          {
+            icon: 'icons/podcast/podcastde.svg',
+            href: 'https://www.podcast.de/podcast/940508/',
             blank: true
           }
         ]
