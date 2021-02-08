@@ -187,8 +187,8 @@
             date: new Date('2021-02-12T18:00:00'),
             description: `Zu Gast: Sascha Freytag, ehemaliger Leiter einer Erstaufnahmeeinrichtung,Unser Landtagskandidat Maurice Conrad spricht mit verschiedensten Vertreter*innen aus Geflüchtetenhilfe, NGO's und Ehrenamtlichen über Integration und Antirassismus.`,
             actionLink: [{
-              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
-              label: 'YouTube LiveStream'
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              label: 'YouTube'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -201,8 +201,8 @@
             date: new Date('2021-02-15T18:00:00'),
             description: `Zu Gast: Joachim Böttcher von der Stiftung Lebensraum & Franz Botens vom Imkerverband. Gemeinsam mit Spitzenkandidatin Beatrice Bednarz diskutieren wir über nachhaltige Landwirtschaft und ökoligische Wende.`,
             actionLink: [{
-              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
-              label: 'YouTube LiveStream'
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              label: 'YouTube'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -215,8 +215,8 @@
             date: new Date('2021-02-19T18:00:00'),
             description: `Zu Gast: Prof. Liselotte Schebek TUD, Drees & Sommer & Cradle to Cradle RG MZ (Mail v. BK). Gemeinsam mit Landtagskandidat Benjamin Kraff diskutieren wir über die Zukunft des Bauens in RLP.`,
             actionLink: [{
-              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
-              label: 'YouTube LiveStream'
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              label: 'YouTube'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -229,8 +229,8 @@
             date: new Date('2021-02-22T18:00:00'),
             description: `Unsere Spitzenkandidatin Beatrice Bednarz spricht mit Friedrich Hiemenz, Direktkandidat in Mutterstadt, über die Frage, welche Rolle Religionsgemeinschaften in der Klimakrise einnehmen können.`,
             actionLink: [{
-              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
-              label: 'YouTube LiveStream'
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              label: 'YouTube'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -243,22 +243,22 @@
             date: new Date('2021-02-26T18:00:00'),
             description: `Zu Gast: Landsch.-Arch. Dirk Schelhorn, Health4Future & Prof. Münzel JGU. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
             actionLink: [{
-              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
-              label: 'YouTube LiveStream'
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              label: 'YouTube'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
             }]
-          },
+          },/*
           {
             title: 'Transformation der Energiewirtschaft',
             location: 'Livestream',
             date: new Date('2021-03-01T18:00:00'),
             description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit der Klimaliste BaWü sprechen wir über die Zukunft der Energie und welche Veränderungen es dringend braucht.`,
             actionLink: [{
-              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
-              label: 'YouTube LiveStream'
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              label: 'YouTube'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -271,36 +271,14 @@
             date: new Date('2021-03-05T18:00:00'),
             description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit unserer Landtagskandidatin Greta Waltenberg sprechen wir über Klimagerechtigkeit und die Frage, wie wir verschiedene soziale Kämpfe im Kampf gegen den Klimawandel vereinen.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
               label: 'YouTube'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
             }]
-
-          },
-          {
-            title: 'Landwirtschaft von morgen: Der Schlüssel zu Klima- & Artenschutz?',
-            location: 'Livestream',
-            date: new Date('2021-02-15T18:00:00'),
-            description: `Die Land-, Wein- & Forstwirtschaft sind die größten Leittragenden des Klimawandels. Gleichzeitig haben sie ein enormes Potential zur Lösung der Klimakrise und des Artensterbens beizutragen. Gemeinsam mit Joachim Böttcher, Vorsitzendem der Stiftung Lebensraum, und Franz Botens, Vorsitzendem des Imkerverbands, wollen wir über die Möglichkeiten und neue Formen der regenerativen Landwirtschaft sprechen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
-              label: 'YouTube'
-            }]
-
-          },
-          {
-            title: 'Kreislaufwirtschaft im Bausektor',
-            location: 'Livestream',
-            date: new Date('2021-02-19T18:00:00'),
-            description: `Der Bausektor verursacht einen hohen Ressourcenverbrauch und emittiert große Mengen an CO2. Mit Expert*innen aus Wissenschaft und Wirtschaft spricht unser Landtagskandidat Benjamin Kraff über Kreislaufwirtschaft und die Ökobilanzierung bei Bauprozessen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
-              label: 'YouTube'
-            }]
-          }
+          }*/
         ]
       }
     },
