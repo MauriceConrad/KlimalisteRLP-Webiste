@@ -180,7 +180,6 @@
               label: 'Zoom-Registrierung'
             }]
           },
-
           {
             title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
             location: 'Livestream',
