@@ -71,14 +71,14 @@
   }
   .info-box .podcast-links {
     list-style: none;
-    margin: 10px 0;
+    margin: 10px 0px;
     padding: 0;
   }
   .info-box .podcast-links li {
     display: inline-block;
     width: 55px;
     height: 55px;
-    margin: 0 10px;
+    margin: 0px 10px;
   }
 
   h2 {
