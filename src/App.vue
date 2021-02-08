@@ -3,6 +3,7 @@
     <Navigation></Navigation>
     <PageHeader :background="content.bg"></PageHeader>
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
+    <LocalCandidatesApp></LocalCandidatesApp>
     <!--<SupportTutorial></SupportTutorial>-->
     <Calendar></Calendar>
     <hr />
@@ -11,7 +12,6 @@
     <Overview background="#fff"></Overview>
     <QuotesView></QuotesView>
     <hr />
-    <LocalCandidatesApp></LocalCandidatesApp>
     <ProgramView></ProgramView>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Spend></Spend>
@@ -61,13 +61,13 @@
       Description,
       Overview,
       SupportEasy,
+      LocalCandidatesApp,
       Navigation,
       QuotesView,
       ProgramView,
       Blog,
       Spend,
       Calendar,
-      LocalCandidatesApp,
       //SupportTutorial,
       //Contribute,
       Contact,

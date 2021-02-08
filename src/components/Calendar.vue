@@ -177,14 +177,14 @@
             description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
             actionLink: [{
               href: 'https://zoom.us/j/93109035201?pwd=NlhsSHVPY1hmYzdhaDV1SEUrL1RsUT09',
-              label: 'Zoom-Registrierung'
+              label: 'Anmeldung'
             }]
           },
           {
             title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
             location: 'Livestream',
             date: new Date('2021-02-12T18:00:00'),
-            description: `Zu Gast: Sascha Freytag, ehemaliger Leiter einer Erstaufnahmeeinrichtung,Unser Landtagskandidat Maurice Conrad spricht mit verschiedensten Vertreter*innen aus Geflüchtetenhilfe, NGO's und Ehrenamtlichen über Integration und Antirassismus.`,
+            description: `Zu Gast: Sascha Freytag, ehemaliger Leiter einer Erstaufnahmeeinrichtung. Unser Landtagskandidat Maurice Conrad spricht mit verschiedensten Vertreter*innen aus Geflüchtetenhilfe, NGO's und Ehrenamtlichen über Integration und Antirassismus.`,
             actionLink: [{
               href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
               label: 'YouTube'
@@ -212,21 +212,7 @@
             title: 'Kreislaufwirtschaft im Bausektor',
             location: 'Livestream',
             date: new Date('2021-02-19T18:00:00'),
-            description: `Zu Gast: Prof. Liselotte Schebek TUD, Drees & Sommer & Cradle to Cradle RG MZ (Mail v. BK). Gemeinsam mit Landtagskandidat Benjamin Kraff diskutieren wir über die Zukunft des Bauens in RLP.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Klima & Glaube - Religion vs. Wissenschaft?',
-            location: 'Livestream',
-            date: new Date('2021-02-22T18:00:00'),
-            description: `Unsere Spitzenkandidatin Beatrice Bednarz spricht mit Friedrich Hiemenz, Direktkandidat in Mutterstadt, über die Frage, welche Rolle Religionsgemeinschaften in der Klimakrise einnehmen können.`,
+            description: `Zu Gast: Prof. Liselotte Schebek, Cradle to Cradle Expertin* von der TU Darmstadt. Gemeinsam mit Landtagskandidat Benjamin Kraff diskutieren wir über die Zukunft des Bauens in Rheinland-Pfalz.`,
             actionLink: [{
               href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
               label: 'YouTube'
@@ -240,7 +226,7 @@
             title: 'Gesunde & inklusive Stadt?',
             location: 'Livestream',
             date: new Date('2021-02-26T18:00:00'),
-            description: `Zu Gast: Landsch.-Arch. Dirk Schelhorn, Health4Future & Prof. Münzel JGU. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
+            description: `Zu Gast: Landschafts-Archichtekt Dirk Schelhorn von Health4Future & Prof. Münzel der Universität Mainz. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
             actionLink: [{
               href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
               label: 'YouTube'
