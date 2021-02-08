@@ -16,7 +16,6 @@
             <span class="candidate-description-text">{{ item.description }}</span>
             <span class="candidate-job-text">{{ item.job }}</span>
           </div>
-
         </li>
       </ul>
     </div>
@@ -29,7 +28,7 @@
       </div>
     </div>
     <div class="more-container">
-      <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste + Direktkandidat*innen</a>
+      <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste + Direktkandidaten*innen</a>
     </div>
     <div class="info-box">
       <span class="label"><h3>Höre den <strong>Klimaplan</strong> als Podcast</h3></span>
