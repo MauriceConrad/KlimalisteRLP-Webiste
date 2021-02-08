@@ -170,15 +170,6 @@
     data() {
       return {
         calendar: [
-          /*{
-            title: 'Energiewende - von unten?',
-            location: 'Livestream',
-            date: new Date('2021-02-05T18:00:00'),
-            description: `Unsere Landtagskandidat*innen Maurice Conrad und Kaycee Hesse sprechen mit Katja Diehl über Mobilitätswende. Diehl ist eine bekannte Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität, Neuem Arbeiten und Diversität. Mit ihr und allen interessierten Bürger*innen und Bürgern wollen wir über die Mobilität von Morgen sprechen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=i8vDElg1fCk',
-              label: 'Youtube-Aufzeichnung'
-            }]},*/
           {
             title: 'Offenes Bürger*innengespräch',
             location: 'Livestream',
@@ -194,7 +185,91 @@
             title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
             location: 'Livestream',
             date: new Date('2021-02-12T18:00:00'),
-            description: `Gemeinsam mit Menschen unterschiedlicher Herkunft und Kultur wollen wir über die Chancen und Herausforderungen einer interkulturellen Gesellschaft reden. Welche Herausforderungen galt es zu bewältigen und was waren besonders positive Erlebnisse von Wertschätzung? Jeder ist willkommen auf YouTube oder Facebook mitzudiskutieren.`,
+            description: `Zu Gast: Sascha Freytag, ehemaliger Leiter einer Erstaufnahmeeinrichtung,Unser Landtagskandidat Maurice Conrad spricht mit verschiedensten Vertreter*innen aus Geflüchtetenhilfe, NGO's und Ehrenamtlichen über Integration und Antirassismus.`,
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          },
+          {
+            title: 'Regenerative Landwirtschaft & Artenschutz',
+            location: 'Livestream',
+            date: new Date('2021-02-15T18:00:00'),
+            description: `Zu Gast: Joachim Böttcher von der Stiftung Lebensraum & Franz Botens vom Imkerverband. Gemeinsam mit Spitzenkandidatin Beatrice Bednarz diskutieren wir über nachhaltige Landwirtschaft und ökoligische Wende.`,
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          },
+          {
+            title: 'Kreislaufwirtschaft im Bausektor',
+            location: 'Livestream',
+            date: new Date('2021-02-19T18:00:00'),
+            description: `Zu Gast: Prof. Liselotte Schebek TUD, Drees & Sommer & Cradle to Cradle RG MZ (Mail v. BK). Gemeinsam mit Landtagskandidat Benjamin Kraff diskutieren wir über die Zukunft des Bauens in RLP.`,
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          },
+          {
+            title: 'Klima & Glaube - Religion vs. Wissenschaft?',
+            location: 'Livestream',
+            date: new Date('2021-02-22T18:00:00'),
+            description: `Unsere Spitzenkandidatin Beatrice Bednarz spricht mit Friedrich Hiemenz, Direktkandidat in Mutterstadt, über die Frage, welche Rolle Religionsgemeinschaften in der Klimakrise einnehmen können.`,
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          },
+          {
+            title: 'Gesunde & inklusive Stadt?',
+            location: 'Livestream',
+            date: new Date('2021-02-26T18:00:00'),
+            description: `Zu Gast: Landsch.-Arch. Dirk Schelhorn, Health4Future & Prof. Münzel JGU. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          },
+          {
+            title: 'Transformation der Energiewirtschaft',
+            location: 'Livestream',
+            date: new Date('2021-03-01T18:00:00'),
+            description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit der Klimaliste BaWü sprechen wir über die Zukunft der Energie und welche Veränderungen es dringend braucht.`,
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          },
+          {
+            title: 'Gute Zukunft für alle - Klimagerechtigkeit!',
+            location: 'Livestream',
+            date: new Date('2021-03-05T18:00:00'),
+            description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit unserer Landtagskandidatin Greta Waltenberg sprechen wir über Klimagerechtigkeit und die Frage, wie wir verschiedene soziale Kämpfe im Kampf gegen den Klimawandel vereinen.`,
             actionLink: [{
               href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
               label: 'YouTube'

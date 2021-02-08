@@ -3,8 +3,6 @@
     <Navigation></Navigation>
     <PageHeader :background="content.bg"></PageHeader>
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
-    <hr />
-    <LocalCandidatesApp></LocalCandidatesApp>
     <!--<SupportTutorial></SupportTutorial>-->
     <Calendar></Calendar>
     <hr />
@@ -12,6 +10,8 @@
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
     <QuotesView></QuotesView>
+    <hr />
+    <LocalCandidatesApp></LocalCandidatesApp>
     <ProgramView></ProgramView>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Spend></Spend>

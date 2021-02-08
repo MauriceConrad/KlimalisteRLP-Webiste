@@ -9,7 +9,7 @@
 
           <g>
             <g v-for="(local, index) in locals" :key="index" :style="{ transform: 'translate(' + local.translate.map(value => value + 'px').join(', ') + ')' }" class="local-area" :class="{ active: localIsActive(local) }" @click="handleLocalSelect(local)">
-              <polyline v-for="(points, pointsListIndex) in local.points" :key="pointsListIndex" :points="points" />
+              <polyline v-for="(points, pointsListIndex) in local.points" :key="pointsListIndex" :points="points" :style="{ 'fill': getColor(local) }" />
             </g>
           </g>
         </svg>
@@ -159,6 +159,10 @@
       }
     },
     methods: {
+      getColor(local) {
+        local;
+        return '#ff0000';
+      },
       localIsActive(local) {
         return 'candidate' in local;
       },
