@@ -12,6 +12,10 @@
     <Overview background="#fff"></Overview>
     <QuotesView></QuotesView>
     <hr />
+<<<<<<< Updated upstream
+=======
+    <!--<LocalCandidatesApp></LocalCandidatesApp>-->
+>>>>>>> Stashed changes
     <ProgramView></ProgramView>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Spend></Spend>
@@ -47,7 +51,7 @@
 
   import Spend from './components/Spend.vue';
 
-  import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
+  //import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
 
   import BackgroundHeaderImage from '../data/images/background_header_low.jpg';
 
@@ -68,6 +72,10 @@
       Blog,
       Spend,
       Calendar,
+<<<<<<< Updated upstream
+=======
+      //LocalCandidatesApp,
+>>>>>>> Stashed changes
       //SupportTutorial,
       //Contribute,
       Contact,
