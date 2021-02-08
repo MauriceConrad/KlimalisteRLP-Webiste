@@ -29,7 +29,7 @@
       </div>
     </div>
     <div class="more-container">
-      <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste</a>
+      <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste + Direktkandidat*innen</a>
     </div>
     <div class="info-box">
       <span class="label"><h3>Höre den <strong>Klimaplan</strong> als Podcast</h3></span>
