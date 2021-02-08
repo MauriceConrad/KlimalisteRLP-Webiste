@@ -1,6 +1,6 @@
 <template>
   <div class="container" data-nav-id="Spenden">
-    <h2>Finanzierungslücke stopfen</h2>
+    <h2>Finanzlücke Schließen</h2>
     <br>
     <div class="description">
       <div class="icon">
@@ -10,7 +10,7 @@
           </g>
         </svg>
       </div>
-      Aktuell haben wir eine konkrete Finanzierungs-Lücke von etwas mehr als 5000 €. Hilf mit, die Lücke zu stopen und unseren Wahlkampf bis zum 14. März zu ermöglichen!
+      Aktuell haben wir eine konkrete Finanzierungs-Lücke von etwas mehr als 5000 €. Hilf mit, diese Lücke zu schließen und unseren Wahlkampf bis zum 14. März zu ermöglichen!
     </div>
 
     <SpendWiget :current="current" :goals="[5000, 10000, 25000, 50000, 100000, 500000]" />

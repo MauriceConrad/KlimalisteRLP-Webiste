@@ -1,4 +1,4 @@
-# Bildung.
+# Bildung
 
 ## Aktueller Stand
 In rheinland-pfälzischen Schulen und Hochschulen spielt Bildung für eine nachhaltige Entwicklung nur eine untergeordnete Rolle. Die Themen sind in Lehr- und Bildungspläne nur selten verankert. In den Universitäten sind nachhaltige Veranstaltungen in der Regel nicht vorhanden.<br>
