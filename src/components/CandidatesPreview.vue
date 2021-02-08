@@ -4,7 +4,7 @@
     <div class="intro-container">
       <div class="intro-text" v-html="content.intro"></div>
     </div>
-    <h3>Unsere Listenkandidat*innen</h3>
+    <h3>Unsere Listenkandidaten*innen</h3>
     <div class="candidates-list">
       <ul>
         <li v-for="(item, index) in candidates" :key="index" ref="candidateItems" :class="{ active: index == activeCandidateIndex }" @click="selectCandidate(index)">
