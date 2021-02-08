@@ -194,7 +194,7 @@
             title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
             location: 'Livestream',
             date: new Date('2021-02-12T18:00:00'),
-            description: ``,
+            description: `Gemeinsam mit Menschen unterschiedlicher Herkunft und Kultur wollen wir über die Chancen und Herausforderungen einer interkulturellen Gesellschaft reden. Welche Herausforderungen galt es zu bewältigen und was waren besonders positive Erlebnisse von Wertschätzung? Jeder ist willkommen auf YouTube oder Facebook mitzudiskutieren.`,
             actionLink: [{
               href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
               label: 'YouTube'
@@ -206,26 +206,26 @@
 
           },
           {
-            title: 'Landwirtschaft von morgen',
+            title: 'Landwirtschaft von morgen: Der Schlüssel zu Klima- & Artenschutz?',
             location: 'Livestream',
             date: new Date('2021-02-15T18:00:00'),
-            description: ``,
+            description: `Die Land-, Wein- & Forstwirtschaft sind die größten Leittragenden des Klimawandels. Gleichzeitig haben sie ein enormes Potential zur Lösung der Klimakrise und des Artensterbens beizutragen. Gemeinsam mit Joachim Böttcher, Vorsitzendem der Stiftung Lebensraum, und Franz Botens, Vorsitzendem des Imkerverbands, wollen wir über die Möglichkeiten und neue Formen der regenerativen Landwirtschaft sprechen.`,
             actionLink: [{
               href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
               label: 'YouTube'
             }]
 
-          }/*,
+          },
           {
-            title: 'Migration als Chance',
+            title: 'Kreislaufwirtschaft im Bausektor',
             location: 'Livestream',
-            date: new Date('2021-02-12T18:00:00'),
-            description: `Unsere Landtagskandidat*innen Benjamin Kraff und Beatrice Bednarz sprechen mit Expert*innen über Hilfe für Geflüchtete, Migration und Integration. Besondere Gäste sind dabei auch `,
-            actionLink: {
-              href: 'https://www.youtube.com/watch?v=YIYufFeagM0',
-              label: 'YouTube Livestream'
-            }
-          }*/
+            date: new Date('2021-02-19T18:00:00'),
+            description: `Der Bausektor verursacht einen hohen Ressourcenverbrauch und emittiert große Mengen an CO2. Mit Expert*innen aus Wissenschaft und Wirtschaft spricht unser Landtagskandidat Benjamin Kraff über Kreislaufwirtschaft und die Ökobilanzierung bei Bauprozessen.`,
+            actionLink: [{
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
+              label: 'YouTube'
+            }]
+          }
         ]
       }
     },

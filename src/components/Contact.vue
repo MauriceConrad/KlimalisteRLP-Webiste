@@ -29,6 +29,18 @@
           <button class="btn btn-send" @click="send">Senden</button>
         </div>
       </div>
+      <div class="contact-items">
+        <div class="contact-item">
+          <a href="files/Pressemappe.zip" download="PressemappeKlimalisteRLP-groß.zip">
+            <button class="btn">Pressemappe (901MB)</button>
+          </a>
+        </div>
+        <div class="contact-item">
+          <a href="files/PressemappeOHNEBilderundPlakate.zip" download="PressemappeKlimalisteRLP-klein.zip">
+            <button class="btn">Pressemappe ohne Bilder (2MB)</button>
+          </a>
+        </div>
+      </div>
     </div>
   </div>
 </template>
