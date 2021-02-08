@@ -170,18 +170,6 @@
     data() {
       return {
         calendar: [
-<<<<<<< HEAD
-=======
-          /*{
-            title: 'Energiewende - von unten?',
-            location: 'Livestream',
-            date: new Date('2021-02-05T18:00:00'),
-            description: `Unsere Landtagskandidat*innen Maurice Conrad und Kaycee Hesse sprechen mit Katja Diehl über Mobilitätswende. Diehl ist eine bekannte Kommunikations- und Unternehmensberaterin mit Schwerpunkten in Mobilität, Neuem Arbeiten und Diversität. Mit ihr und allen interessierten Bürger*innen und Bürgern wollen wir über die Mobilität von Morgen sprechen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=i8vDElg1fCk',
-              label: 'Youtube-Aufzeichnung'
-            }]},*/
->>>>>>> 56394a9480f1161fdb3b9c35649d27a447c20cd4
           {
             title: 'Offenes Bürger*innengespräch',
             location: 'Livestream',
@@ -192,10 +180,8 @@
               label: 'Zoom-Registrierung'
             }]
           },
-
           {
             title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
-<<<<<<< HEAD
             location: 'Livestream',
             date: new Date('2021-02-12T18:00:00'),
             description: `Zu Gast: Sascha Freytag, ehemaliger Leiter einer Erstaufnahmeeinrichtung,Unser Landtagskandidat Maurice Conrad spricht mit verschiedensten Vertreter*innen aus Geflüchtetenhilfe, NGO's und Ehrenamtlichen über Integration und Antirassismus.`,
@@ -283,11 +269,6 @@
             location: 'Livestream',
             date: new Date('2021-03-05T18:00:00'),
             description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit unserer Landtagskandidatin Greta Waltenberg sprechen wir über Klimagerechtigkeit und die Frage, wie wir verschiedene soziale Kämpfe im Kampf gegen den Klimawandel vereinen.`,
-=======
-            location: 'Livestream',
-            date: new Date('2021-02-12T18:00:00'),
-            description: ``,
->>>>>>> 56394a9480f1161fdb3b9c35649d27a447c20cd4
             actionLink: [{
               href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
               label: 'YouTube'
