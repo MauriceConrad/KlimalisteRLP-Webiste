@@ -184,7 +184,7 @@
             title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
             location: 'Livestream',
             date: new Date('2021-02-12T18:00:00'),
-            description: `Gemeinsam mit Menschen unterschiedlicher Herkunft und Kultur wollen wir über die Chancen und Herausforderungen einer interkulturellen Gesellschaft reden. Welche Herausforderungen galt es zu bewältigen und was waren besonders positive Erlebnisse von Wertschätzung? Jeder ist willkommen auf YouTube oder Facebook mitzudiskutieren.`,
+            description: `Gemeinsam mit Menschen unterschiedlicher Herkunft und Kultur wollen wir über die Chancen und Herausforderungen einer interkulturellen Gesellschaft reden. Welche Herausforderungen galt es zu bewältigen und was waren besonders positive Erlebnisse von Wertschätzung? Jeder ist willkommen auf YouTube, Twitch oder Facebook mitzudiskutieren.`,
             actionLink: [{
               href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
               label: 'YouTube'
