@@ -170,7 +170,7 @@
     data() {
       return {
         calendar: [
-          {
+          /* {
             title: 'Offenes Bürger*innengespräch',
             location: 'Livestream',
             date: new Date('2021-02-09T19:00:00'),
@@ -179,7 +179,7 @@
               href: 'https://zoom.us/j/93109035201?pwd=NlhsSHVPY1hmYzdhaDV1SEUrL1RsUT09',
               label: 'Anmeldung'
             }]
-          },
+          }, */
           {
             title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
             location: 'Livestream',
