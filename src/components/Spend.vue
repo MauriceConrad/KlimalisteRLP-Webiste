@@ -1,6 +1,6 @@
 <template>
   <div class="container" data-nav-id="Spenden">
-    <h2>Finanzlücke Schließen</h2>
+    <h2>Spenden</h2>
     <br>
     <div class="description">
       <div class="icon">
