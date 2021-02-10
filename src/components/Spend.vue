@@ -419,10 +419,8 @@ Deshalb sind wir aber umso mehr auf Spenden von Privatpersonen angewiesen, um un
       }
     },
     async mounted() {
-//      const valueRaw = await (await fetch('https://klimalisterlp.de/spenden/api/money_value.txt')).text();
-
-//      this.current = Number(valueRaw);
-	this.current = 29880;
+      const valueRaw = await (await fetch('https://klimalisterlp.de/spenden/api/money_value.txt')).text();
+      this.current = Number(valueRaw);
     },
     components: {
       SpendWiget,
