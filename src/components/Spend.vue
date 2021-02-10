@@ -403,7 +403,7 @@ Deshalb sind wir aber umso mehr auf Spenden von Privatpersonen angewiesen, um un
     name: "Spend",
     data() {
       return {
-        current: 29880,
+        current: 0,
         topics: [
           {
             icon: 'icons/poster-colored.svg',
