@@ -17,7 +17,7 @@
     <br><br>
     <div class="topic-content-inner">
       Wir sind sehr stolz darauf, keinen Mitgliedbeitrag zu erheben, um allen Menschen, unabhängig ihres Einkommens, eine Mitgliedschaft zu ermöglichen.
-Deshalb sind wir aber umso mehr auf Spenden von Privatpersonen angewiesen, um unseren <strong>Wahlkampf</strong> zu finanzieren. Dadurch gewährleisten wir unsere Unabhängigkeit. Als junge Wählervereinigung nehmen wir uns noch nicht an der Wahlkampfkostenerstattung teil.
+Deshalb sind wir aber umso mehr auf Spenden von Privatpersonen angewiesen, um unseren <strong>Wahlkampf</strong> zu finanzieren. Dadurch gewährleisten wir unsere Unabhängigkeit. Als junge Wählervereinigung nehmen wir noch nicht an der Wahlkampfkostenerstattung teil.
       <br><br>
       Aktuell sind 50.000€ unser Ziel, um einen effektiven Wahlkampf durchzuführen. Natürlich hilft es uns noch mehr, wenn wir ein höheres Budget zur Verfügung haben.
       Egal wie hoch der Betrag ist: Jede Spende hilft uns weiter.
