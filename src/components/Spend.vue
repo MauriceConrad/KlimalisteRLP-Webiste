@@ -10,26 +10,20 @@
           </g>
         </svg>
       </div>
-      Aktuell haben wir eine konkrete Finanzierungs-Lücke von etwas mehr als 5000 €. Hilf mit, diese Lücke zu schließen und unseren Wahlkampf bis zum 14. März zu ermöglichen!
+      Hilf mit, unseren Wahlkampf bis zum 14. März zu ermöglichen!
     </div>
 
     <SpendWiget :current="current" :goals="[5000, 10000, 25000, 50000, 100000, 500000]" />
     <br><br>
-    <div class="description">
-      <div class="icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.621 28.621">
-          <g>
-            <path d="M14.311,0c-6.904,0-12.5,5.596-12.5,12.5c0,4.723,2.618,8.828,6.48,10.955l-0.147,5.166l5.898-3.635 C14.131,24.988,14.22,25,14.311,25c6.904,0,12.5-5.596,12.5-12.5C26.811,5.596,21.215,0,14.311,0z M15.903,19.784h-3.203V9.474 h3.203V19.784z M14.28,8.211c-1.013,0-1.687-0.718-1.665-1.604c-0.021-0.927,0.652-1.624,1.686-1.624 c1.033,0,1.689,0.697,1.71,1.624C16.01,7.493,15.332,8.211,14.28,8.211z"/>
-          </g>
-        </svg>
-      </div>
-      Um unseren <strong>Wahlkampf</strong> zu ermöglichen, sind wir auf <strong>Spenden</strong> angewiesen. Dadurch gewährleisten wir unsere Unabhängigkeit.
+    <div class="topic-content-inner">
+      Wir sind sehr stolz darauf, keinen Mitgliedbeitrag zu erheben, um allen Menschen, unabhängig ihres Einkommens, eine Mitgliedschaft zu ermöglichen.
+Deshalb sind wir aber umso mehr auf Spenden von Privatpersonen angewiesen, um unseren <strong>Wahlkampf</strong> zu finanzieren. Dadurch gewährleisten wir unsere Unabhängigkeit. Als junge Wählervereinigung nehmen wir uns noch nicht an der Wahlkampfkostenerstattung teil.
+      <br><br>
+      Aktuell sind 50.000€ unser Ziel, um einen effektiven Wahlkampf durchzuführen. Natürlich hilft es uns noch mehr, wenn wir ein höheres Budget zur Verfügung haben.
+      Egal wie hoch der Betrag ist: Jede Spende hilft uns weiter.
       <br><br>
       Spenden an Wähler*innenvereinigungen sind besonders <strong>steuerlich abzugsfähig</strong>. <strong>50%</strong> werden direkt von der Einkommensteuer abgezogen. Von jährlich bis zu <strong>1.650 €</strong> bei Ledigen, bzw <strong>3.300 €</strong> bei gemeinsam Veranlagten.
-      <br>
-      <div class="donationextension">
       Beispiel: Es reduziert eine Spende von 1000€, die zu zahlende Einkommenssteuer um 500€. So zahlen Sie effektiv 500€ und es kommen trotzdem 1000€ bei uns, zur Finanzierung des Wahlkampfes, an.
-      </div>
     </div>
 
     <div class="actions-main">
@@ -409,7 +403,7 @@
     name: "Spend",
     data() {
       return {
-        current: 0,
+        current: 29880,
         topics: [
           {
             icon: 'icons/poster-colored.svg',
