@@ -425,9 +425,10 @@
       }
     },
     async mounted() {
-      const valueRaw = await (await fetch('https://klimalisterlp.de/spenden/api/money_value.txt')).text();
+//      const valueRaw = await (await fetch('https://klimalisterlp.de/spenden/api/money_value.txt')).text();
 
-      this.current = Number(valueRaw);
+//      this.current = Number(valueRaw);
+	this.current = 29880;
     },
     components: {
       SpendWiget,
