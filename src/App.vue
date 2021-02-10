@@ -3,7 +3,6 @@
     <Navigation></Navigation>
     <PageHeader :background="content.bg"></PageHeader>
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
-    <!--<LocalCandidatesApp></LocalCandidatesApp>-->
     <!--<SupportTutorial></SupportTutorial>-->
     <Calendar></Calendar>
     <hr />
@@ -12,6 +11,7 @@
     <Overview background="#fff"></Overview>
     <QuotesView></QuotesView>
     <hr />
+    <LocalCandidatesApp></LocalCandidatesApp>
     <ProgramView></ProgramView>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Spend></Spend>
@@ -47,7 +47,7 @@
 
   import Spend from './components/Spend.vue';
 
-  //import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
+  import LocalCandidatesApp from './components/LocalCandidatesApp.vue';
 
   import BackgroundHeaderImage from '../data/images/background_header_low.jpg';
 
@@ -61,7 +61,7 @@
       Description,
       Overview,
       SupportEasy,
-      //LocalCandidatesApp,
+      LocalCandidatesApp,
       Navigation,
       QuotesView,
       ProgramView,

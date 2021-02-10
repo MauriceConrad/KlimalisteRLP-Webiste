@@ -112,7 +112,6 @@
   .progress-bar::-webkit-progress-value {
     -webkit-appearance: none;
     background-color: #D60078;
-
   }
 </style>
 

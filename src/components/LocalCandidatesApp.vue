@@ -9,19 +9,22 @@
 
           <g>
             <g v-for="(local, index) in locals" :key="index" :style="{ transform: 'translate(' + local.translate.map(value => value + 'px').join(', ') + ')' }" class="local-area" :class="{ active: localIsActive(local) }" @click="handleLocalSelect(local)">
-              <polyline v-for="(points, pointsListIndex) in local.points" :key="pointsListIndex" :points="points" :style="{ 'fill': getColor(local) }" />
+              <polyline v-for="(points, pointsListIndex) in local.points" :key="pointsListIndex" :points="points" :style="{ 'fill': getColor(local)[1], 'stroke': getColor(local)[0] }" />
             </g>
           </g>
         </svg>
       </div>
       <div class="data-view" v-if="activeLocal">
         <div class="data-header">
-          <div class="avatar" :style="{ 'background-image': `url('${ activeLocal.candidate.avatar }')`, 'background-position': 'center 0%' }">
+          <div class="avatar" :style="{ 'background-image': `url('${ activeLocal.candidate.avatar }')`, 'background-position': 'center 0%', 'border': '5px solid ' + getColor(activeLocal)[1] }">
 
           </div>
           <div class="title">
             <h3>{{ activeLocal.candidate.name }}</h3>
             <span class="description">{{ activeLocal.name }}</span>
+          </div>
+          <div class="type-label" :style="{ 'background-color': getColor(activeLocal)[1] }">
+            {{ getLocalTypeLabel(activeLocal) }}
           </div>
 
         </div>
@@ -41,6 +44,15 @@
 </template>
 
 <style scoped>
+
+  .type-label {
+    display: inline-block;
+    margin: 10px 0;
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 20px;
+    font-size: 0.7em;
+  }
   .locals-app {
     font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', sans-serif;
   }
@@ -148,7 +160,7 @@
 <script>
   import LocalsDataset from '../../data/candidates/locals.js';
 
-  console.log(LocalsDataset);
+  //console.log(LocalsDataset);
 
   export default {
     name: 'LocalCandidatesApp',
@@ -159,9 +171,27 @@
       }
     },
     methods: {
+      getLocalTypeLabel(local) {
+        return new Map([
+          ["candidate", "Kandidat*in"],
+          ["support", "Unterstützer*in"],
+          [undefined, ""]
+        ]).get(local?.type);
+      },
       getColor(local) {
-        local;
-        return '#ff0000';
+        console.log(local);
+        const colorCodes = new Map([
+          ["none", () => {
+            return ["#dedede", "#dedede"]
+          }],
+          ["candidate", () => {
+            return ["#40865e", this.activeLocal == local ? "#458c63" : "#5ba279"];
+          }],
+          ["support", () => {
+            return ["#2f6c8f", "#418ab4"];
+          }]
+        ]);
+        return colorCodes.get(local.type)();
       },
       localIsActive(local) {
         return 'candidate' in local;
@@ -169,7 +199,7 @@
       handleLocalSelect(local) {
         if (this.localIsActive(local)) {
           this.activeLocal = local;
-          console.log(this.activeLocal);
+          //console.log(this.activeLocal);
         }
       }
     },
