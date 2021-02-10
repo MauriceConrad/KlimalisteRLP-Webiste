@@ -170,16 +170,6 @@
     data() {
       return {
         calendar: [
-          /* {
-            title: 'Offenes Bürger*innengespräch',
-            location: 'Livestream',
-            date: new Date('2021-02-09T19:00:00'),
-            description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
-            actionLink: [{
-              href: 'https://zoom.us/j/93109035201?pwd=NlhsSHVPY1hmYzdhaDV1SEUrL1RsUT09',
-              label: 'Anmeldung'
-            }]
-          }, */
           {
             title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
             location: 'Livestream',
@@ -192,6 +182,16 @@
             {
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
+            }]
+          },
+          {
+            title: 'Offenes Bürger*innengespräch',
+            location: 'Online Meeting',
+            date: new Date('2021-02-16T19:00:00'),
+            description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
+            actionLink: [{
+              href: 'https://zoom.us/j/95950134486?pwd=TEhnT3VNNDg0WFRwZE5TUW4rcUxzUT09',
+              label: 'Anmeldung'
             }]
           },
           {
