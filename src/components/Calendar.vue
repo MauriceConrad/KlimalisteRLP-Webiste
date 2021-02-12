@@ -188,7 +188,7 @@
             title: 'Landwirtschaft von morgen: der Schlüssel zu Klima- & Artenschutz?',
             location: 'Livestream',
             date: new Date('2021-02-15T18:00:00'),
-            description: `Die Land-, Wein- & Forstwirtschaft sind die größten Leittragenden des Klimawandels. Gleichzeitig haben sie ein enormes Potential zur Lösung der Klimakrise und des Artensterbens beizutragen. Gemeinsam mit Joachim Böttcher, Vorsitzendem der Stiftung Lebensraum, und Franz Botens, Vorsitzendem des Imkerverbands, wollen wir über die Möglichkeiten und neue Formen der regenerativen Landwirtschaft sprechen.`,
+            description: `Die Land-, Wein- & Forstwirtschaft sind die größten Leittragenden des Klimawandels. Gleichzeitig haben sie ein enormes Potential zur Lösung der Klimakrise und des Artensterbens beizutragen. Gemeinsam mit Joachim Böttcher, Vorsitzendem der Stiftung Lebensraum, Prof. Daniel Kray und Franz Botens, Vorsitzendem des Imkerverbands, wollen wir über die Möglichkeiten und neue Formen der regenerativen Landwirtschaft sprechen.`,
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=aW7FYgktQT0',
               label: 'YouTube LiveStream'
