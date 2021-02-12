@@ -176,8 +176,8 @@
             date: new Date('2021-02-12T18:00:00'),
             description: `Gemeinsam mit Menschen unterschiedlicher Herkunft und Kultur wollen wir über die Chancen und Herausforderungen einer interkulturellen Gesellschaft reden. Welche Herausforderungen galt es zu bewältigen und was waren besonders positive Erlebnisse von Wertschätzung? Jeder ist willkommen auf YouTube, Twitch oder Facebook mitzudiskutieren.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
+              href: 'https://www.youtube.com/watch?v=NJ1TOVJaWlQ',
+              label: 'YouTube LiveStream'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -190,8 +190,8 @@
             date: new Date('2021-02-15T18:00:00'),
             description: `Die Land-, Wein- & Forstwirtschaft sind die größten Leittragenden des Klimawandels. Gleichzeitig haben sie ein enormes Potential zur Lösung der Klimakrise und des Artensterbens beizutragen. Gemeinsam mit Joachim Böttcher, Vorsitzendem der Stiftung Lebensraum, und Franz Botens, Vorsitzendem des Imkerverbands, wollen wir über die Möglichkeiten und neue Formen der regenerativen Landwirtschaft sprechen.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
+              href: 'https://www.youtube.com/watch?v=aW7FYgktQT0',
+              label: 'YouTube LiveStream'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -214,8 +214,8 @@
             date: new Date('2021-02-19T18:00:00'),
             description: `Der Bausektor verursacht einen hohen Ressourcenverbrauch und emittiert große Mengen an CO2. Mit Expert*innen aus Wissenschaft und Wirtschaft spricht unser Landtagskandidat Benjamin Kraff über Kreislaufwirtschaft und die Ökobilanzierung bei Bauprozessen.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
+              href: 'https://www.youtube.com/watch?v=NhHHjtm_jCA',
+              label: 'YouTube LiveStream'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -228,8 +228,8 @@
             date: new Date('2021-02-26T18:00:00'),
             description: `Zu Gast: Landschafts-Archichtekt Dirk Schelhorn von Health4Future. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
+              href: 'https://www.youtube.com/watch?v=TtTnAySrZGU',
+              label: 'YouTube LiveStream'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
