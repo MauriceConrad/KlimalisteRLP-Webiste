@@ -171,20 +171,6 @@
       return {
         calendar: [
           {
-            title: 'Interkulturelle Gesellschaft - Vielfalt leben!',
-            location: 'Livestream',
-            date: new Date('2021-02-12T18:00:00'),
-            description: `Gemeinsam mit Menschen unterschiedlicher Herkunft und Kultur wollen wir über die Chancen und Herausforderungen einer interkulturellen Gesellschaft reden. Welche Herausforderungen galt es zu bewältigen und was waren besonders positive Erlebnisse von Wertschätzung? Jeder ist willkommen auf YouTube, Twitch oder Facebook mitzudiskutieren.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=NJ1TOVJaWlQ',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
             title: 'Landwirtschaft von morgen: der Schlüssel zu Klima- & Artenschutz?',
             location: 'Livestream',
             date: new Date('2021-02-15T18:00:00'),
