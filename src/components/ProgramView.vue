@@ -5,7 +5,7 @@
       Vorstellung des Klimaplans in Videoformat
     </a><br>
     <a href="files/Klimaplan Rheinland-Pfalz.pdf" class="anchor-program" target="_blank">
-      Vollständiger Klimaplan
+      Vollständiger Klimaplan (Unser Programm)
     </a>
     <br>
     <div class="program-application">
