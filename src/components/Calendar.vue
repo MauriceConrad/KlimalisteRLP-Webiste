@@ -223,6 +223,20 @@
             }]
           },
           {
+            title: 'Klimawandel in Rheinland-Pfalz - Auswirkungen und Chancen',
+            location: 'Livestream',
+            date: new Date('2021-02-22T18:00:00'),
+            description: `Klimawandel bekämpfen? Wer bitte soll denn das bezahlen? Manche macht dieser Gedanke mutlos, doch es gibt Lösungen.  Unser Gast Ralf Wein berät Kommunen und Privatpersonen dabei klimaneutraler zu werden. Kurt Hähn, Landwirt und Inhaber des Bauernhofs „Scheidterhof“ berichtet über Änderungen auf dem Land. Ihn hat dies bewegt neue Wege zu gehen um die Zukunft positiv mitzugestalten.`,
+            actionLink: [{
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          },
+          {
             title: 'Gesunde & inklusive Stadt?',
             location: 'Livestream',
             date: new Date('2021-02-26T18:00:00'),
@@ -242,7 +256,7 @@
             date: new Date('2021-03-01T18:00:00'),
             description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit der Klimaliste BaWü sprechen wir über die Zukunft der Energie und welche Veränderungen es dringend braucht.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
               label: 'YouTube'
             },
             {
@@ -256,7 +270,7 @@
             date: new Date('2021-03-05T18:00:00'),
             description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit unserer Landtagskandidatin Greta Waltenberg sprechen wir über Klimagerechtigkeit und die Frage, wie wir verschiedene soziale Kämpfe im Kampf gegen den Klimawandel vereinen.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw',
               label: 'YouTube'
             },
             {
