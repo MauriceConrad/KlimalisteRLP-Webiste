@@ -73,7 +73,7 @@ Deshalb sind wir aber umso mehr auf Spenden von Privatpersonen angewiesen, um un
                 </div>
               </div>
               <span>
-                Spenden über PayPal können direkt an das Vereinskonto unter <a href="https://paypal.me/klimalisterlp" target="_blank">finanzen@klimalisterlp.de</a> gespendet werden. Das Geld kommt uns, abzüglich der PayPal-Gebühren (0,35€ + 2,5%), direkt zu Gute.
+                Spenden über PayPal können direkt an das Vereinskonto unter <a href="https://paypal.me/klimalisterlp" target="_blank">finanzen@klimalisterlp.de</a> gespendet werden. Das Geld kommt uns, abzüglich der PayPal-Gebühren (0,35€ + 2,5%), direkt zu Gute. <strong>Wichtig:</strong> Bitte entfernt den Haken bei "Waren oder Dienstleistungen". Der Käuferschutz für eine Spende ist überflüssig und so sparen wir Käuferschutz-Gebühren."
               </span>
               <br><br>
               <a href="http://paypal.me/klimalisterlp" target="_blank">
