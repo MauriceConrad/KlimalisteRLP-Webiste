@@ -179,7 +179,6 @@
         ]).get(local?.type);
       },
       getColor(local) {
-        console.log(local);
         const colorCodes = new Map([
           ["none", () => {
             return ["#dedede", "#dedede"]

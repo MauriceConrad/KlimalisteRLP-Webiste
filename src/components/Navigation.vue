@@ -1,23 +1,34 @@
 <template>
-  <nav class="nav" :class="{ hidden: scrollY <= 200 }" ref="navMainElement">
-    <div class="logo-area">
+  <div>
+    <nav class="nav" :class="{ hidden: scrollY <= 200 }" ref="navMainElement">
+      <div class="logo-area">
 
-    </div>
-    <ul>
-      <li v-for="(item, index) in nav" :key="index">
-        <a :href="item.href">
-          <div class="icon-main">
-            <SVGIcon :src="item.icon" width="30" fill="#fff"></SVGIcon>
-          </div>
-          <div class="label">
-            <span>
-              {{ item.label }}
-            </span>
-          </div>
-        </a>
-      </li>
-    </ul>
-  </nav>
+      </div>
+      <ul>
+        <li v-for="(item, index) in nav" :key="index">
+          <a :href="item.href">
+            <div class="icon-main">
+              <SVGIcon :src="item.icon" width="30" fill="#fff"></SVGIcon>
+            </div>
+            <div class="label">
+
+              <span>
+                {{ item.label }}
+              </span>
+            </div>
+          </a>
+        </li>
+        <li class="custom">
+          <LangButton>
+            <Language label="Deutsch" icon="icons/lang/germany.svg" default />
+            <Language label="Turkish" icon="icons/lang/united-kingdom.svg" />
+            <Language label="English" icon="icons/lang/spain.svg" />
+          </LangButton>
+        </li>
+      </ul>
+
+    </nav>
+  </div>
 </template>
 
 <style scoped>
@@ -81,7 +92,7 @@
   .nav ul li:hover .label {
     text-decoration: underline;
   }
-  .nav ul li:before {
+  .nav ul li:not(.custom):before {
     width: 0;
     height: 100%;
     content: "";
@@ -101,6 +112,9 @@
   import SVGIcon from './SVGIcon.vue';
 
   import SmoothScroll from 'smooth-scroll';
+
+  import LangButton from '../lang/LangButton.vue';
+  import Language from '../lang/Language.vue';
 
 
   export default {
@@ -209,7 +223,9 @@
 
     },
     components: {
-      SVGIcon
+      SVGIcon,
+      LangButton,
+      Language
     }
   }
 </script>
