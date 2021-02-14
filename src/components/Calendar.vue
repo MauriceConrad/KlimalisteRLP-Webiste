@@ -176,7 +176,7 @@
             date: new Date('2021-02-15T18:00:00'),
             description: `Die Land-, Wein- & Forstwirtschaft sind die größten Leittragenden des Klimawandels. Gleichzeitig haben sie ein enormes Potential zur Lösung der Klimakrise und des Artensterbens beizutragen. Gemeinsam mit Joachim Böttcher, Vorsitzendem der Stiftung Lebensraum, Prof. Daniel Kray und Franz Botens, 2. Vorsitzendem des Imkerverbands, wollen wir über die Möglichkeiten und neue Formen der regenerativen Landwirtschaft sprechen.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              href: 'https://www.youtube.com/watch?v=aW7FYgktQT0',
               label: 'YouTube LiveStream'
             },
             {
@@ -200,7 +200,7 @@
             date: new Date('2021-02-19T18:00:00'),
             description: `Der Bausektor verursacht einen hohen Ressourcenverbrauch und emittiert große Mengen an CO2. Mit Expert*innen aus Wissenschaft und Wirtschaft spricht unser Landtagskandidat Benjamin Kraff über Kreislaufwirtschaft und die Ökobilanzierung bei Bauprozessen.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              href: 'https://www.youtube.com/watch?v=NhHHjtm_jCA',
               label: 'YouTube LiveStream'
             },
             {
@@ -214,7 +214,7 @@
             date: new Date('2021-02-22T18:00:00'),
             description: `Klimawandel bekämpfen? Wer bitte soll denn das bezahlen? Manche macht dieser Gedanke mutlos, doch es gibt Lösungen.  Unser Gast Ralf Wein berät Kommunen und Privatpersonen dabei klimaneutraler zu werden. Kurt Hähn, Landwirt und Inhaber des Bauernhofs „Scheidterhof“ berichtet über Änderungen auf dem Land. Ihn hat dies bewegt neue Wege zu gehen um die Zukunft positiv mitzugestalten.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              href: 'https://www.youtube.com/watch?v=1Z6HgE5YCgg',
               label: 'YouTube LiveStream'
             },
             {
@@ -228,7 +228,7 @@
             date: new Date('2021-02-26T18:00:00'),
             description: `Zu Gast: Landschafts-Archichtekt Dirk Schelhorn. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
+              href: 'https://www.youtube.com/watch?v=TtTnAySrZGU',
               label: 'YouTube LiveStream'
             },
             {
