@@ -18,13 +18,15 @@
             </div>
           </a>
         </li>
+        <!--
         <li class="custom">
           <LangButton>
             <Language label="Deutsch" icon="icons/lang/germany.svg" default />
-            <Language label="Turkish" icon="icons/lang/united-kingdom.svg" />
-            <Language label="English" icon="icons/lang/spain.svg" />
+            <Language label="English" icon="icons/lang/united-kingdom.svg" />
+            <Language label="Turkish" icon="icons/lang/spain.svg" />
           </LangButton>
         </li>
+        -->
       </ul>
 
     </nav>
@@ -32,7 +34,6 @@
 </template>
 
 <style scoped>
-
 
   .nav {
     font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', sans-serif;
@@ -113,8 +114,8 @@
 
   import SmoothScroll from 'smooth-scroll';
 
-  import LangButton from '../lang/LangButton.vue';
-  import Language from '../lang/Language.vue';
+  //import LangButton from '../lang/LangButton.vue';
+  //import Language from '../lang/Language.vue';
 
 
   export default {
@@ -224,8 +225,8 @@
     },
     components: {
       SVGIcon,
-      LangButton,
-      Language
+      /*LangButton,
+      Language*/
     }
   }
 </script>

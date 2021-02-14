@@ -1,6 +1,6 @@
 <template>
-  <div class="calendar-container">
-    <h3>Kalender</h3>
+  <div class="calendar-container" data-nav-id="Veranstaltungen">
+    <h3>Veranstaltungs-Kalender</h3>
 
     <div class="date-items">
       <ul>
