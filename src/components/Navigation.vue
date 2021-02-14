@@ -23,7 +23,7 @@
           <LangButton>
             <Language label="Deutsch" icon="icons/lang/germany.svg" default />
             <Language label="English" icon="icons/lang/united-kingdom.svg" />
-            <Language label="Turkish" icon="icons/lang/spain.svg" />
+            <Language label="Turkish" icon="icons/lang/turkey.svg" />
           </LangButton>
         </li>
         -->
