@@ -209,10 +209,24 @@
             }]
           },
           {
+            title: 'Kandidat*innen-Gespräch live und interaktiv mit Spitzenkandidatin Beatrice Bednarz',
+            location: 'Livestream',
+            date: new Date('2021-02-21T19:00:00'),
+            description: 'In diesem LiveStream könnt ihr unseren Kandiat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Im ersten Stream sprechen wir dazu mit Beatrice Bednarz. Sie ist unsere Spitzenkandidatin und Physikerin.',
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=hzbB0japXfk',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          },
+          {
             title: 'Klimawandel in Rheinland-Pfalz - Auswirkungen und Chancen',
             location: 'Livestream',
             date: new Date('2021-02-22T18:00:00'),
-            description: `Klimawandel bekämpfen? Wer bitte soll denn das bezahlen? Manche macht dieser Gedanke mutlos, doch es gibt Lösungen.  Unser Gast Ralf Wein berät Kommunen und Privatpersonen dabei klimaneutraler zu werden. Kurt Hähn, Landwirt und Inhaber des Bauernhofs „Scheidterhof“ berichtet über Änderungen auf dem Land. Ihn hat dies bewegt neue Wege zu gehen um die Zukunft positiv mitzugestalten.`,
+            description: 'Klimawandel bekämpfen? Wer bitte soll denn das bezahlen? Manche macht dieser Gedanke mutlos, doch es gibt Lösungen.  Unser Gast Ralf Wein berät Kommunen und Privatpersonen dabei klimaneutraler zu werden. Kurt Hähn, Landwirt und Inhaber des Bauernhofs „Scheidterhof“ berichtet über Änderungen auf dem Land. Ihn hat dies bewegt neue Wege zu gehen um die Zukunft positiv mitzugestalten.',
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=1Z6HgE5YCgg',
               label: 'YouTube LiveStream'
