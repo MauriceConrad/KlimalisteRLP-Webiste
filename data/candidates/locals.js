@@ -459,7 +459,7 @@ export default [
     "name": "Mutterstadt",
     "type": "candidate",
     "candidate": Friedrich,
-    "description": "Unserem Planeten wird aufgrund der Klimakrise bald große Veränderung wiederfahren. Wir können diese Veränderung selber gestalten und ihre Chancen nutzen oder sie schmerzhaft durch Katastrophen aufgezwungen bekommen. Welchen Weg wir gehen entscheidet sich in diesem Wahljahr. Deshalb bin ich bei der Klimaliste.",
+    "description": "Unserem Planeten wird aufgrund der Klimakrise bald große Veränderung wiederfahren. Wir können diese selber gestalten und ihre Chancen nutzen oder sie schmerzhaft durch Katastrophen aufgezwungen bekommen. Welchen Weg wir gehen, entscheidet sich in diesem Wahljahr. Deshalb bin ich bei der Klimaliste.",
     "points": [
       "53.1 22.42 51.299 20.26 47.459 19.78 48.06 20.5 47.22 20.86 42.9 21.819 37.02 23.14 36.9 22.54 34.379 24.46 31.14 23.98 31.14 23.02 29.82 23.14 25.14 15.46 24.66 11.14 16.86 14.5 14.34 10.18 13.5 10.42 13.14 9.1 13.14 8.14 16.379 6.7 15.3 3.1 15.06 2.14 15.419 1.3 12.78 0.58 10.379 2.02 8.7 1.9 8.94 1.06 5.459 2.02 3.54 2.26 1.5 2.86 1.98 4.3 4.379 3.819 4.74 4.54 4.62 7.66 4.86 8.02 6.66 7.54 7.86 7.9 8.34 8.62 8.7 12.1 9.18 13.66 9.66 14.26 10.14 16.54 10.02 17.26 6.66 17.38 4.26 18.58 0.54 19.18 0.54 21.819 0.78 22.78 1.26 25.06 1.379 25.3 3.78 24.46 4.86 24.7 5.34 25.06 5.7 26.74 7.379 32.26 7.98 33.58 9.9 35.14 12.419 40.3 15.419 55.3 19.86 53.5 21.18 51.34 23.22 50.14 25.02 49.3 25.74 47.74 26.34 45.94 20.82 37.78 20.94 36.58 18.3 32.26 18.78 31.78 22.26 30.819 23.94 28.9 24.66 27.34 25.26 26.98 27.18 26.62 28.02 26.62 30.54 31.18 33.419 33.58 34.74 35.38 34.5 36.34 34.74 37.06 35.82 38.74 40.98 45.34 41.1 42.22 45.9 43.42 46.02 48.94 48.419 47.14 50.1 45.1 51.299 42.34 51.66 39.7 51.66 35.86 45.419 39.34 44.7 36.22 50.7 32.62 50.94 31.66 51.06 30.22 51.9 29.74 51.66 29.5 50.82 29.5 53.1 22.42"
     ],
@@ -471,6 +471,14 @@ export default [
       {
         "label": "E-Mail",
         "href": "mailto:friedrich.hiemenz@klimalisterlp.de"
+      },
+        {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/friedrichhiemenz/"
+      },
+        {
+        "label": "Twitter",
+        "href": "https://twitter.com/fhiemenz"
       }
     ]
   },
