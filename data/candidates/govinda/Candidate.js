@@ -3,15 +3,15 @@ import Background from './bg.jpeg';
 import About from './aboutme.md';
 
 export default {
-  name: "Felix Eichner",
+  name: "Govinda",
   avatar: Avatar,
   bg: Background,
   bgPos: 'center 42%',
   bgBlur: '30px',
   pos: ['top', 'center'],
   description: `
-    Klimaschützer
+
   `,
-  job: 'Schüler',
+  job: '',
   about: About
 }
