@@ -171,30 +171,6 @@
       return {
         calendar: [
           {
-            title: 'Landwirtschaft von morgen: der Schlüssel zu Klima- & Artenschutz?',
-            location: 'Livestream',
-            date: new Date('2021-02-15T18:00:00'),
-            description: `Die Land-, Wein- & Forstwirtschaft sind die größten Leittragenden des Klimawandels. Gleichzeitig haben sie ein enormes Potential zur Lösung der Klimakrise und des Artensterbens beizutragen. Gemeinsam mit Joachim Böttcher, Vorsitzendem der Stiftung Lebensraum, Prof. Daniel Kray und Franz Botens, 2. Vorsitzendem des Imkerverbands, wollen wir über die Möglichkeiten und neue Formen der regenerativen Landwirtschaft sprechen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=aW7FYgktQT0',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Offenes Bürger*innengespräch',
-            location: 'Online Meeting',
-            date: new Date('2021-02-16T19:00:00'),
-            description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
-            actionLink: [{
-              href: 'https://zoom.us/j/95950134486?pwd=TEhnT3VNNDg0WFRwZE5TUW4rcUxzUT09',
-              label: 'Anmeldung'
-            }]
-          },
-          {
             title: 'Kreislaufwirtschaft im Bausektor',
             location: 'Livestream',
             date: new Date('2021-02-19T18:00:00'),
@@ -234,6 +210,16 @@
             {
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
+            }]
+          },
+          {
+            title: 'Offenes Bürger*innengespräch',
+            location: 'Online Meeting',
+            date: new Date('2021-02-23T19:00:00'),
+            description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
+            actionLink: [{
+              href: 'https://zoom.us/j/99386481298?pwd=ckNyQVY3WHV1SEJicEJaNStlSDRidz09',
+              label: 'Anmeldung'
             }]
           },
           {
