@@ -171,20 +171,6 @@
       return {
         calendar: [
           {
-            title: 'Kreislaufwirtschaft im Bausektor',
-            location: 'Livestream',
-            date: new Date('2021-02-19T18:00:00'),
-            description: `Der Bausektor verursacht einen hohen Ressourcenverbrauch und emittiert große Mengen an CO2. Mit Expert*innen aus Wissenschaft und Wirtschaft spricht unser Landtagskandidat Benjamin Kraff über Kreislaufwirtschaft und die Ökobilanzierung bei Bauprozessen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=NhHHjtm_jCA',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
             title: 'Kandidat*innen-Gespräch live und interaktiv mit Spitzenkandidatin Beatrice Bednarz',
             location: 'Livestream',
             date: new Date('2021-02-21T19:00:00'),
