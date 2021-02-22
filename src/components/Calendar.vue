@@ -171,20 +171,6 @@
       return {
         calendar: [
           {
-            title: 'Kandidat*innen-Gespräch live und interaktiv mit Spitzenkandidatin Beatrice Bednarz',
-            location: 'Livestream',
-            date: new Date('2021-02-21T19:00:00'),
-            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Im ersten Stream sprechen wir dazu mit Beatrice Bednarz. Sie ist unsere Spitzenkandidatin und Physikerin.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=hzbB0japXfk',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
             title: 'Klimawandel in Rheinland-Pfalz - Auswirkungen und Chancen',
             location: 'Livestream',
             date: new Date('2021-02-22T18:00:00'),
