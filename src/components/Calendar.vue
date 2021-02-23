@@ -204,7 +204,7 @@
             title: 'Gesunde & inklusive Stadt?',
             location: 'Livestream',
             date: new Date('2021-02-26T18:00:00'),
-            description: `Zu Gast: Landschafts-Archichtekt Dirk Schelhorn. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
+            description: `Zu Gast: Landschafts-Archichtekt Dirk Schelhorn und Pharmastudent Etienne Grimm von Health4Future. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=TtTnAySrZGU',
               label: 'YouTube LiveStream'
