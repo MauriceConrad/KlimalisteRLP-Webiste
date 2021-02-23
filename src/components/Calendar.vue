@@ -170,16 +170,6 @@
     data() {
       return {
         calendar: [
-          {            
-            title: 'Offenes Bürger*innengespräch',
-            location: 'Online Meeting',
-            date: new Date('2021-02-23T19:00:00'),
-            description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
-            actionLink: [{
-              href: 'https://zoom.us/j/99386481298?pwd=ckNyQVY3WHV1SEJicEJaNStlSDRidz09',
-              label: 'Anmeldung'
-            }]
-          },
           {
             title: 'Bürger*innenforum Trier',
             location: 'Online Meeting',
