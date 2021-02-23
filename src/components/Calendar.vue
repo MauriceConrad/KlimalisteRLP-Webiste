@@ -170,20 +170,6 @@
     data() {
       return {
         calendar: [
-          {
-            title: 'Klimawandel in Rheinland-Pfalz - Auswirkungen und Chancen',
-            location: 'Livestream',
-            date: new Date('2021-02-22T18:00:00'),
-            description: 'Klimawandel bekämpfen? Wer bitte soll denn das bezahlen? Manche macht dieser Gedanke mutlos, doch es gibt Lösungen.  Unser Gast Ralf Wein berät Kommunen und Privatpersonen dabei klimaneutraler zu werden. Kurt Hähn, Landwirt und Inhaber des Bauernhofs „Scheidterhof“ berichtet über Änderungen auf dem Land. Ihn hat dies bewegt neue Wege zu gehen um die Zukunft positiv mitzugestalten.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=1Z6HgE5YCgg',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
           {            
             title: 'Offenes Bürger*innengespräch',
             location: 'Online Meeting',
