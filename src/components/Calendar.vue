@@ -171,16 +171,6 @@
       return {
         calendar: [
           {
-            title: 'Bürger*innenforum Trier',
-            location: 'Online Meeting',
-            date: new Date('2021-02-24T18:00:00'),
-            description: 'Wir laden Sie - die Bürger vor Ort ein - und wollen mit Ihnen über die Herausforderungen vor Ort sprechen. Was sind unsere Ziele? Was haben wir in der Region konkret vor? Sie haben Fragen oder Wünschen? Nehmen sie gerne an dem Online Meeting teil - wir freuen uns auf Sie!',
-            actionLink: [{
-              href: 'https://zoom.us/j/95785859388?pwd=NG9Ebi9VOFF1Q1RGeWVNUTh3cEZ0dz09',
-              label: 'Anmeldung'
-            }]
-          },
-          {
             title: 'Bürger*innenforum Alzey',
             location: 'Online Meeting',
             date: new Date('2021-02-25T18:00:00'),
