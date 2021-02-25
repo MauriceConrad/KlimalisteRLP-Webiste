@@ -205,6 +205,12 @@
             }]
           },
           {
+            title: 'Galerie der Zukunft ',
+            location: 'Rathausplatz Landau',
+            date: new Date('2021-02-27T10:00:00'),
+            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr per Beamer durch den Klimaplan scrollen und Fragen stellen. Natürlich Corona-konform! 10:00-16:00 Uhr'
+          },
+          {
             title: 'Spitzenkandidat Maurice Conrad: Kandidat*innen-Gespräch live und interaktiv',
             location: 'Livestream',
             date: new Date('2021-02-28T19:00:00'),
