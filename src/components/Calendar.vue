@@ -191,10 +191,10 @@
             }]
           },
           {
-            title: 'Transformation der Energiewirtschaft',
+            title: 'Energiewende jetzt!',
             location: 'Livestream',
             date: new Date('2021-03-01T19:00:00'),
-            description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit der Klimaliste BaWü sprechen wir über die Zukunft der Energie und welche Veränderungen es dringend braucht.`,
+            description: `Zu Gast: Prof. Claudia Kemfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit der Klimaliste BaWü sprechen wir über die Zukunft der Energie und welche Veränderungen es dringend braucht.`,
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=4-z7jr3QqDA',
               label: 'YouTube LiveStream'
