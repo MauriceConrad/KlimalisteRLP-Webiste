@@ -213,21 +213,21 @@
               href: 'https://zoom.us/j/98691655194?pwd=bEhjSjlKK3R3TjYxU1FMWnd0Qks4dz09',
               label: 'Anmeldung'
             }]
-          }
-/*          {
-            title: 'Gute Zukunft für alle - Klimagerechtigkeit!',
+          },
+          {
+            title: 'Klimaschutz in Rheinland-Pfalz: Eine große Chance',
             location: 'Livestream',
             date: new Date('2021-03-05T18:00:00'),
-            description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit unserer Landtagskandidatin Greta Waltenberg sprechen wir über Klimagerechtigkeit und die Frage, wie wir verschiedene soziale Kämpfe im Kampf gegen den Klimawandel vereinen.`,
+            description: `Den Klimaschutz als große Chance wahrnehmen und anpacken. Wie? Mit vielen kreativen Projekten, von denen manche sich heute bereits bewährt haben. Darüber sprechen wir mit Sabine Yacoub, der Landesvorsitzenden vom BUND, und Severin Schwarzkopf von der katholischen Jugendzentrale.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
+              href: 'https://www.youtube.com/watch?v=UDHhHUU4kiA',
+              label: 'YouTube Livestream'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
             }]
-          }*/
+          }
         ]
       }
     },
