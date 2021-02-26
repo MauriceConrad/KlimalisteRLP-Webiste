@@ -186,6 +186,10 @@
               label: 'YouTube LiveStream'
             },
             {
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
+            },
+            {
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
             }]
@@ -198,6 +202,10 @@
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=4-z7jr3QqDA',
               label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -222,6 +230,10 @@
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=UDHhHUU4kiA',
               label: 'YouTube Livestream'
+            },
+            {
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
