@@ -204,7 +204,7 @@
             title: 'Spitzenkandidat Maurice Conrad: Kandidat*innen-Gespräch live und interaktiv',
             location: 'Livestream',
             date: new Date('2021-02-28T19:00:00'),
-            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Im ersten Stream sprechen wir dazu mit Maurice Conrad. Er ist unsere Spitzenkandidatin und Informatiker.',
+            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Im ersten Stream sprechen wir dazu mit Maurice Conrad. Er ist unsere Spitzenkandidat und Informatiker.',
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=bk1Y9aF-yo8',
               label: 'YouTube LiveStream'
