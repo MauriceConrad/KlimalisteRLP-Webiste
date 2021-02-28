@@ -3,13 +3,15 @@ import Background from './bg.jpeg';
 import About from './aboutme.md';
 
 export default {
-  name: "Ilona Pistopoulou",
+  name: "Kevin Daun",
   avatar: Avatar,
   bg: Background,
   bgPos: 'center 42%',
   bgBlur: '30px',
   pos: ['top', 'center'],
-  description: `Klimaschützerin`,
+  description: `
+    Klimaschützer
+  `,
   job: '',
   about: About
 }
