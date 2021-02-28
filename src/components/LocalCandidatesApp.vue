@@ -1,6 +1,6 @@
 <template>
   <div class="locals-app" data-nav-id="Locals">
-    <h2>Direktkandidat*innen</h2>
+    <h2>Direktkandidat*innen und Ansprechpartner*innen</h2>
 
     <div class="view-main">
 
@@ -174,7 +174,7 @@
       getLocalTypeLabel(local) {
         return new Map([
           ["candidate", "Kandidat*in"],
-          ["support", "Unterstützer*in"],
+          ["support", "Ansprechpartner*in"],
           [undefined, ""]
         ]).get(local?.type);
       },
