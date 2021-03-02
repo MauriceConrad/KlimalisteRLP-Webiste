@@ -245,7 +245,7 @@
             {
             title: 'Landtagskandidat Benjamin Kraff: Kandidat*innen-Gespräch live und interaktiv',
             location: 'Livestream',
-            date: new Date('2021-02-28T19:00:00'),
+            date: new Date('2021-02-07T19:00:00'),
             description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Wir sprechen im Stream dazu mit Benjamin Kraff. Er ist Landtagskandidat und Wirtschaftsingenieur.',
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=tWpprCPPWKk',
