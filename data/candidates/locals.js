@@ -405,11 +405,7 @@ Zukunft`,
       275
     ],
     "candidate": Maurice,
-<<<<<<< HEAD
     "description": `Als junger Kommunalpoltiker ist es mir wichtig, für Mainz auch als Direktkandidat mit der Erst-Stimme direkt wählbar und ansprechbar zu sein. Die Klimawende beginnt von unten.`,
-=======
-    "description": `Als kommunalpolitisch Aktiver ist es mir wichtig, für Mainz auch als Direktkandidat mit der Erst-Stimme direkt wählbar und ansprechbar zu sein. Die Klimawende beginnt von unten.`,
->>>>>>> e4955790393a568d307c74bcc0d4c44a2f60515b
     "finished": true,
     "links": [
       {

@@ -40,8 +40,39 @@
         </li>
       </ul>
     </div>
+    <div class="escape-description">
+      <h3>Escape Room</h3>
+      <p>
+        Spitzenduo der Klimaliste RLP entführt und Klimaplan gelöscht! Wer kann das gewesen sein?
+        <br>
+        <a href="https://blog.klimalisterlp.de/spitzenduo-der-klimaliste-rlp-entfuhrt-wer-kann-sie-finden/" target="_blank">Was ist passiert?</a>
+      </p>
+      <div class="">
+        <a href="https://tatortklimaplan.de/" target="_blank">
+          <button class="btn">
+            "Tatort Klimaplan"
+          </button>
+        </a>
+      </div>
+    </div>
   </div>
 </template>
+
+<style scoped>
+  .escape-description {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+  }
+  .btn {
+  background-color: #4f9f76;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 7px 15px;
+  font-size: 1.2rem;
+  }
+</style>
 
 <style scoped>
   .calendar-container {
