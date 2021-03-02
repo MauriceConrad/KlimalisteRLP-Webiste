@@ -171,113 +171,51 @@
       return {
         calendar: [
           {
-            title: 'Landwirtschaft von morgen: der Schlüssel zu Klima- & Artenschutz?',
-            location: 'Livestream',
-            date: new Date('2021-02-15T18:00:00'),
-            description: `Die Land-, Wein- & Forstwirtschaft sind die größten Leittragenden des Klimawandels. Gleichzeitig haben sie ein enormes Potential zur Lösung der Klimakrise und des Artensterbens beizutragen. Gemeinsam mit Joachim Böttcher, Vorsitzendem der Stiftung Lebensraum, Prof. Daniel Kray und Franz Botens, 2. Vorsitzendem des Imkerverbands, wollen wir über die Möglichkeiten und neue Formen der regenerativen Landwirtschaft sprechen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=aW7FYgktQT0',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
             title: 'Offenes Bürger*innengespräch',
             location: 'Online Meeting',
-            date: new Date('2021-02-16T19:00:00'),
+            date: new Date('2021-03-02T19:00:00'),
             description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
             actionLink: [{
-              href: 'https://zoom.us/j/95950134486?pwd=TEhnT3VNNDg0WFRwZE5TUW4rcUxzUT09',
+              href: 'https://zoom.us/j/98691655194?pwd=bEhjSjlKK3R3TjYxU1FMWnd0Qks4dz09',
               label: 'Anmeldung'
             }]
           },
           {
-            title: 'Kreislaufwirtschaft im Bausektor',
-            location: 'Livestream',
-            date: new Date('2021-02-19T18:00:00'),
-            description: `Der Bausektor verursacht einen hohen Ressourcenverbrauch und emittiert große Mengen an CO2. Mit Expert*innen aus Wissenschaft und Wirtschaft spricht unser Landtagskandidat Benjamin Kraff über Kreislaufwirtschaft und die Ökobilanzierung bei Bauprozessen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=NhHHjtm_jCA',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Kandidat*innen-Gespräch live und interaktiv mit Spitzenkandidatin Beatrice Bednarz',
-            location: 'Livestream',
-            date: new Date('2021-02-21T19:00:00'),
-            description: 'In diesem LiveStream könnt ihr unseren Kandiat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Im ersten Stream sprechen wir dazu mit Beatrice Bednarz. Sie ist unsere Spitzenkandidatin und Physikerin.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=hzbB0japXfk',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Klimawandel in Rheinland-Pfalz - Auswirkungen und Chancen',
-            location: 'Livestream',
-            date: new Date('2021-02-22T18:00:00'),
-            description: 'Klimawandel bekämpfen? Wer bitte soll denn das bezahlen? Manche macht dieser Gedanke mutlos, doch es gibt Lösungen.  Unser Gast Ralf Wein berät Kommunen und Privatpersonen dabei klimaneutraler zu werden. Kurt Hähn, Landwirt und Inhaber des Bauernhofs „Scheidterhof“ berichtet über Änderungen auf dem Land. Ihn hat dies bewegt neue Wege zu gehen um die Zukunft positiv mitzugestalten.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=1Z6HgE5YCgg',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Gesunde & inklusive Stadt?',
-            location: 'Livestream',
-            date: new Date('2021-02-26T18:00:00'),
-            description: `Zu Gast: Landschafts-Archichtekt Dirk Schelhorn. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=TtTnAySrZGU',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },/*
-          {
-            title: 'Transformation der Energiewirtschaft',
-            location: 'Livestream',
-            date: new Date('2021-03-01T18:00:00'),
-            description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit der Klimaliste BaWü sprechen wir über die Zukunft der Energie und welche Veränderungen es dringend braucht.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Gute Zukunft für alle - Klimagerechtigkeit!',
+            title: 'Klimaschutz in Rheinland-Pfalz: Eine große Chance',
             location: 'Livestream',
             date: new Date('2021-03-05T18:00:00'),
-            description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit unserer Landtagskandidatin Greta Waltenberg sprechen wir über Klimagerechtigkeit und die Frage, wie wir verschiedene soziale Kämpfe im Kampf gegen den Klimawandel vereinen.`,
+            description: `Den Klimaschutz als große Chance wahrnehmen und anpacken. Wie? Mit vielen kreativen Projekten, von denen manche sich heute bereits bewährt haben. Darüber sprechen wir mit Sabine Yacoub, der Landesvorsitzenden vom BUND, und Severin Schwarzkopf von der katholischen Jugendzentrale.`,
             actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
+              href: 'https://www.youtube.com/watch?v=UDHhHUU4kiA',
+              label: 'YouTube Livestream'
+            },
+            {
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
             }]
-          }*/
+            },
+            {
+            title: 'Landtagskandidat Benjamin Kraff: Kandidat*innen-Gespräch live und interaktiv',
+            location: 'Livestream',
+            date: new Date('2021-02-28T19:00:00'),
+            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Wir sprechen im Stream dazu mit Benjamin Kraff. Er ist Landtagskandidat und Wissenschaftler.',
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=tWpprCPPWKk',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          }
         ]
       }
     },

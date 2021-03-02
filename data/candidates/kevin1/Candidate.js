@@ -3,7 +3,7 @@ import Background from './bg.jpeg';
 import About from './aboutme.md';
 
 export default {
-  name: "Robert Pazer",
+  name: "Kevin Daun",
   avatar: Avatar,
   bg: Background,
   bgPos: 'center 42%',
@@ -12,6 +12,6 @@ export default {
   description: `
     Klimaschützer
   `,
-  job: 'Student',
+  job: '',
   about: About
 }

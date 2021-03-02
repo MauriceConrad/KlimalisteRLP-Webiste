@@ -3,15 +3,15 @@ import Background from './bg.jpeg';
 import About from './aboutme.md';
 
 export default {
-  name: "Robert Pazer",
+  name: "Friederike Würth",
   avatar: Avatar,
   bg: Background,
   bgPos: 'center 42%',
   bgBlur: '30px',
   pos: ['top', 'center'],
   description: `
-    Klimaschützer
+    Klimaschützerin
   `,
-  job: 'Student',
+  job: '',
   about: About
 }

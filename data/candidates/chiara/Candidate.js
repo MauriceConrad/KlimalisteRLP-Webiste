@@ -3,7 +3,7 @@ import Background from './bg.jpeg';
 import About from './aboutme.md';
 
 export default {
-  name: "Chiara",
+  name: "Chiara Pohl",
   avatar: Avatar,
   bg: Background,
   bgPos: 'center 42%',
