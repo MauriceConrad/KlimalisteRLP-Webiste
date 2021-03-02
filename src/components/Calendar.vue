@@ -1,4 +1,4 @@
-template>
+<template>
   <div class="calendar-container" data-nav-id="Veranstaltungen">
     <h3>Veranstaltungs-Kalender</h3>
 
