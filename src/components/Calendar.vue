@@ -228,7 +228,7 @@
             title: 'Klimaschutz in Rheinland-Pfalz: Eine große Chance',
             location: 'Livestream',
             date: new Date('2021-03-05T18:00:00'),
-            description: `Den Klimaschutz als große Chance wahrnehmen und anpacken. Wie? Mit vielen kreativen Projekten, von denen manche sich heute bereits bewährt haben. Darüber sprechen wir mit Sabine Yacoub, der Landesvorsitzenden vom BUND, und Severin Schwarzkopf von der katholischen Jugendzentrale.`,
+            description: `Den Klimaschutz als große Chance wahrnehmen und anpacken. Wie? Mit vielen kreativen Projekten, von denen manche sich heute bereits bewährt haben. Darüber sprechen wir mit Sabine Yacoub, der Landesvorsitzenden vom BUND, Severin Schwarzkopf von der katholischen Jugendzentrale und Guido Dahm, Geschäftsführung des Verband für Wirtschaft und Umwelt e.V. .`,
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=UDHhHUU4kiA',
               label: 'YouTube Livestream'
