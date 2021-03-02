@@ -66,13 +66,7 @@
         <strong>Deadline: Sonntag, 07.03.2021 um 12 Uhr</strong>
 
       </p>
-      <div class="">
-        <a href="https://tatortklimaplan.de/" target="_blank">
-          <button class="btn">
-            "Tatort Klimaplan"
-          </button>
-        </a>
-      </div>
+      
     </div>
   </div>
 </template>
