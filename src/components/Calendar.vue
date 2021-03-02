@@ -40,7 +40,7 @@
         </li>
       </ul>
     </div>
-    <div class="escape-description">
+    <div class="challange-description">
       <h3>Escape Room</h3>
       <p>
         Spitzenduo der Klimaliste RLP entführt und Klimaplan gelöscht! Wer kann das gewesen sein?
@@ -55,7 +55,7 @@
         </a>
       </div>
     </div>
-    <div class="escape-description">
+    <div class="challange-description">
       <h3>Finde die Lücke in unserem Klimapan!</h3>
       <p>
         Du hast politische Klimaschutzmaßnahmen für RLP entdeckt, die noch nicht im Klimaplan enthalten sind?
@@ -64,7 +64,7 @@
         Aus den Einsendungen losen wir 3 Gewinner, die jeweils einen 100 € Gutschein für einen regionalen Bio- oder Unverpacktladen ihrer Wahl bekommen sowie einen Klimalisten-Pulli.
         <br>
         <strong>Deadline: Sonntag, 07.03.2021 um 12 Uhr</strong>
-        
+
       </p>
       <div class="">
         <a href="https://tatortklimaplan.de/" target="_blank">
@@ -78,9 +78,9 @@
 </template>
 
 <style scoped>
-  .escape-description {
+  .challange-description {
   max-width: 800px;
-  margin: auto;
+  margin: 50px auto;
   text-align: center;
   }
   .btn {
