@@ -171,24 +171,6 @@
       return {
         calendar: [
           {
-            title: 'Energiewende jetzt!',
-            location: 'Livestream',
-            date: new Date('2021-03-01T19:00:00'),
-            description: `Zu Gast: Prof. Claudia Kemfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit der Klimaliste BaWü sprechen wir über die Zukunft der Energie und welche Veränderungen es dringend braucht.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=4-z7jr3QqDA',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.instagram.com/klimalisterlp/',
-              label: 'Instagram Livestream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
             title: 'Offenes Bürger*innengespräch',
             location: 'Online Meeting',
             date: new Date('2021-03-02T19:00:00'),
@@ -206,6 +188,24 @@
             actionLink: [{
               href: 'https://www.youtube.com/watch?v=UDHhHUU4kiA',
               label: 'YouTube Livestream'
+            },
+            {
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+            },
+            {
+            title: 'Landtagskandidat Benjamin Kraff: Kandidat*innen-Gespräch live und interaktiv',
+            location: 'Livestream',
+            date: new Date('2021-02-28T19:00:00'),
+            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Wir sprechen im Stream dazu mit Benjamin Kraff. Er ist Landtagskandidat und Wissenschaftler.',
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=tWpprCPPWKk',
+              label: 'YouTube LiveStream'
             },
             {
               href: 'https://www.instagram.com/klimalisterlp/',
