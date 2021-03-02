@@ -55,6 +55,25 @@
         </a>
       </div>
     </div>
+    <div class="escape-description">
+      <h3>Finde die Lücke in unserem Klimapan!</h3>
+      <p>
+        Du hast politische Klimaschutzmaßnahmen für RLP entdeckt, die noch nicht im Klimaplan enthalten sind?
+        <br>Dann schicke deinen Maßnahmenvorschlag mit einer kurzen Erklärung an <a href="mailto:inhalt@klimalisterlp.de">inhalt@klimalisterlp.de</a> mit dem Betreff <strong>"Wettbewerb Klimaliste"</strong>.
+        <br>
+        Aus den Einsendungen losen wir 3 Gewinner, die jeweils einen 100 € Gutschein für einen regionalen Bio- oder Unverpacktladen ihrer Wahl bekommen sowie einen Klimalisten-Pulli.
+        <br>
+        <strong>Deadline: Sonntag, 07.03.2021 um 12 Uhr</strong>
+        
+      </p>
+      <div class="">
+        <a href="https://tatortklimaplan.de/" target="_blank">
+          <button class="btn">
+            "Tatort Klimaplan"
+          </button>
+        </a>
+      </div>
+    </div>
   </div>
 </template>
 
