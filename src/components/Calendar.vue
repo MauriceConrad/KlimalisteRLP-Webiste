@@ -241,8 +241,14 @@
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
             }]
-            },
-            {
+          },
+          {
+              title: 'Galerie der Zukunft ',
+              location: 'Mainz, am Rhein, Höhe Rathaus',
+              date: new Date('2021-03-06T10:00:00'),
+              description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr per Beamer durch den Klimaplan scrollen und Fragen stellen. Natürlich Corona-konform! 10:00-16:00 Uhr'
+          },
+          {
             title: 'Landtagskandidat Benjamin Kraff: Kandidat*innen-Gespräch live und interaktiv',
             location: 'Livestream',
             date: new Date('2021-03-07T19:00:00'),
