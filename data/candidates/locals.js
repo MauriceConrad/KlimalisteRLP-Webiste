@@ -71,6 +71,10 @@ export default [
       {
         "label": "E-Mail",
         "href": "mailto:felix.eichner@klimalisterlp.de"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/felix_ecn/"
       }
     ]
   },
@@ -237,6 +241,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:david.schwarz@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/DavidSchwarzRLP"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/davidschwarz1"
       }
     ]
   },
@@ -256,6 +268,26 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:benjamin.kraff@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/BenjaminDKraff"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/benjamindkraff/"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/benjamin-d-kraff-3341a0152/"
+      },
+      {
+        "label": "Xing",
+        "href": "https://www.xing.com/profile/BenjaminD_Kraff/cv"
+      },
+      {
+        "label": "ResearchGate",
+        "href": "https://www.researchgate.net/profile/Benjamin-Kraff"
       }
     ]
   },
@@ -411,6 +443,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:maurice.conrad@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/Maurice_Conrad"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/mauriceconrad.42/"
       }
     ]
   },
@@ -431,6 +471,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:collin.wittenstein@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/cwittens99"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/cwittens/"
       }
     ]
   },
@@ -451,6 +499,26 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:benjamin.kraff@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/BenjaminDKraff"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/benjamindkraff/"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/benjamin-d-kraff-3341a0152/"
+      },
+      {
+        "label": "Xing",
+        "href": "https://www.xing.com/profile/BenjaminD_Kraff/cv"
+      },
+      {
+        "label": "ResearchGate",
+        "href": "https://www.researchgate.net/profile/Benjamin-Kraff"
       }
     ]
   },
@@ -471,6 +539,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:david.schwarz@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/DavidSchwarzRLP"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/davidschwarz1"
       }
     ]
   },
@@ -491,6 +567,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:beatrice.bednarz@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/BeatriceBednarz"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/bednarzbeatrice/"
       }
     ]
   },
@@ -529,6 +613,10 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:felix.eichner@klimalisterlp.de"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/felix_ecn/"
       }
     ]
   },
@@ -568,6 +656,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:friedrich.hiemenz@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/fhiemenz"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/friedrichhiemenz/"
       }
     ]
   },
@@ -587,6 +683,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:friedrich.hiemenz@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/fhiemenz"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/friedrichhiemenz/"
       }
     ]
   },
@@ -606,6 +710,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:friedrich.hiemenz@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/fhiemenz"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/friedrichhiemenz/"
       }
     ]
   },
@@ -625,6 +737,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:friedrich.hiemenz@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/fhiemenz"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/friedrichhiemenz/"
       }
     ]
   },
@@ -645,6 +765,18 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:jonas.wittner@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/JonasWittner"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/jonas.klimaliste/"
+      },
+      {
+        "label": "Facebook",
+        "href": "https://www.facebook.com/Jonas.Klimaliste/"
       }
     ]
   },
@@ -664,6 +796,10 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:felix.eichner@klimalisterlp.de"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/felix_ecn/"
       }
     ]
   },
@@ -703,6 +839,10 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:felix.eichner@klimalisterlp.de"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/felix_ecn/"
       }
     ]
   },
@@ -723,6 +863,18 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:jonas.wittner@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/JonasWittner"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/jonas.klimaliste/"
+      },
+      {
+        "label": "Facebook",
+        "href": "https://www.facebook.com/Jonas.Klimaliste/"
       }
     ]
   },
@@ -830,6 +982,14 @@ Zukunft`,
       {
         "label": "E-Mail",
         "href": "mailto:kaycee.hesse@klimalisterlp.de"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/KayceeHesse"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/kayceehesse/"
       }
     ]
   },
