@@ -17,7 +17,7 @@ Konkrete Maßnahmenbereiche, die wir angehen werden:
 - Umstellung auf nachwachsende und klimafreundliche Rohstoffe
 - Entwicklung einer umfassenden Kreislaufwirtschaft
 - Stärkung regionaler Technologie- und Innovationsstandorte in ganz Rheinland-Pfalz durch gezielte Förderung, Vernetzung und Beratung
-- Einbeziehung der Kosten für Klimafolgeschäden bei **allen Entscheidungen und Ausgaben des Landes** durch die Einführung eines CO2-Schattenpreises von 180 € pro Tonne CO2-Äquivalent
+- Einbeziehung der Kosten für Klimafolgeschäden bei **allen Entscheidungen und Ausgaben des Landes** durch die Einführung eines CO2-Schattenpreises von 195 € pro Tonne CO2-Äquivalent
 
 
 ### Quellen:
