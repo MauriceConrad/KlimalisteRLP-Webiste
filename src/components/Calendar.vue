@@ -215,16 +215,6 @@
       return {
         calendar: [
           {
-            title: 'Offenes Bürger*innengespräch',
-            location: 'Online Meeting',
-            date: new Date('2021-03-02T19:00:00'),
-            description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
-            actionLink: [{
-              href: 'https://zoom.us/j/98691655194?pwd=bEhjSjlKK3R3TjYxU1FMWnd0Qks4dz09',
-              label: 'Anmeldung'
-            }]
-          },
-          {
             title: 'Klimaschutz in Rheinland-Pfalz: Eine große Chance',
             location: 'Livestream',
             date: new Date('2021-03-05T18:00:00'),
