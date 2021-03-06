@@ -215,30 +215,6 @@
       return {
         calendar: [
           {
-            title: 'Klimaschutz in Rheinland-Pfalz: Eine große Chance',
-            location: 'Livestream',
-            date: new Date('2021-03-05T18:00:00'),
-            description: `Den Klimaschutz als große Chance wahrnehmen und anpacken. Wie? Mit vielen kreativen Projekten, von denen manche sich heute bereits bewährt haben. Darüber sprechen wir mit Sabine Yacoub, der Landesvorsitzenden vom BUND, Severin Schwarzkopf von der katholischen Jugendzentrale und Guido Dahm, Geschäftsführung des Verband für Wirtschaft und Umwelt e.V. .`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=UDHhHUU4kiA',
-              label: 'YouTube Livestream'
-            },
-            {
-              href: 'https://www.instagram.com/klimalisterlp/',
-              label: 'Instagram Livestream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-              title: 'Galerie der Zukunft ',
-              location: 'Mainz, am Rhein, Höhe Rathaus',
-              date: new Date('2021-03-06T10:00:00'),
-              description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr per Beamer durch den Klimaplan scrollen und Fragen stellen. Natürlich Corona-konform! 10:00-16:00 Uhr'
-          },
-          {
             title: 'Landtagskandidat Benjamin Kraff: Kandidat*innen-Gespräch live und interaktiv',
             location: 'Livestream',
             date: new Date('2021-03-07T19:00:00'),
@@ -255,7 +231,7 @@
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
             }]
-          }
+          }	  
         ]
       }
     },
