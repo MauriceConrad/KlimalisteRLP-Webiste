@@ -215,24 +215,6 @@
       return {
         calendar: [
           {
-            title: 'Landtagskandidat Benjamin Kraff: Kandidat*innen-Gespräch live und interaktiv',
-            location: 'Livestream',
-            date: new Date('2021-03-07T19:00:00'),
-            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Wir sprechen im Stream dazu mit Benjamin Kraff. Er ist Landtagskandidat und Wirtschaftsingenieur.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=tWpprCPPWKk',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.instagram.com/klimalisterlp/',
-              label: 'Instagram Livestream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
             title: 'Offenes Bürger*innengespräch',
             location: 'Online Meeting',
             date: new Date('2021-03-09T19:00:00'),
@@ -241,6 +223,18 @@
               href: 'https://zoom.us/j/96166585362?pwd=UkozMmdrcjNVbjJpRXhwdXdQOW8rZz09',
               label: 'Anmeldung'
             }]
+          },
+          {
+            title: 'Info-Stand',
+            location: 'Mainz, Leichhof',
+            date: new Date('2021-03-11T10:00:00'),
+            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
+          },
+          {
+            title: 'Info-Stand',
+            location: 'Mainz, am Rhein, Höhe Rathaus',
+            date: new Date('2021-03-13T10:00:00'),
+            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
           }
         ]
       }
