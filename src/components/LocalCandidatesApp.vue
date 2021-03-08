@@ -32,9 +32,6 @@
           <div class="description">
             ”{{ activeLocal.description }}”
           </div>
-          <div class="description">
-            ”{{ activeLocal.description2 }}”
-          </div>
           <div class="links">
             <div v-for="(item, index) in activeLocal.links" :key="index" class="link-item">
               <a :href="item.href" style="color:inherit" target="_blank">{{ item.label }}</a>
