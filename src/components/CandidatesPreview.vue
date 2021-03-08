@@ -4,6 +4,7 @@
     <div class="intro-container">
       <div class="intro-text" v-html="content.intro"></div>
     </div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RJqKHvmuB2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <h3>Unsere Listenkandidaten*innen</h3>
     <div class="candidates-list">
       <ul>
