@@ -31,6 +31,9 @@
     <div class="more-container">
       <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste + Direktkandidaten*innen</a>
     </div>
+    <h2>Unsere Ansage zur Landtagswahl</h2>
+    <h3> So wie bisher kann und darf es mit der Klimapolitik nicht weiter gehen. Wählt mutig!</h3>
+    <iframe width="1200" height="630" src="https://www.youtube.com/embed/CxxBZ0yajlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <div class="info-box">
       <span class="label"><h3>Höre den <strong>Klimaplan</strong> als Podcast</h3></span>
       <ul class="podcast-links">
