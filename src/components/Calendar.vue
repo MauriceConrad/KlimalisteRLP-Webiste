@@ -215,16 +215,6 @@
       return {
         calendar: [
           {
-            title: 'Offenes Bürger*innengespräch',
-            location: 'Online Meeting',
-            date: new Date('2021-03-09T19:00:00'),
-            description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
-            actionLink: [{
-              href: 'https://zoom.us/j/96166585362?pwd=UkozMmdrcjNVbjJpRXhwdXdQOW8rZz09',
-              label: 'Anmeldung'
-            }]
-          },
-          {
             title: 'Info-Stand',
             location: 'Mainz, Leichhof',
             date: new Date('2021-03-11T10:00:00'),
