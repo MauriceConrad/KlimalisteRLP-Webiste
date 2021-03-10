@@ -227,6 +227,12 @@
           },
           {
             title: 'Info-Stand',
+            location: 'Ludwigshafen, Rheininsel',
+            date: new Date('2021-03-12T10:00:00'),
+            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
+          },
+          {
+            title: 'Info-Stand',
             location: 'Mainz, am Rhein, Höhe Rathaus',
             date: new Date('2021-03-13T10:00:00'),
             description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
