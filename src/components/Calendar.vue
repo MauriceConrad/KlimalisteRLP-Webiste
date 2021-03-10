@@ -55,19 +55,6 @@
         </a>
       </div>
     </div>
-    <div class="challange-description">
-      <h3>Finde die Lücke in unserem Klimapan!</h3>
-      <p>
-        Du hast politische Klimaschutzmaßnahmen für RLP entdeckt, die noch nicht im Klimaplan enthalten sind?
-        <br>Dann schicke deinen Maßnahmenvorschlag mit einer kurzen Erklärung an <a href="mailto:inhalt@klimalisterlp.de">inhalt@klimalisterlp.de</a> mit dem Betreff <strong>"Wettbewerb Klimaliste"</strong>.
-        <br>
-        Aus den Einsendungen losen wir 3 Gewinner, die jeweils einen 100 € Gutschein für einen regionalen Bio- oder Unverpacktladen ihrer Wahl bekommen sowie einen Klimalisten-Pulli.
-        <br>
-        <strong>Deadline: Sonntag, 07.03.2021 um 12 Uhr</strong>
-
-      </p>
-      
-    </div>
   </div>
 </template>
 
@@ -215,20 +202,28 @@
       return {
         calendar: [
           {
-            title: 'Offenes Bürger*innengespräch',
-            location: 'Online Meeting',
-            date: new Date('2021-03-09T19:00:00'),
-            description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
-            actionLink: [{
-              href: 'https://zoom.us/j/96166585362?pwd=UkozMmdrcjNVbjJpRXhwdXdQOW8rZz09',
-              label: 'Anmeldung'
-            }]
-          },
-          {
             title: 'Info-Stand',
             location: 'Mainz, Leichhof',
             date: new Date('2021-03-11T10:00:00'),
             description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
+          },
+          {
+            title: 'Landtagskandidat David Schwarz: Kandidat*innen-Gespräch live und interaktiv',
+            location: 'Livestream',
+            date: new Date('2021-03-11T19:00:00'),
+            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Wir sprechen im Stream dazu mit David Schwarz. Er ist Landtagskandidat und Unternehmensberater.',
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=GzdB0j90dzk',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
           },
           {
             title: 'Info-Stand',
