@@ -6,6 +6,9 @@
     </a><br>
     <a href="files/Klimaplan Rheinland-Pfalz.pdf" class="anchor-program" target="_blank">
       Vollständiger Klimaplan (Programm)
+    </a><br>
+    <a href="files/Klimaliste_Kurzprogramm.pdf" class="anchor-program" target="_blank">
+      Kurzversion des Klimaplans
     </a>
     <br>
     <div class="program-application">

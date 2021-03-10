@@ -4,6 +4,9 @@
     <div class="intro-container">
       <div class="intro-text" v-html="content.intro"></div>
     </div>
+    <div class="iframe-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/RJqKHvmuB2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
     <h3>Unsere Listenkandidaten*innen</h3>
     <div class="candidates-list">
       <ul>
@@ -29,6 +32,11 @@
     </div>
     <div class="more-container">
       <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste + Direktkandidaten*innen</a>
+    </div>
+    <h2>Unsere Ansage zur Landtagswahl</h2>
+    <h3> So wie bisher kann und darf es mit der Klimapolitik nicht weiter gehen. Wählt mutig!</h3>
+    <div class="iframe-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/CxxBZ0yajlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="info-box">
       <span class="label"><h3>Höre den <strong>Klimaplan</strong> als Podcast</h3></span>
@@ -365,6 +373,21 @@
   .some-links li .icon {
     width: 70px;
     height: 70px;
+  }
+  .iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* padding-left: 10%;
+    padding-right: 10%; */
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
   }
 </style>
 

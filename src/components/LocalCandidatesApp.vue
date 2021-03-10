@@ -1,6 +1,6 @@
 <template>
   <div class="locals-app" data-nav-id="Locals">
-    <h2>Direktkandidat*innen</h2>
+    <h2>Direktkandidat*innen und Ansprechpartner*innen</h2>
 
     <div class="view-main">
 
@@ -63,7 +63,7 @@
 
   .view-main {
     width: 100%;
-    height: 510px;
+    height: 520px;
     display: flex;
   }
   @media screen and (max-width: 600px) {
@@ -174,7 +174,7 @@
       getLocalTypeLabel(local) {
         return new Map([
           ["candidate", "Kandidat*in"],
-          ["support", "Unterstützer*in"],
+          ["support", "Ansprechpartner*in"],
           [undefined, ""]
         ]).get(local?.type);
       },
@@ -187,7 +187,7 @@
             return ["#40865e", this.activeLocal == local ? "#458c63" : "#5ba279"];
           }],
           ["support", () => {
-            return ["#2f6c8f", "#418ab4"];
+            return ["#2f6c8f", this.activeLocal == local ? "#22739C" : "#418ab4"];
           }]
         ]);
         return colorCodes.get(local.type)();

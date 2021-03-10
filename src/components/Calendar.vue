@@ -40,8 +40,52 @@
         </li>
       </ul>
     </div>
+    <div class="challange-description">
+      <h3>Escape Room</h3>
+      <p>
+        Spitzenduo der Klimaliste RLP entführt und Klimaplan gelöscht! Wer kann das gewesen sein?
+        <br>
+        <a href="https://blog.klimalisterlp.de/spitzenduo-der-klimaliste-rlp-entfuhrt-wer-kann-sie-finden/" target="_blank">Was ist passiert?</a>
+      </p>
+      <div class="">
+        <a href="https://tatortklimaplan.de/" target="_blank">
+          <button class="btn">
+            "Tatort Klimaplan"
+          </button>
+        </a>
+      </div>
+    </div>
+    <div class="challange-description">
+      <h3>Finde die Lücke in unserem Klimapan!</h3>
+      <p>
+        Du hast politische Klimaschutzmaßnahmen für RLP entdeckt, die noch nicht im Klimaplan enthalten sind?
+        <br>Dann schicke deinen Maßnahmenvorschlag mit einer kurzen Erklärung an <a href="mailto:inhalt@klimalisterlp.de">inhalt@klimalisterlp.de</a> mit dem Betreff <strong>"Wettbewerb Klimaliste"</strong>.
+        <br>
+        Aus den Einsendungen losen wir 3 Gewinner, die jeweils einen 100 € Gutschein für einen regionalen Bio- oder Unverpacktladen ihrer Wahl bekommen sowie einen Klimalisten-Pulli.
+        <br>
+        <strong>Deadline: Sonntag, 07.03.2021 um 12 Uhr</strong>
+
+      </p>
+      
+    </div>
   </div>
 </template>
+
+<style scoped>
+  .challange-description {
+  max-width: 800px;
+  margin: 50px auto;
+  text-align: center;
+  }
+  .btn {
+  background-color: #4f9f76;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 7px 15px;
+  font-size: 1.2rem;
+  }
+</style>
 
 <style scoped>
   .calendar-container {
@@ -171,37 +215,23 @@
       return {
         calendar: [
           {
-            title: 'Landwirtschaft von morgen: der Schlüssel zu Klima- & Artenschutz?',
+            title: 'Info-Stand',
+            location: 'Mainz, Leichhof',
+            date: new Date('2021-03-11T10:00:00'),
+            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
+          },
+          {
+            title: 'Landtagskandidat David Schwarz: Kandidat*innen-Gespräch live und interaktiv',
             location: 'Livestream',
-            date: new Date('2021-02-15T18:00:00'),
-            description: `Die Land-, Wein- & Forstwirtschaft sind die größten Leittragenden des Klimawandels. Gleichzeitig haben sie ein enormes Potential zur Lösung der Klimakrise und des Artensterbens beizutragen. Gemeinsam mit Joachim Böttcher, Vorsitzendem der Stiftung Lebensraum, Prof. Daniel Kray und Franz Botens, 2. Vorsitzendem des Imkerverbands, wollen wir über die Möglichkeiten und neue Formen der regenerativen Landwirtschaft sprechen.`,
+            date: new Date('2021-03-11T19:00:00'),
+            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Wir sprechen im Stream dazu mit David Schwarz. Er ist Landtagskandidat und Unternehmensberater.',
             actionLink: [{
-              href: 'https://www.youtube.com/watch?v=aW7FYgktQT0',
+              href: 'https://www.youtube.com/watch?v=GzdB0j90dzk',
               label: 'YouTube LiveStream'
             },
             {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Offenes Bürger*innengespräch',
-            location: 'Online Meeting',
-            date: new Date('2021-02-16T19:00:00'),
-            description: `Wieso haben wir uns gegründet? Was sind unsere Ziele? Was sagt die Wissenschaft zur Klimakrise? Sie haben Fragen oder Wünsche? Kommen Sie gerne auf uns zu!`,
-            actionLink: [{
-              href: 'https://zoom.us/j/95950134486?pwd=TEhnT3VNNDg0WFRwZE5TUW4rcUxzUT09',
-              label: 'Anmeldung'
-            }]
-          },
-          {
-            title: 'Kreislaufwirtschaft im Bausektor',
-            location: 'Livestream',
-            date: new Date('2021-02-19T18:00:00'),
-            description: `Der Bausektor verursacht einen hohen Ressourcenverbrauch und emittiert große Mengen an CO2. Mit Expert*innen aus Wissenschaft und Wirtschaft spricht unser Landtagskandidat Benjamin Kraff über Kreislaufwirtschaft und die Ökobilanzierung bei Bauprozessen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=NhHHjtm_jCA',
-              label: 'YouTube LiveStream'
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
             },
             {
               href: 'https://www.twitch.tv/klimalisterlp',
@@ -209,75 +239,11 @@
             }]
           },
           {
-            title: 'Kandidat*innen-Gespräch live und interaktiv mit Spitzenkandidatin Beatrice Bednarz',
-            location: 'Livestream',
-            date: new Date('2021-02-21T19:00:00'),
-            description: 'In diesem LiveStream könnt ihr unseren Kandiat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Im ersten Stream sprechen wir dazu mit Beatrice Bednarz. Sie ist unsere Spitzenkandidatin und Physikerin.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=hzbB0japXfk',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Klimawandel in Rheinland-Pfalz - Auswirkungen und Chancen',
-            location: 'Livestream',
-            date: new Date('2021-02-22T18:00:00'),
-            description: 'Klimawandel bekämpfen? Wer bitte soll denn das bezahlen? Manche macht dieser Gedanke mutlos, doch es gibt Lösungen.  Unser Gast Ralf Wein berät Kommunen und Privatpersonen dabei klimaneutraler zu werden. Kurt Hähn, Landwirt und Inhaber des Bauernhofs „Scheidterhof“ berichtet über Änderungen auf dem Land. Ihn hat dies bewegt neue Wege zu gehen um die Zukunft positiv mitzugestalten.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=1Z6HgE5YCgg',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Gesunde & inklusive Stadt?',
-            location: 'Livestream',
-            date: new Date('2021-02-26T18:00:00'),
-            description: `Zu Gast: Landschafts-Archichtekt Dirk Schelhorn. Gemeinsam mit Benajmin Kraff und Mikio Weiß sprechen wir über Gesundheit, Klimaresilienz und die Frage: wie schaffen wir kühle Städte und verhindern Hitzetote?`,
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=TtTnAySrZGU',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },/*
-          {
-            title: 'Transformation der Energiewirtschaft',
-            location: 'Livestream',
-            date: new Date('2021-03-01T18:00:00'),
-            description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit der Klimaliste BaWü sprechen wir über die Zukunft der Energie und welche Veränderungen es dringend braucht.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Gute Zukunft für alle - Klimagerechtigkeit!',
-            location: 'Livestream',
-            date: new Date('2021-03-05T18:00:00'),
-            description: `Zu Gast: Prof. Claudia Kempfert Dt. Institut für Wirt.-forschung & LUL. Gemeinsam mit unserer Landtagskandidatin Greta Waltenberg sprechen wir über Klimagerechtigkeit und die Frage, wie wir verschiedene soziale Kämpfe im Kampf gegen den Klimawandel vereinen.`,
-            actionLink: [{
-              href: 'https://www.youtube.com/channel/UC8Rg4hF5OfDKSaBW0kSqXzw?sub_confirmation=1',
-              label: 'YouTube'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          }*/
+            title: 'Info-Stand',
+            location: 'Mainz, am Rhein, Höhe Rathaus',
+            date: new Date('2021-03-13T10:00:00'),
+            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
+          }
         ]
       }
     },
