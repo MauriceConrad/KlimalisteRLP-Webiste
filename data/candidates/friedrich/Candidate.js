@@ -12,6 +12,6 @@ export default {
   description: `
     Klimaschützer
   `,
-  job: 'Sozialökonom',
+  job: 'Nachhaltigkeitsökonom',
   about: About
 }
