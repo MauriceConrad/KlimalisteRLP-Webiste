@@ -203,30 +203,6 @@
         calendar: [
           {
             title: 'Info-Stand',
-            location: 'Mainz, Leichhof',
-            date: new Date('2021-03-11T10:00:00'),
-            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
-          },
-          {
-            title: 'Landtagskandidat David Schwarz: Kandidat*innen-Gespräch live und interaktiv',
-            location: 'Livestream',
-            date: new Date('2021-03-11T19:00:00'),
-            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Wir sprechen im Stream dazu mit David Schwarz. Er ist Landtagskandidat und Unternehmensberater.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=GzdB0j90dzk',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.instagram.com/klimalisterlp/',
-              label: 'Instagram Livestream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
-            title: 'Info-Stand',
             location: 'Ludwigshafen, Rheininsel',
             date: new Date('2021-03-12T10:00:00'),
             description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
