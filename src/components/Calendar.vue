@@ -232,6 +232,16 @@
             description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
           },
           {
+            title: 'Wahl-Endspurt: 53 Stunden Bürger*innen-Gespräch',
+            location: 'Online Meeting',
+            date: new Date('2021-03-12T11:55:00'),
+            description: 'Der Endspurt zur Wahl! Wer noch Fragen hat oder mit uns diskutieren möchte, kann das jederzeit tun. Unsere Mitglieder*innen erläutern gerne online unser Wahlprogramm - den Klimaplan, beantworten alle Fragen und diskutieren. Schaut gerne rein! 👋🙂 Fr 11:55 - So 16:55',
+           actionLink: [{
+              href: 'https://zoom.us/meeting/tJwqc-qprz0qGN1eqP5Ta4y9lbLkDLQ7iG-M/ics?icsToken=98tyKuCgqT8pG9WTsBuORow-B4-gb-vzmCFfjY0MmQ7VVhRSNhqvOuBuOZZTIY_Z',
+              label: 'Zoom Online Meeting'
+           }]
+          },
+          {
             title: 'Info-Stand',
             location: 'Mainz, am Rhein, Höhe Rathaus',
             date: new Date('2021-03-13T10:00:00'),
