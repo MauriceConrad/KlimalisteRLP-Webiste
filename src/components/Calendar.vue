@@ -208,6 +208,24 @@
             description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
           },
           {
+            title: 'Landtagskandidatin Kaycee Hesse: Kandidat*innen-Gespräch live und interaktiv',
+            location: 'Livestream',
+            date: new Date('2021-03-12T19:00:00'),
+            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Wir sprechen im Stream dazu mit Kaycee Hesse. Sue ist Landtagskandidat und Klimaschutz-Aktivistin.',
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=jMUyLDUUDCE',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
+          },
+          {
             title: 'Wahl-Endspurt: 53 Stunden Bürger*innen-Gespräch',
             location: 'Online Meeting',
             date: new Date('2021-03-12T11:55:00'),
@@ -216,6 +234,24 @@
               href: 'https://zoom.us/meeting/tJwqc-qprz0qGN1eqP5Ta4y9lbLkDLQ7iG-M/ics?icsToken=98tyKuCgqT8pG9WTsBuORow-B4-gb-vzmCFfjY0MmQ7VVhRSNhqvOuBuOZZTIY_Z',
               label: 'Zoom Online Meeting'
            }]
+          },
+          {
+            title: 'Spitzenduo Beatrice Bednarz und Maurice Conrad im Kandidat*innen-Gespräch live und interaktiv',
+            location: 'Livestream',
+            date: new Date('2021-03-13T19:00:00'),
+            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Im diesem Stream sprechen wir dazu mit Beatrice Bednarz und Maurice Conrad. Sie sind unser Spitzenduo für den Landtag.',
+            actionLink: [{
+              href: 'https://www.youtube.com/watch?v=-TJz3w5Atps',
+              label: 'YouTube LiveStream'
+            },
+            {
+              href: 'https://www.instagram.com/klimalisterlp/',
+              label: 'Instagram Livestream'
+            },
+            {
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch LiveStream'
+            }]
           },
           {
             title: 'Info-Stand',
