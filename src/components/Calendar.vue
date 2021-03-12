@@ -231,7 +231,7 @@
             date: new Date('2021-03-12T11:55:00'),
             description: 'Der Endspurt zur Wahl! Wer noch Fragen hat oder mit uns diskutieren möchte, kann das jederzeit tun. Unsere Mitglieder*innen erläutern gerne online unser Wahlprogramm - den Klimaplan, beantworten alle Fragen und diskutieren. Schaut gerne rein! 👋🙂 Fr 11:55 - So 16:55',
            actionLink: [{
-              href: 'https://zoom.us/meeting/tJwqc-qprz0qGN1eqP5Ta4y9lbLkDLQ7iG-M/ics?icsToken=98tyKuCgqT8pG9WTsBuORow-B4-gb-vzmCFfjY0MmQ7VVhRSNhqvOuBuOZZTIY_Z',
+              href: 'https://zoom.us/j/98743116029?pwd=MEdRYmlidGY2VlFnTmdjbEo4azM3dz09',
               label: 'Zoom Online Meeting'
            }]
           },
