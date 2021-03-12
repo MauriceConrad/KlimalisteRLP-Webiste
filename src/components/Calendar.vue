@@ -220,8 +220,8 @@
           {
             title: 'Info-Stand',
             location: 'Ludwigshafen, Parkinsel',
-            date: new Date('2021-03-13T10:00:00'),
-            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
+            date: new Date('2021-03-13T11:00:00'),
+            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 11:00-15:00 Uhr'
           },
           {
             title: 'Spitzenduo Beatrice Bednarz und Maurice Conrad im Kandidat*innen-Gespräch live und interaktiv',
