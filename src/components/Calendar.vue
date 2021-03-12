@@ -202,30 +202,6 @@
       return {
         calendar: [
           {
-            title: 'Info-Stand',
-            location: 'Ludwigshafen, Rheininsel',
-            date: new Date('2021-03-12T10:00:00'),
-            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
-          },
-          {
-            title: 'Landtagskandidatin Kaycee Hesse: Kandidat*innen-Gespräch live und interaktiv',
-            location: 'Livestream',
-            date: new Date('2021-03-12T19:00:00'),
-            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Wir sprechen im Stream dazu mit Kaycee Hesse. Sue ist Landtagskandidat und Klimaschutz-Aktivistin.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=jMUyLDUUDCE',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.instagram.com/klimalisterlp/',
-              label: 'Instagram Livestream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
-          },
-          {
             title: 'Wahl-Endspurt: 53 Stunden Bürger*innen-Gespräch',
             location: 'Online Meeting',
             date: new Date('2021-03-12T11:55:00'),
@@ -234,6 +210,12 @@
               href: 'https://zoom.us/j/98743116029?pwd=MEdRYmlidGY2VlFnTmdjbEo4azM3dz09',
               label: 'Zoom Online Meeting'
            }]
+          },
+          {
+            title: 'Info-Stand',
+            location: 'Mainz, am Rhein, Höhe Rathaus',
+            date: new Date('2021-03-13T10:00:00'),
+            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
           },
           {
             title: 'Spitzenduo Beatrice Bednarz und Maurice Conrad im Kandidat*innen-Gespräch live und interaktiv',
@@ -252,12 +234,6 @@
               href: 'https://www.twitch.tv/klimalisterlp',
               label: 'Twitch LiveStream'
             }]
-          },
-          {
-            title: 'Info-Stand',
-            location: 'Mainz, am Rhein, Höhe Rathaus',
-            date: new Date('2021-03-13T10:00:00'),
-            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
           }
         ]
       }
