@@ -51,7 +51,7 @@ export default [
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:lgo0815@gmail.com"
+        "href": "mailto:lutz.goebel@klimalisterlp.de"
       }
     ]
   },
@@ -106,7 +106,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:ursula.huebsch@gmail.com"
+        "href": "mailto:ulla.huebsch@klimalisterlp.de"
       }
     ]
   },
@@ -158,7 +158,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:ilonachrpist@yahoo.gr"
+        "href": "mailto:ilona.pistopoulou@klimalisterlp.de"
       }
     ]
   },
@@ -232,7 +232,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:daun.kevin@gmail.com"
+        "href": "mailto:kevin.daun@klimalisterlp.de"
       }
     ]
   },
@@ -278,7 +278,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:r.feldmann@online.de"
+        "href": "mailto:robin.feldmann@klimalisterlp.de"
       }
     ]
   },
@@ -293,6 +293,12 @@ Zukunft`,
     "translate": [
       240,
       298
+    ],
+    "links": [
+       {
+        "label": "E-Mail",
+        "href": "mailto:govinda.ahuja@klimalisterlp.de"
+      }
     ]
   },
   {
@@ -345,7 +351,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:daun.kevin@gmail.com"
+        "href": "mailto:kevin.daun@klimalisterlp.de"
       }
     ]
   },
@@ -364,7 +370,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:daun.kevin@gmail.com"
+        "href": "mailto:kevin.daun@klimalisterlp.de"
       }
     ]
   },
@@ -383,7 +389,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:philiptrost93@gmail.com"
+        "href": "mailto:philip.trost@klimalisterlp.de"
       }
     ]
   },
@@ -402,7 +408,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:philiptrost93@gmail.com"
+        "href": "mailto:philip.trost@klimalisterlp.de"
       }
     ]
   },
@@ -951,7 +957,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:wuerth.friederike@gmx.de"
+        "href": "mailto:frederike.wuerth@klimalisterlp.de"
       }
     ]
   },
@@ -999,7 +1005,7 @@ Zukunft`,
     "links": [
       {
         "label": "E-Mail",
-        "href": "mailto:julia.bauer-online@web.de"
+        "href": "mailto:julia.bauer@klimalisterlp.de"
       }
     ]
   }
