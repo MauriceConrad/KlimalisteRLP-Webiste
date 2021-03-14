@@ -204,42 +204,12 @@
           {
             title: 'Wahl-Endspurt: 53 Stunden Bürger*innen-Gespräch',
             location: 'Online Meeting',
-            date: new Date('2021-03-12T11:55:00'),
+            date: new Date('2021-03-14T00:00:00'),
             description: 'Der Endspurt zur Wahl! Wer noch Fragen hat oder mit uns diskutieren möchte, kann das jederzeit tun. Unsere Mitglieder*innen erläutern gerne online unser Wahlprogramm - den Klimaplan, beantworten alle Fragen und diskutieren. Schaut gerne rein! 👋🙂 Fr 11:55 - So 16:55',
            actionLink: [{
               href: 'https://zoom.us/j/98743116029?pwd=MEdRYmlidGY2VlFnTmdjbEo4azM3dz09',
               label: 'Zoom Online Meeting'
            }]
-          },
-          {
-            title: 'Info-Stand',
-            location: 'Mainz, am Rhein, Höhe Rathaus',
-            date: new Date('2021-03-13T10:00:00'),
-            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 10:00-17:00 Uhr'
-          },
-          {
-            title: 'Info-Stand',
-            location: 'Ludwigshafen, Parkinsel',
-            date: new Date('2021-03-13T11:00:00'),
-            description: 'Wir informieren euch über die Kernpunkte unseres Klimaplan. Außerdem könnt ihr uns eure Fragen stellen und mit uns diskutieren. Natürlich Corona-konform! 11:00-15:00 Uhr'
-          },
-          {
-            title: 'Spitzenduo Beatrice Bednarz und Maurice Conrad im Kandidat*innen-Gespräch live und interaktiv',
-            location: 'Livestream',
-            date: new Date('2021-03-13T19:00:00'),
-            description: 'In diesem LiveStream könnt ihr unseren Kandidat*innen alle Fragen zu unserem Wahlprogramm - dem Klimaplan, zum 1,5-Grad-Ziel für Rheinland-Pfalz und zu allen weiteren Themen stellen und mit ihnen diskutieren. Im diesem Stream sprechen wir dazu mit Beatrice Bednarz und Maurice Conrad. Sie sind unser Spitzenduo für den Landtag.',
-            actionLink: [{
-              href: 'https://www.youtube.com/watch?v=-TJz3w5Atps',
-              label: 'YouTube LiveStream'
-            },
-            {
-              href: 'https://www.instagram.com/klimalisterlp/',
-              label: 'Instagram Livestream'
-            },
-            {
-              href: 'https://www.twitch.tv/klimalisterlp',
-              label: 'Twitch LiveStream'
-            }]
           }
         ]
       }
