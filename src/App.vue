@@ -2,6 +2,17 @@
   <div id="app" style="margin: 0; padding: 0;">
     <Navigation></Navigation>
     <PageHeader :background="content.bg"></PageHeader>
+    <a href="https://blog.klimalisterlp.de/lucke-wahlen-gegen-lucke-im-klimaschutz/" target="_blank">
+      <div class="article-special">
+        <div class="preview" :style="{ 'background-image': `url('https://blog.klimalisterlp.de/content/images/size/w1100/2021/02/image0.png')` }" />
+        <div class="description">
+          <h3>WIR SIND WÄHLBAR</h3>
+          <div class="text">
+            Als wir am Freitag, den 5.02. die ersten Wahlzettel in der Hand hielten, wurden wir stutzig. In der ersten Spalte hinter dem Kreis zum Ankreuzen steht bei allen anderen Parteien und Wählervereinigungen die fett gedruckte Abkürzung (CDU, SPD…) oder auch der volle Titel (z.B. Tierschutzpartei)...
+          </div>
+        </div>
+      </div>
+    </a>
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
     <!--<SupportTutorial></SupportTutorial>-->
     <Calendar></Calendar>
@@ -15,17 +26,46 @@
     <ProgramView></ProgramView>
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <Spend></Spend>
-    <!-- <Contribute></Contribute> -->
     <Blog></Blog>
+    <!-- <Contribute></Contribute> -->
     <Contact></Contact>
     <PageFooter></PageFooter>
   </div>
 </template>
 
-<style>
+<style scoped>
   hr {
     margin: 0;
     border-top: 1px solid rgb(223, 223, 223);
+  }
+  a {
+    color: inherit;
+    text-decoration: inherit;
+  }
+  .article-special {
+    background-color: rgb(227, 227, 227);
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    padding: 15px;
+    margin: 20px auto;
+    cursor: pointer;
+  }
+  .article-special .preview {
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+
+    height: 250px;
+  }
+  .article-special .description {
+    font-family: 'Montserrat', 'Helvetica', sans-serif;
+  }
+  .article-special .description h3 {
+
+  }
+  .article-special .description .text {
+    font-weight: 300;
   }
 </style>
 
