@@ -202,12 +202,12 @@
       return {
         calendar: [
           {
-            title: 'Wahl-Endspurt: 53 Stunden Bürger*innen-Gespräch',
+            title: 'Bürger*innen-Sprechstunde',
             location: 'Online Meeting',
-            date: new Date('2021-03-14T00:00:00'),
-            description: 'Der Endspurt zur Wahl! Wer noch Fragen hat oder mit uns diskutieren möchte, kann das jederzeit tun. Unsere Mitglieder*innen erläutern gerne online unser Wahlprogramm - den Klimaplan, beantworten alle Fragen und diskutieren. Schaut gerne rein! 👋🙂 Fr 11:55 - So 16:55',
+            date: new Date('2021-03-24T20:00:00'),
+            description: 'Wie geht es nach der Wahl weiter? Jede*r ist herzlich eingeladen Fragen zu stellen, Input zu geben oder einfach nur neugierig zuzuhören. 🙂 Mittwoch 24.3., 20:00',
            actionLink: [{
-              href: 'https://zoom.us/j/98743116029?pwd=MEdRYmlidGY2VlFnTmdjbEo4azM3dz09',
+              href: 'zoom.us/j/95886710846?pwd=Uk9JYU1RU1gycGFIbzVYaTZ2cit5UT09',
               label: 'Zoom Online Meeting'
            }]
           }
