@@ -10,7 +10,7 @@
           </g>
         </svg>
       </div>
-      Hilf mit, unseren Wahlkampf bis zum 14. März zu ermöglichen!
+      <!-- Hilf mit, unseren Wahlkampf bis zum 14. März zu ermöglichen! -->
     </div>
 
     <SpendWiget :current="current" :goals="[5000, 10000, 25000, 50000, 100000, 500000]" />
@@ -18,15 +18,15 @@
     <div class="description">
       <p>
       Wir sind sehr stolz darauf, keinen Mitgliedbeitrag zu erheben, um allen Menschen, unabhängig ihres Einkommens, eine Mitgliedschaft zu ermöglichen.
-Deshalb sind wir aber umso mehr auf Spenden von Privatpersonen angewiesen, um unseren <strong>Wahlkampf</strong> zu finanzieren. Dadurch gewährleisten wir unsere Unabhängigkeit. Als junge Wählervereinigung nehmen wir noch nicht an der Wahlkampfkostenerstattung teil.
+<!-- Deshalb sind wir aber umso mehr auf Spenden von Privatpersonen angewiesen, um unseren <strong>Wahlkampf</strong> zu finanzieren. Dadurch gewährleisten wir unsere Unabhängigkeit. Als junge Wählervereinigung nehmen wir noch nicht an der Wahlkampfkostenerstattung teil. -->
       </p>
-      <p>
+<!--       <p>
       Aktuell sind 50.000€ unser Ziel, um einen effektiven Wahlkampf durchzuführen. Natürlich hilft es uns noch mehr, wenn wir ein höheres Budget zur Verfügung haben.
       Egal wie hoch der Betrag ist: Jede Spende hilft uns weiter.
-      </p>
+      </p> -->
       <p>
       Spenden an Wähler*innenvereinigungen sind besonders <strong>steuerlich abzugsfähig</strong>. <strong>50%</strong> werden direkt von der Einkommensteuer abgezogen. Von jährlich bis zu <strong>1.650€</strong> bei Ledigen, bzw <strong>3.300€</strong> bei gemeinsam Veranlagten.
-      Beispiel: Es reduziert eine Spende von 1000€, die zu zahlende Einkommenssteuer um 500€. So zahlen Sie effektiv 500€ und es kommen trotzdem 1000€ bei uns, zur Finanzierung des Wahlkampfes, an.
+      Beispiel: Es reduziert eine Spende von 1000€, die zu zahlende Einkommenssteuer um 500€. So zahlen Sie effektiv 500€ und es kommen trotzdem 1000€ bei uns an.
     </p>
     </div>
 

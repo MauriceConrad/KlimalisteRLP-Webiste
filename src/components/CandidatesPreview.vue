@@ -4,12 +4,12 @@
     <div class="intro-container">
       <div class="intro-text" v-html="content.intro"></div>
     </div>
-    <div class="wrapper">
+<!--     <div class="wrapper">
       <div class="iframe-container">
         <iframe src="https://www.youtube.com/embed/RJqKHvmuB2g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-    </div>
-    <h3>Unsere Listenkandidaten*innen</h3>
+    </div> -->
+    <!-- <h3>Unsere Listenkandidaten*innen</h3>
     <div class="candidates-list">
       <ul>
         <li v-for="(item, index) in candidates" :key="index" ref="candidateItems" :class="{ active: index == activeCandidateIndex }" @click="selectCandidate(index)">
@@ -23,16 +23,16 @@
           </div>
         </li>
       </ul>
-    </div>
-    <div class="candidates-view" v-if="activeCandidate">
+    </div> -->
+<!--     <div class="candidates-view" v-if="activeCandidate">
       <div class="content-inner" :style="{ 'clip-path': arrowClipPath }">
         <div class="bg-container" :style="{ 'filter': 'blur(' + activeCandidate.bgBlur + ')' }">
           <div class="bg-element" :style="{ 'background-image': `url('${ activeCandidate.bg }')`, 'background-position': activeCandidate.bgPos }"></div>
         </div>
         <article class="about-article" v-html="activeCandidate.about"></article>
       </div>
-    </div>
-    <div class="more-container">
+    </div> -->
+    <!-- <div class="more-container">
       <a href="files/Landesliste.pdf" target="_blank">Vollständige Landesliste + Direktkandidaten*innen</a>
     </div>
     <h2>Unsere Ansage zur Landtagswahl</h2>
@@ -41,7 +41,7 @@
       <div class="iframe-container">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/CxxBZ0yajlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-    </div>
+    </div> -->
     <div class="info-box">
       <span class="label"><h3>Höre den <strong>Klimaplan</strong> als Podcast</h3></span>
       <ul class="podcast-links">
