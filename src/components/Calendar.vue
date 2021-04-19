@@ -1,6 +1,6 @@
 <template>
   <div class="calendar-container" data-nav-id="Veranstaltungen">
-    <h3>Veranstaltungs-Kalender</h3>
+   <!--  <h3>Veranstaltungs-Kalender</h3>
 
     <div class="date-items">
       <ul>
@@ -39,7 +39,7 @@
 
         </li>
       </ul>
-    </div>
+    </div> -->
     <div class="challange-description">
       <h3>Escape Room</h3>
       <p>

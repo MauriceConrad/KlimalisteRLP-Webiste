@@ -2,7 +2,7 @@
   <div id="app" style="margin: 0; padding: 0;">
     <Navigation></Navigation>
     <PageHeader :background="content.bg"></PageHeader>
-    <a href="https://blog.klimalisterlp.de/lucke-wahlen-gegen-lucke-im-klimaschutz/" target="_blank">
+  <!--   <a href="https://blog.klimalisterlp.de/lucke-wahlen-gegen-lucke-im-klimaschutz/" target="_blank">
       <div class="article-special">
         <div class="preview" :style="{ 'background-image': `url('https://blog.klimalisterlp.de/content/images/size/w1100/2021/02/image0.png')` }" />
         <div class="description">
@@ -12,21 +12,23 @@
           </div>
         </div>
       </div>
-    </a>
+    </a> -->
     <CandidatesPreview background="rgb(249, 249, 249)"></CandidatesPreview>
-    <!--<SupportTutorial></SupportTutorial>-->
+    <!--<SupportTutorial></SupportTutorial>-->    
+    <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
+    <LocalCandidatesApp></LocalCandidatesApp>
+    <Spend></Spend>
     <Calendar></Calendar>
+    <Blog></Blog>
     <hr />
     <!--<SupportTutorial></SupportTutorial>-->
     <Description background="#fff"></Description>
     <Overview background="#fff"></Overview>
     <QuotesView></QuotesView>
     <hr />
-    <LocalCandidatesApp></LocalCandidatesApp>
+
     <ProgramView></ProgramView>
-    <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
-    <Spend></Spend>
-    <Blog></Blog>
+
     <!-- <Contribute></Contribute> -->
     <Contact></Contact>
     <PageFooter></PageFooter>
