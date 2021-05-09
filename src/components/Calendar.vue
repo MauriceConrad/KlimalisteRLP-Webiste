@@ -1,6 +1,6 @@
 <template>
   <div class="calendar-container" data-nav-id="Veranstaltungen">
-   <!--  <h3>Veranstaltungs-Kalender</h3>
+-  <h3>Veranstaltungs-Kalender</h3>
 
     <div class="date-items">
       <ul>
@@ -39,23 +39,23 @@
 
         </li>
       </ul>
-    </div> -->
-    <div class="challange-description">
-      <h3>Escape Room</h3>
-      <p>
-        Spitzenduo der Klimaliste RLP entführt und Klimaplan gelöscht! Wer kann das gewesen sein?
-        <br>
-        <a href="https://blog.klimalisterlp.de/spitzenduo-der-klimaliste-rlp-entfuhrt-wer-kann-sie-finden/" target="_blank">Was ist passiert?</a>
-      </p>
-      <div class="">
-        <a href="https://tatortklimaplan.de/" target="_blank">
-          <button class="btn">
-            "Tatort Klimaplan"
-          </button>
-        </a>
-      </div>
     </div>
-  </div>
+  <!--   <div class="challange-description"> -->
+  <!--     <h3>Escape Room</h3> -->
+  <!--     <p> -->
+  <!--       Spitzenduo der Klimaliste RLP entführt und Klimaplan gelöscht! Wer kann das gewesen sein? -->
+  <!--       <br> -->
+  <!--       <a href="https://blog.klimalisterlp.de/spitzenduo-der-klimaliste-rlp-entfuhrt-wer-kann-sie-finden/" target="_blank">Was ist passiert?</a> -->
+  <!--     </p> -->
+  <!--     <div class=""> -->
+  <!--       <a href="https://tatortklimaplan.de/" target="_blank"> -->
+  <!--         <button class="btn"> -->
+  <!--           "Tatort Klimaplan" -->
+  <!--         </button> -->
+  <!--       </a> -->
+  <!--     </div> -->
+  <!--   </div> -->
+  </div> 
 </template>
 
 <style scoped>
@@ -201,6 +201,19 @@
     data() {
       return {
         calendar: [
+  {
+            title: 'Koalitionsvertrag Rheinland-Pfalz - Aufbruch zur Klimaneutraliät?',
+            location: 'Stream',
+            date: new Date('2021-05-11T19:00:00'),
+            description: 'Stellt der neue Koalitionsvertrag endlich den Aufbruch zur Klimaneutralität dar? Dazu diskutieren  Mikio Weiss, Kaycee Hesse, Regine Deutsch (Beisitzende Bundesvorstand Demokratie in Bewegung), Matthias Reimann (Netzwerk Blühende Landschaften), Smilla Friedel (Fridays for Future)',
+           actionLink: [{
+              href: 'https://www.youtube.com/watch?v=iNizcial0ZI',
+              label: 'YouTube'
+           },{
+              href: 'https://www.twitch.tv/klimalisterlp',
+              label: 'Twitch'
+            }]
+          }
         ]
       }
     },
