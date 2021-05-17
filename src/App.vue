@@ -18,7 +18,7 @@
     <SupportEasy background="rgb(36, 36, 36)"></SupportEasy>
     <LocalCandidatesApp></LocalCandidatesApp>
     <Spend></Spend>
-    <Calendar></Calendar>
+    <!-- Calendar></Calendar -->
     <Blog></Blog>
     <hr />
     <!--<SupportTutorial></SupportTutorial>-->
@@ -85,7 +85,7 @@
   import Contact from './components/Contact.vue';
   import PageFooter from './components/Footer.vue';
   import Blog from './components/Blog.vue';
-  import Calendar from './components/Calendar.vue';
+  //import Calendar from './components/Calendar.vue';
 
   import Spend from './components/Spend.vue';
 
@@ -109,7 +109,7 @@
       ProgramView,
       Blog,
       Spend,
-      Calendar,
+      //Calendar,
       //SupportTutorial,
       //Contribute,
       Contact,
